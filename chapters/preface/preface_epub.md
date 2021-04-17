@@ -139,15 +139,15 @@ Alexander Kutschin, Ozeanograph aus Rußland.<br />
 * [Der Fram.](ch002.xhtml#b001)
 * [Hissung der Flagge.](ch002.xhtml#b006)
 * [Polarhunde.](ch002.xhtml#b008)  (Schlußstück)
-* Roald Amundsen in Polartracht (Condruck)
-* Hüttenbau bei Framhein
-* „Am 10. Februar begannen wir uns in südlicher Richtung durchzuarbeiten, um Vorratslager zu errichten“
-* Pinguine
-* Auf der Seehundjagd
-* Betty-Gipfel, 85° 7´ südlicher Breite
-* Vorratslager auf 8° südlicher Breite
-* Der Fram in der Walfischbucht
-* Der Anfang von Roald Amundsens Werk in der Urschrift wiedergegeben.
+* [Roald Amundsen in Polartracht.](ch002.xhtml#b009) (Condruck)
+* [Hüttenbau bei Framheim.](ch003.xhtml#b010)
+* [„Am 10. Februar begannen wir uns in südlicher Richtung durchzuarbeiten, um Vorratslager zu errichten“](ch003.xhtml#b011)
+* [Pinguine.](ch003.xhtml#b012)
+* [Auf der Seehundjagd.](ch003.xhtml#b013)
+* [Betty-Gipfel, 85° 7´ südlicher Breite.](ch003.xhtml#b017)
+* [Vorratslager auf 84° südlicher Breite.](ch003.xhtml#b021)
+* [Der Fram in der Walfischbucht.](ch003.xhtml#b021)
+* [Der Anfang von Roald Amundsens Werk in der Urschrift wiedergegeben.](ch003.xhtml#b026b)
 * J. Cook
 * Scott-Felsen auf König Eduard VII.-Sand
 * J. Cook bei der Eisinsel am 9. Januar 1775

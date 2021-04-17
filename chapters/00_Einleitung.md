@@ -160,7 +160,7 @@ Es sieht fast aus, als hinge dieses Land mit den Ländermassen und mächtigen
 Gebirgsketten zusammen, die Amundsen in der Nähe des Pols fand; und schon sehen
 wir neue Probleme aufdämmern.
 
-:::: {.wrap-70}
+:::: {.wrap-60}
 ![](Die_Eroberung_des_Suedpols_Vol_I_006.jpg "Hissung der Flagge."){#b006}
 ::::
 
@@ -213,19 +213,23 @@ Und die Tat leuchtet hell für alle Zeiten.
 
 <br /><br />Lysaker, 3. Mai 1912.
 
-:::: { .align-right }
+:::: align-right
 `Fridtjof Nansen.`
 ::::
 
-:::: {.wrap-100}
-![](Die_Eroberung_des_Suedpols_Vol_I_008.jpg "Polarhunde."){#b006}
+:::: {  .wrap-50  }
+![](Die_Eroberung_des_Suedpols_Vol_I_008.jpg "Polarhunde."){#b008}
 ::::
-
-:::
 
 :::: align-center
 ****
 ::::
+
+:::: { .break-before .wrap-60   }
+![Roald Amundsen in Polartracht.](Die_Eroberung_des_Suedpols_Vol_I_009.jpg "Roald Amundsen in Polartracht."){#b009}
+::::
+
+:::
 
 #### **Anmerkungen** {.break-before .unnumbered}
 
