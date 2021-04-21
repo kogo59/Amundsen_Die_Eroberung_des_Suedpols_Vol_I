@@ -331,7 +331,6 @@ Der Fram erreichte die Walfischbucht erst am 9. Januar, da er durch starke
 
 Am 16. Januar erreichte die japanische Forschungsreise die Walfischbucht und das
 Land bei der Eisplatte in der Nähe unseres Winterlagers.
-:::
 
 :::: { .break-before .wrap-60   }
 ![Der Fram in der Walfischbucht.](Die_Eroberung_des_Suedpols_Vol_I_025.jpg "Der Fram in der Walfischbucht."){#b025}
@@ -347,6 +346,8 @@ und so dauerte die Reise sehr lange. Es geht uns allen ausgezeichnet.
 :::: { .wrap-100  }
 ![Der Anfang von Roald Amundsens Werk in der Urschrift wiedergegeben.](Die_Eroberung_des_Suedpols_Vol_I_026b.jpg "Der Anfang von Roald Amundsens Werk in der Urschrift wiedergegeben."){#b026b}
 ::::
+
+:::
 
 :::: align-center
 ****

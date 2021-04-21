@@ -148,37 +148,37 @@ Alexander Kutschin, Ozeanograph aus Rußland.<br />
 * [Vorratslager auf 84° südlicher Breite.](ch003.xhtml#b021)
 * [Der Fram in der Walfischbucht.](ch003.xhtml#b021)
 * [Der Anfang von Roald Amundsens Werk in der Urschrift wiedergegeben.](ch003.xhtml#b026b)
-* J. Cook
-* Scott-Felsen auf König Eduard VII.-Sand
-* J. Cook bei der Eisinsel am 9. Januar 1775
-* Fabian Gottlieb von Bellingshausen
-* Bellingshausens Schiffe „Wostok“ und „Mirni“ bei der Macquarie-Insel
-* Jakob Weddell
-* Jakob Weddells Schiffe „Jane“ und „Beaufoy“ auf dem 68.°, Februar 1823
-* Dumont d'Urville
-* Astrolabe im Eis
-* D'Urvilles Schiffe
-* Hissung der französischen Flagge auf Adelie-Land
-* Die Schiffe von Roß, Erebus und Terror, im Packeis
-* Jakob Clark Roß
-* Possession-Insel
-* Die Possession-Insel und (hinten) der Sabine-Berg, entdeckt am 11. Januar 1841
-* Vulkanberg Erebus, den Roß am 28. Januar 1841 sah
-* Kante der Eisplatte unter 78° 15´ s. Br.
-* Pinguinfang
-* Erebus-Krater, 275 m tief und 800 m breit
-* Seehundjagd
-* Der Zusammenstoß von Erebus und Terror mit dem Eisberg, 15. März 1842
-* „Erebus“ und „Terror“ nach dem Zusammenstoß, 15. März 1842
-* Geh. Admiralitätsrat Georg von Neumeyer (Tondruck)
-* Kapitän C. A. Larsen
-* Der „Antarktik“ im südlichen Eismeer
-* Danco-Land
-* Adrian von Gerlache
-* Belgica im Eis
-* Kaiserpinguin
-* Carsten Vorchgrevink
-* Southern Croß
+* [J. Cook](ch004.xhtml#b032)
+* [Scott-Felsen auf König Eduard VII.-Land.](ch004.xhtml#b033)
+* [J. Cook bei der Eisinsel am 9. Januar 1775.](ch004.xhtml#b035)
+* [Fabian Gottlieb von Bellingshausen.](ch004.xhtml#b038)
+* [Bellingshausens Schiffe „Wostok“ und „Mirni“ bei der Macquarie-Insel.](ch004.xhtml#b039)
+* [Jakob Weddell.](ch004.xhtml#b040)
+* [Jakob Weddells Schiffe „Jane“ und „Beaufoy“ auf dem 68.°, Februar 1823.](ch004.xhtml#b041)
+* [Dumont d'Urville](ch004.xhtml#b043)
+* [Astrolabe im Eis.](ch004.xhtml#b044)
+* [D'Urvilles Schiffe.](ch004.xhtml#b045a)
+* [Hissung der französischen Flagge auf Adelie-Land.](ch004.xhtml#b045b)
+* [Die Schiffe von Roß, Erebus und Terror, im Packeis.](ch004.xhtml#b048)
+* [Jakob Clark Roß.](ch004.xhtml#b046)
+* [Possession-Insel.](ch004.xhtml#b051)
+* [Die Possession-Insel und (hinten) der Sabine-Berg, entdeckt am 11. Januar 1841.](ch004.xhtml#b053)
+* [Vulkanberg Erebus, den Roß am 28. Januar 1841 sah.](ch004.xhtml#b055)
+* [Kante der Eisplatte unter 78° 15´ s. Br.](ch004.xhtml#b056)
+* [Pinguinfang.](ch004.xhtml#b058)
+* [Erebus-Krater, 275 m tief und 800 m breit.](ch004.xhtml#b059)
+* [Seehundjagd.](ch004.xhtml#b062)
+* [Der Zusammenstoß von Erebus und Terror mit dem Eisberg, 15. März 1842.](ch004.xhtml#b067)
+* [„Erebus“ und „Terror“ nach dem Zusammenstoß, 15. März 1842.](ch004.xhtml#b071)
+* [Geh. Admiralitätsrat Georg von Neumeyer.](ch004.xhtml#b077) (Tondruck)
+* [Kapitän C. A. Larsen.](ch004.xhtml#b077a)
+* [Der „Antarktik“ im südlichen Eismeer.](ch004.xhtml#b078)
+* [Danco-Land.](ch004.xhtml#b079)
+* [Adrian von Gerlache.](ch004.xhtml#b080)
+* [Belgica im Eis.](ch004.xhtml#b084)
+* [Kaiserpinguin.](ch004.xhtml#b086)
+* [Carsten Vorchgrevink.](ch004.xhtml#b087)
+* [Southern Croß.](ch004.xhtml#b087)
 * R. F. Scott
 * Discovery
 * Mc Murdo-Sund
