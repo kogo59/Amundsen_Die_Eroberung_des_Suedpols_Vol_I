@@ -218,7 +218,7 @@ Menge Eisberge und durch  zusammenhängendes festes Packeis vereitelt. Auf 67°
 15´ s. Br. und 39° 35´ ö. L. wurde deshalb der Kurs gen Norden gerichtet. Die
 Jahreszeit war aber schon so weit vorgeschritten, daß der Gedanke an ein
 weiteres Vordringen aufgegeben werden mußte. Der Kurs wurde indes auf die
-neuentdeckten Kerguelen, Marionund die Crozetinseln zur Untersuchung der in
+neuentdeckten Kerguelen, Marion- und die Crozetinseln zur Untersuchung der in
 diesen Gegenden herrschenden Verhältnisse gehalten. Es gelang Cook — wieder
 durch eine Wendung nach Süden — in gerader Richtung auf 62° s. Br. und 95° ö. L.
 (24. Februar 1773) zu beweisen, daß diese Inseln nichts mit dem großen südlichen
@@ -265,7 +265,7 @@ Cooks Reisen hatten nicht nur reiche wissenschaftliche Ergebnisse gebracht,
 sondern sie waren auch wirtschaftlich betrachtet von großer Bedeutung. Seine
 Erzählung von der ungeheuren Menge Seehunde rings um Süd-Georgien gab den Anstoß
 zur Aussendung einer großen Zahl englischer Seehundjiäger. Im Jahr 1791 befanden
-sich rings um diese Inselgruppe 102 Schiffe von durchschnittlich 200 Connen und
+sich rings um diese Inselgruppe 102 Schiffe von durchschnittlich 200 Tonnen und
 einer Gesamtbesatzung von ungefähr 3000 Mann, und der Wert des Fangs betrug in
 diesem Jahr über 49½ Millionen Mark.
 
@@ -405,7 +405,7 @@ ausgeführt.
 
 Anfangs 1840 begegnen wir diesen zwei Schiffen wieder in den antarktischen
 Gewässern. Sie verließen Hobart am 1. Januar und fuhren in südöstlicher Richtung
-mit dem magnetischen NullMeridian als Ziel. Die Hauptaufgabe der Forschungsreise
+mit dem magnetischen Null-Meridian als Ziel. Die Hauptaufgabe der Forschungsreise
 war, nach Aussage der Führer, die Untersuchung der magnetischen Verhältnisse in
 der Nähe des magnetischen Südpols. Am 2. Januar wurde auf 66° 30´ s. Br. und
 138° 21´ ö. L. Land entdeckt. Mit Ausnahme von einigen wenigen kahl daliegenden
@@ -423,7 +423,7 @@ Besatzung. Am 17. Februar 1839 lag diese ganze mächtige antarktische Flotte im
 Oranienhafen, im südlichen Teil von Feuerland vereinigt. Von da wurde dann die
 Arbeit auf die verschiedenen Schiffe verteilt. Über die Ergebenisse dieser
 Unternehmung läßt sich schwer etwas Bestimmtes sagen. So viel ist sicher, daß
-verschiedene Forscher später an mehreren Stellen über Wilkes-Land hingesegelt
+verschiedene Forscher später an mehreren Stellen über Wilkes-Land^[^0284]^ hingesegelt
 sind. Was der Grund zu dieser fehlerhaften Kartenaufnahme sein mag, kann man
 jetzt unmöglich mehr beurteilen. Aus der Darstellung der ganzen Reise scheint
 indes doch hervorzugehen, daß es sich immerhin um ein ernstes Unternehmen
@@ -738,7 +738,7 @@ Roß schreibt: „Alle unsere Trossen zerrissen, und wir trieben auf den Wogen
 dahin. In aller Eile wurden die Segel gesetzt, und um uns in dem dichten Nebel
 nicht zu verlieren, mußten von beiden Schiffen beständig Schüsse gefeuert und
 Signale gegeben werden. Im Schutz eines Eisbergs, von ungefähr zwei Kilometer
-Durchmesser kreuzten wir den ganzen Tag und war—teten auf helles Wetter, um uns
+Durchmesser kreuzten wir den ganzen Tag und warteten auf helles Wetter, um uns
 einen möglichst günstigen Weg durch die Offnungen zu suchen. Aber gegen 9 Uhr
 abends brauste der Sturm von Norden her immer stärker und zwang uns, unsere
 Segel so weit wie nur möglich zu reffen. In einem Nu schwoll das Meer zu
@@ -1085,7 +1085,7 @@ dieser Weg versperrt war, dann wollte man Weddells Spuren zu folgen versuchen
 und auf diesem Wege die hohe südliche Breite gewinnen. Auf 61° s. Br. sah man
 den ersten Eisberg, und am 26. Dezember war das Packeis auf 52° w. L. erreicht;
 um von hier zwischen das Eis und das Festland hineinzugelangen, wurde die Fahrt
-in west—licher Richtung fortgesetzt.
+in westlicher Richtung fortgesetzt.
 
 Am 28. Dezember kam Joinville-Land in Sicht. An Bord des Terror meinte man Rauch
 aus tätigen Vulkanen aufsteigen zu sehen, aber Roß und seine Mannschaft waren
@@ -1259,7 +1259,6 @@ vermehren, unbenutzt vorübergehen.
 Als Arzt war `Friedrich A. Cook`^[^0265]^ aus Brooklyn tätig. Er stand in hoher Achtung
 an Bord, war allgemein beliebt, und sein ruhiges bestimmtes Wesen hatte einen
 ausgezeichneten Einfluß auf die Kranken. Im weiteren Verlaufe dieser
-
 Forschungsreise lag auf Cook eine sehr große Verantwortung; aber er war allem
 gewachsen und hatte wunderbaren Erfolg, sodaß er bei seiner besonders
 praktischen Veranlagung schließlich unentbehrlich war. Es ist nicht zu leugnen,
@@ -1527,15 +1526,1285 @@ Von da kehrte die Discovery nach der Mc. Murdo-Bucht^[^0281]^ zurück, der Roß
 ihren Namen gegeben hatte. Für das Winterlager wurde ein geeigneter Platz
 gesucht und alles vorbereitet, um dem Winter standhalten zu können. Auf einem
 der vielen Ausflüge, die während des Herbstes gemacht wurden, entdeckte man, daß
-das Land, auf dem die Gesellschaft überwinterte,
+das Land, auf dem die Gesellschaft überwinterte,  eine vom Hauptland durch den
+Mc. Murdo-Sund getrennte Insel war, die nun den Namen „Roß-Insel“ erhielt.
 
-S 116
+Diese Überwinterung fand auf einer viel höheren Breite statt als alle früheren,
+und sie verlief auch recht glücklich. Allerdings zeigten sich Spuren von
+Skorbut, aber durch eine verständige Behandlung gelang es, die Krankheit in den
+ersten Anfängen zu ersticken.
+
+:::: { .break-before  .wrap-60  }
+![R. F. Scott.](Die_Eroberung_des_Suedpols_Vol_I_091.jpg "R. F. Scott."){#b091}
+::::
+
+Mit dem Frühling begannen die Schlittenfahrten. Vorratslager wurden angelegt,
+und am 2. November 1902 machten sich Scott, Shackleton und Wilson bereit, um
+endgültig die Wanderung nach dem Süden zu unternehmen.
+
+Zu Anfang hatten sie 19 Hunde bei sich. Am 27. November überschritten sie den
+80.° s. Br. Aber sie kamen nur langsam vorwärts, die höchste Breite wurde am 30.
+Dezember erreicht, nämlich 82° 17´ s. Br. Neues Land wurde entdeckt — eine
+Fortsetzung von Süd-Victoria-Land. Das war eine Eiswelt! Hohe Berggipfel, der
+eine immer gewaltiger als der andere, ragten im Süden auf.
+
+Der Rückweg war ein fortgesetzter Kampf ums Leben. Von den Hunden erlag einer
+nach dem andern, und die Männer mußten die Schlitten selbst ziehen. Das ging
+ganz gut, solange sie gesund waren; aber dann erkrankte plötzlich Shackleton, so
+daß er nichts mehr leisten konnte, und von da an mußten die beiden andern die
+Schlitten allein ziehen.
+
+
+:::: { .break-before  .wrap-100  }
+![Discovery.](Die_Eroberung_des_Suedpols_Vol_I_092.jpg "Discovery."){#b092}
+::::
+
+Endlich am 3. Februar erreichten sie nach einer dreiundneunzigtägigen
+Abwesenheit ihr Schiff wieder.
+
+Indessen hatten Armitage und Skelton zum erstenmal, seit die Weltgeschichte
+besteht, die mächtige antarktische Festlandshochebene, die sich 2700 m ü. d. M.
+erhebt, erreicht.
+
+Im Lauf des Sommers erhielten auch die wissenschaftlichen Sammlungen reiche
+Beiträge.
+
+Das Entsatzschiff „Der Morgen“ war am 9. Dezember von Littleton abgefahren. Auf
+dem Weg kam es an der Roß-Insel vorbei, und am 25. Januar erblickte man weit
+drinnen die Mastspitzen der Discovery.
+
+Aber der Mc. Murdo-Sund lag während dieses ganzen Jahres zugefroren da, und so
+kehrte der Morgen am 3. März nach Hause zurück.
+
+Nun mußten da draußen in der öden Eisregion die Vorbereitungen zu einer zweiten
+Überwinterung getroffen werden; aber nachdem ein tüchtiger Vorrat frisches
+Fleisch herbeigeschafft worden war, konnte man der langen Nacht ohne Angst vor
+dem Skorbut entgegensehen.
+
+:::: { .break-before  .wrap-100  }
+![Mc Murdo-Sund.](Die_Eroberung_des_Suedpols_Vol_I_093.jpg "Mc Murdo-Sund."){#b093}
+::::
+
+Diesmal bestanden die Schlittenfahrten in der Hauptsache in einer von Scott
+geleiteten Reise auf die Eisplatte, und man fing auch schon sehr bald an, alle
+Vorbereitungen zu treffen, das Schiff aus dem nur zu guten Winterhafen
+hinauszubringen. Es bestand die Absicht, einen Kanal bis zum offenen Meer
+herauszusägen.
+
+Am 5. Januar 1904 traf „Der Morgen“ zum zweitenmale ein. Er war jetzt von der
+„Terra Nova“ begleitet, einem Seehundfänger aus Neufundland.
+
+Groß war der Schmerz, als er den Befehl brachte, daß die Discovery verlassen
+werden sollte, wenn es nicht gelinge, sie aus dem Eis herauszuschaffen.
+
+Dem Befehl, die Discovery zu verlassen, wurde, so hart es auch war, sogleich
+Folge geleistet. Die Instrumente und wissenschaftlichen Sammlungen sowie anderes
+Wertvolle wurden an Bord der Entsatzschiffe geschafft und alles zur Abfahrt
+bereit gemacht.
+
+Kaum war man damit fertig, als das Eis aufbrach; am 3. Februar bestand zwischen
+dem Meer und der Discovery nur noch eine Entfernung von 10 km. Nun wurde von
+allen Schiffen die gesamte Mannschaft zum Eissägen und Sprengen verwendet, und
+am 12. Februar war der Eisgürtel nur noch 3 Meilen breit. Am 14. Februar brach
+dann auch das übrige Eis so schnell vollends auf, daß alle Schiffe, ehe man
+sich's versah, dicht beieinander lagen.
+
+Von den Entsatzschiffen wurden 75 Tonnen Kohlen an Bord der Discovery gebracht.
+Das scheint merkwürdig wenig, da doch zwei vollbeladene Fahrzeuge zur Hilfe
+ausgeschickt worden waren; aber daran ließ sich nichts ändern.
+
+Während die Entsatzschiffe nach Hause reisten, zog Scott auf neue Forschungen
+aus. Wenn er diesmal genügend Kohlen gehabt hätte, hätte der unermüdliche
+Forscher wahrscheinlich noch viel mehr leisten können, als dies nunmehr der Fall
+war. Wilkes „Ringgolds Knoll“ und „Elds Peak“ wurden von der Karte gestrichen.
+Obgleich man nun im Gesichtskreis von Kap Hudson war, konnte man doch selbst
+beim schönsten Wetter nichts von diesem Land sehen.
+
+Am 19. März landete Scott in Laurie Cove auf den Aucklandinseln, und im
+September 1906 kehrte er mit reicher Ausbeute nach Hause zurück.
+
+Indessen hatte die deutsche Forschungsreise unter Professor `Erich von
+Drygalski`^[^0282]^ an einer anderen Stelle Ausgezeichnetes geleistet.
+
+Der Plan dieser Reise war, die antarktischen Gebiete südlich von der
+Kerguelen-Insel zu untersuchen, nachdem zuvor eine Niederlassung auf dieser
+Insel errichtet und ein Stab von wissenschaftlich gebildeten Männern
+ausgeschifft war, die da arbeiten konnten, während die Hauptaufgabe der
+Forschungsreise, die Fahrt in das Eis, ausgeführt wurde. Drygalskis Schiff, der
+„Gauß“ war in Kiel nach dem Muster des Fram gebaut worden. Der Führer des Gauß
+war Kapitän `Hans Ruser`^[^0283]^, ein erfahrener, tüchtiger Seemann der
+Hamburg-Amerika-Linie. Ruser war nicht zum erstenmal nach dem Süden unterwegs,
+hatte er doch auf der „Valdivia“ als erster Offizier gedient.
+
+&nbsp;v. Drygalski hatte sich die wissenschaftlich gebildeten Leute mit Verständnis
+und Sorgfalt ausgewählt, und bei seiner Abreise hätte er sicherlich keine
+bessere wissenschaftliche Hilfstruppe haben können.
+
+Am 14. August 1901 verließ das Schiff Kiel und hielt den Kurs auf Kapstadt. Auf
+diesem Teil der Fahrt wurde ein reichhaltiges ozeanographisches,
+meteorologisches und magnetisches Material gesammelt.
+
+Nachdem der Gauß die Crozet-Inseln besucht hatte, ankerte er am 31. Dezember im
+Royal-Sund der Kerguelen-Insel, und verblieb einen ganzen Monat dort; dann fuhr
+man weiter südwärts, um das Gebiet zwischen dem Kemp- und Knox-Land^[^0285]^ zu
+erforschen. Auf 60° s. Br. begegneten dem Schiff schon eine Menge Eisberge.
+
+Am 14. Februar hatten sie in der Nähe von Wilkes Termination-Land eine Lotung
+von 3460 m zu verzeichnen, sie konnten indes in dieser Gegend wegen des dichten
+Treibeises nur sehr langsam vorwärts kommen.
+
+Doch ganz plötzlich, am 19. Februar, loteten sie nur 264 m Tiefe in ganz
+eisfreiem Meer, und am Morgen des 21. Februar hatten sie Land in Sicht, das ganz
+mit Eis und Schnee bedeckt war. Doch hier wurde der Gauß von einem heftigen
+Sturm überrascht, der eine Menge Eisberge um ihn her zusammentrieb und Treibeis
+dazwischen schob, so daß keine Rede von irgendeinem Vorwärtskommen mehr sein
+konnte. Es blieb nichts anderes übrig, als in den sauren Apfel zu beißen und an
+die Überwinterung zu denken.
+
+:::: { .break-before  .wrap-60  }
+![Professor Erich von Drygalski.](Die_Eroberung_des_Suedpols_Vol_I_096.jpg "Professor Erich von Drygalski."){#b096}
+::::
+
+Nun wurden Beobachtungshäuser aus Eis gebaut und so rasch, als es die
+Bodenbeschaffenheit zuließ, Schlittenfahrten bewerkstelligt. In drei und einem
+halben Tage erreichten sie Land und entdeckten da 90 km von dem Schiffe entfernt
+einen ungefähr 300 m hohen kahlen Berg. Das Land erhielt den Namen Kaiser
+Wilhelm II.-Land und der Berg wurde Gaußberg getauft.
+
+Der Winter wurde mit Beobachtungen der verschiedensten Art verbracht. Das Wetter
+war außerordentlich stürmisch und kalt; aber der Winterhafen in Lee von den
+großen gestrandeten Eisbergen erwies sich als recht gut, so daß die Seefahrer
+kein einziges Mal unangenehmen Überraschungen ausgesetzt waren.
+
+:::: { .break-before  .wrap-60  }
+![Dr. Otto Nordenskjöld.](Die_Eroberung_des_Suedpols_Vol_I_097.jpg "Dr. Otto Nordenskjöld."){#b097}
+::::
+
+Am 8. Februar 1903 konnte der Gauß sich wieder rühren. Von dem Augenblick an, wo
+er ins offene Meer hinausgelangte, bis zum 9. Juni, wo er Kapstadt erreichte,
+wurden die wissenschaftlichen Beobachtungen fortgesetzt.
+
+Eine größere in die Augen fallende Entdeckung wurde nicht gemacht, aber eine
+wissenschaftliche Arbeit wurde geleistet, auf die das deutsche Volk stolz sein
+kann.
+
+Wenige antarktische Unternehmungen sind wohl so vorzüglich wissenschaftlich
+ausgestattet gewesen, wie es der Gauß sowohl in Beziehung auf die Ausrüstung als
+auch auf die Teilnehmer war.
+
+Mit Dr. `Otto Nordenskjöld`^[^0286]^ an der Spitze und von dem schon genannten Kapitän
+`C. A. Larsen` geführt, verließ die schwedische antarktische Forschungsreise am
+16. Oktober 1901 an Bord des „Antarktik“ Gotenburg. Der wissenschaftliche Stab
+bestand aus 9 Fachleuten.
+
+Nachdem man die Falkland-Inseln und Staaten-Eiland angelaufen hatte, wurde der
+Kurs auf Süd-Shetland gerichtet, das am 19. Januar 1902 in Sicht kam.
+
+Als dann eine Reihe wichtiger geographischer Beobachtungen rings um Ludwig
+Philipp-Land gemacht worden war, wurde in die Weddell-See gesteuert, in der
+Hoffnung, dem König Oskar II.-Land entlang südwärts fahren zu können. Aber die
+Eisverhältnisse erwiesen sich als äußerst schwierig, und man konnte die Küste
+nicht erreichen.
+
+Auf dem Rückweg wurde Nordenskjöld mit 5 Mann und dem Material zu einem Wohn-
+und Beobachtungshaus sowie den nötigen Lebensmitteln für die in Aussicht
+genommene Zeit auf dem Schneehügeleiland (Snow Hill Island^[^0287]^) ausgeschifft.
+Danach fuhr das Schiff in nördlicher Richtung weiter nach dem offenen Meer, um dort
+seine wissenschaftlichen Beobachtungen fortzusetzen.
+
+Der erste auf dem Schneehügeleiland verbrachte Winter war ungewöhnlich stürmisch
+und kalt. Gegen den Frühling unternahm Nordenskjöld indes doch mehrere wichtige
+Schlittenfahrten mit Hunden.
+
+Als der Sommer herankam, erwarteten die Bewohner des Schneehügeleilands das
+Erscheinen des Antarktik, der sie abholen sollte. Aber kein Schiff zeigte sich,
+und so war die kleine Gesellschaft gezwungen, sich auf eine zweite Überwinterung
+auf dieser Insel vorzubereiten.
+
+Als auch dieser Winter glücklich überwunden war, unternahm Nordenskjöld eine
+Schlittenreise, um das Land rings um den Haddington-Berg zu erforschen. Bei
+näherer Untersuchung zeigte es sich, daß der Berg auf einer Insel liegt.
+
+Während nun Nordenskjöld rings um diese Insel Forschungen anzustellen versuchte,
+stieß er eines Tages auf drei menschliche Wesen. — Daß es Menschen waren, war
+nicht so leicht zu erkennen, wenn es sich aber so verhielt, lag die Vermutung am
+nächsten, daß es einige von unseren schwarzen afrikanischen Brüdern seien, die
+den Weg bis in diese südliche Region gefunden hätten.
+
+Es dauerte sehr lange, bis Nordenskjöld in diesen Wesen Dr. `Gunnar Andersson`,
+Leutnant `Duse` und ihren Begleiter bei der Überwinterung, den norwegischen
+Matrosen `Grunden`, erkannte.
+
+Die Sache hing folgendermaßen zusammen:
+
+Der Antarktik hatte mehrere Versuche gemacht, das Winterlager wieder zu
+erreichen, aber die Eisverhältnisse waren so schwierig, daß sie den Gedanken
+daran aufgeben mußten. Dann waren Andersson, Duse und Grunden in möglichster
+Nähe des Winterlagers ausgeschifft worden, und sollten, nachdem alles
+festgefroren war, versuchen, bis zum Winterlager zu gelangen, um die notwendigen
+Nachrichten zu überbringen.
+
+Aber sie kamen und kamen nicht von der Stelle; so errichteten sie sich
+schließlich eine Hütte aus Steinen, und überwinterten da.
+
+Diese Überwinterung gehört zum Interessantesten, was man von Erlebnissen in
+Polargegenden lesen kann. Da sie nur dürftig ausgestattet waren, mußten sie, wie
+einst Robinson Crusoe, alle Schwierigkeiten durch ihren Erfindungsgeist zu
+überwinden suchen.
+
+„Die Not ist die Mutter der Erfindungen“, dieser Spruch bewahrheitete sich auch
+hier wieder. Die unglaublichsten Erfindungen, wohl wert, patentiert zu werden,
+wurden im Laufe des Winters gemacht, und als der Frühling erschien, stiegen
+diese drei Mann aus ihrer Höhle heraus — frisch und gesund und ganz bereit, ihre
+Arbeit wieder aufzunehmen.
+
+Dies war eine Leistung, der jeder, der nur einigermaßen Verständnis für die
+Verhältnisse in den Polargegenden hat, warme Bewunderung zollen muß. Aber das
+Abenteuer ging noch weiter.
+
+Nachdem die beiden Abteilungen der Antarktik-Forschungsreise auf dem
+Schneehügeleiland vereinigt waren, gewahrten sie am 8. November zwei Gestalten,
+die auf sie zukamen. Und siehe da, es war der Kapitän Irizav mit einem seiner
+Offiziere von dem argentinischen Schiffe „Uruguay“^[^0288]^.
+
+Da vom Antarktik so lange Zeit keine Nachrichten eingelaufen waren, war man
+allmählich besorgt geworden, und so hatte die argentinische Regierung das Schiff
+Uruguay ausgeschickt, um Nachforschungen anzustellen.
+
+Aber wo in aller Welt steckte denn Kapitän Larsen mit dem Antarktik? Diese Frage
+lag den Überwinterten jetzt am nächsten.
+
+Da, in derselben Nacht — es klingt fast unglaublich — klopfte es an der Tür der
+Hütte, und herein trat Kapitän Larsen mit fünf Mann von seiner Besatzung. Sie
+brachten die traurige Nachricht, daß der gute alte Antarktik nicht mehr war. Die
+Mannschaft hatte sich auf die nächste Insel gerettet, nachdem das Schiff, vom
+Eise zerdrückt, untergegangen war.
+
+Auch diese Abteilung hatte sich eine Hütte aus Steinen bauen und sich den langen
+Winter hindurchschlagen müssen, so gut es eben ging. Das war wahrhaftig keine
+leichte Arbeit gewesen. Und wie schwer mochte sich der bedrückt fühlen, der die
+Verantwortung für das Schiff gehabt hatte!
+
+Ein Mann starb, die andern hielten die schwere Zeit aus.
+
+Viel ist bei dem Untergang des Antarktik von dem vortrefflichen
+wissenschaftlichen Material, das gesammelt worden war, verloren gegangen; aber
+es wurde trotzdem noch vieles Wertvolle mit nach Hause gebracht.
+
+Man darf wohl sagen, daß diese Fahrt, sowohl vom wissenschaftlichen als vom rein
+menschlichen Standpunkt aus, zu dem Interessantesten gehört, was die
+Südpolarforschung zu verzeichnen hat.
+
+::: align-center
+****
+::::
+
+Nun kommt der Schotte `Dr. Wilhelm S. Bruce` mit der „Scotia“^[^0289]^.
+
+Wir sind Bruce schon früher begegnet, mit der Balaena im Jahr 1892. Dann machte
+er im Jahr 1898 mit Andreas Coats eine Reise nach Spitzbergen. Diese Fahrt hatte
+sich für Bruce äußerst günstig gestaltet, denn sie verschaffte ihm die Mittel zu
+der Fahrt mit der Scotia in die antarktischen Gewässer.
+
+Am 2. November 1902 verließ die Scotia Clyde unter dem Befehl von Kapitän
+`Thomas Robertson` von Dundee.
+
+Bruce hatte tüchtige wissenschaftliche Hilfskräfte gewonnen.
+
+Nachdem Port Stanley auf den Falkland-Inseln angelaufen worden war, erreichte
+die Scotia am 2. Februar 1903 auf 60° 20` s. Br. und 43° 50' w. L. das Treibeis.
+
+Am 18. Februar wurde der Polarkreis in eisfreiem Meer überschritten, und erst am
+22. Februar auf 70° 25´ s. Br. wurde das Schiff bei einer Meerestiefe von 5000 m
+durch Eis aufgehalten.
+
+Die schon weit vorgerückte Jahreszeit zwang nun die Reisenden, sich nordwärts
+einen Winterhafen zu suchen. Sie fanden ihn auf dem Laurie-Eiland, einer der
+Süd-Orkney-Inseln, wo nun der ganze Winter zu ununterbrochener
+wissenschaftlicher Arbeit ausgenützt wurde.
+
+Mitte Februar fuhr die Scotia wieder südwärts, diesmal unter günstigeren
+Verhältnissen.
+
+Die sehr oft wiederholten Lotungen ergaben bis 22° s. Br. und 18° w. L. ziemlich
+gleichmäßige Tiefe. Von da an waren die Lotungen durch den schlammigen
+Meeresgrund sehr erschwert.
+
+:::: { .break-before  .wrap-60  }
+![Dr. Wilh. S. Bruce.](Die_Eroberung_des_Suedpols_Vol_I_102.jpg "Dr. Wilh. S. Bruce."){#b102}
+::::
+
+Am 6. März sah man Land — neues Land — auftauchen, das sich schneebedeckt und
+wellenförmig zu einer ansehnlichen Höhe erhob. Aber dichtes, die Küste
+umsäumendes Packeis machte jeden Versuch einer Landung unmöglich. Die höchste
+südliche Breite dieser Reise war 74° s. Br. und 22° w. L.
+
+Das Land erhielt den Namen Coats-Land^[^0290]^ nach Jakob und Andreas Coats, die Bruce
+bedeutend unterstützt hatten.
+
+In der ersten Reihe unserer neueren antarktischen Forscher steht der
+französische Gelehrte `Dr. Johann Charcot`^[^0291]^. Ihm ist es auf seinen beiden Fahrten
+von 1903 bis 1905 und 1908 bis 1910 gelungen, große Strecken des unbekannten
+Festlandes zu entschleiern. Ihm verdanken wir die genauere Kenntnis von
+Alexander I.-Land, ebenso ist die Entdeckung von Loubet-^[^0292]^
+Fallières-^[^0293]^ und Charcot-Land^[^0294]^ sein Werk.
+
+:::: { .break-before  .wrap-100  }
+![Scotia im Packeis.](Die_Eroberung_des_Suedpols_Vol_I_103.jpg "Scotia im Packeis."){#b103}
+::::
+
+Diese Unternehmungen waren glänzend ausgestattet, und ihre wissenschaftliche
+Ausbeute ist außerordentlich reichhaltig. Und eins ist bei Charcot ganz
+besonders zu bewundern: er wählte sich für seine Forschungen eines der
+schwierigsten Gebiete der antarktischen Zone. Die Eisverhältnisse sind dort
+derart ungünstig, daß sie kaum überwunden werden können, und die Schiffahrt ist
+im höchsten Grade gewagt; denn entlang der ganzen Küste ziehen sich unter dem
+Wasser scharfe Riffe hin, und das Meer ist mit Eisbergen übersät. Die
+Erforschung solcher Gegenden verlangt überaus tüchtige Leute und eine sehr gute
+Ausrüstung.
+
+:::: { .break-before  .wrap-60  }
+![Dr. Johann Charcot.](Die_Eroberung_des_Suedpols_Vol_I_104.jpg "Dr. Johann Charcot."){#b104}
+::::
+
+`Sir Ernst Shackleton`! Dieser Name hat einen frischen Klang. Sobald er genannt
+wird, sehen wir einen Mann vor uns, dem unbeugsame Willenskraft und ein
+unbegrenzter Mut aus den Augen leuchten. Er hat uns gezeigt, was der Wille und
+die Tatkraft eines einzelnen Mannes auszurichten vermögen. Seine ersten
+Erfahrungen auf dem Gebiete der antarktischen Forschung sammelte er als
+Teilnehmer der britischen antarktischen Forschungsreise an Bord der unter
+Kapitän Scotts Befehl stehenden Discovery, und er hat da eine harte Schule
+durchgemacht. An Bord waren Scott, Wilson und Shackleton, die mit der Absicht,
+die höchste südlichste Breite zu gewinnen, südwärts gefahren waren. Sie
+erreichten 82° 17´ s. Br., was für damals eine großartige Leistung war. Doch
+Shackleton mußte, da er vom Skorbut heftig befallen war, die erste Gelegenheit
+zur Heimreise benutzen. Sehr kurz nach seiner Rückkehr aber trat er mit neuen
+Plänen hervor. Niemand hatte Vertrauen zu ihm. Shackleton? Ach, war das nicht
+der Polarfahrer, der schon im ersten Jahre von der Discovery hatte zurückkehren
+müssen? Wozu wollte er denn wieder hinaus? Er hatte doch deutlich genug gezeigt,
+daß er sich für die Arbeit auf dem antarktischen Gebiet nicht eignete!
+
+:::: { .break-before  .wrap-60  }
+![Sir Ernst Shackleton.](Die_Eroberung_des_Suedpols_Vol_I_105.jpg "Sir Ernst Shackleton."){#b105}
+::::
+
+Nur mit der allergrößten Mühe gelang es Shackleton, die notwendigsten Gelder
+aufzutreiben. Verschuldet und unbeachtet verließ er im August 1907 an Bord des
+„Nimrod“^[^0295]^ England und steuerte südwärts. Mit erstaunlicher Offenheit erklärte er,
+daß er nun auf eigene Faust den Südpol zu erreichen versuchen wolle. So viel ich
+weiß, war er der erste, der offen auszusprechen wagte, daß der Südpol sein Ziel
+sei. Diese frische Offenheit hatte es mir zuerst angetan; daraufhin wollte ich
+mir den Mann gerne näher ansehen, und ich verfolgte von da an Shackletons Spuren
+mit lebhaftem Interesse. Da die ganze Unternehmung in England sehr wenig
+Aufsehen erregt hatte, wurde sie nach Shackletons Abfahrt rasch wieder
+vergessen. Hatte man einmal den Namen Shackleton zu erwähnen, so gab man ihm
+höchstens den Titel „Leutnant R. N. R.“, Reserveleutnant der Marine.
+
+Und die Zeit verging. — Plötzlich, in der zweiten Hälfte des März 1909, trifft
+eine Meldung ein, die gewaltiges Aufsehen erregt. Nun hatten die Telegraphen der
+ganzen Welt vollauf zu tun. Sie tickten und tickten, Buchstaben um Buchstaben,
+Wort für Wort, Linie um Linie, bis klar und deutlich geschrieben stand, daß eine
+der merkwürdigsten Taten innerhalb der Polarforschung getan worden war. Die
+Leute standen wie versteinert da. War es möglich? Konnte es wahr sein?
+Shackleton, „Leutnant R. N. R.“ hatte sich bis 88° 23´ s. Br. durchgekämpft!
+
+Selten hat ein Mensch einen so großen Triumph gefeiert, selten auch war dieser
+Triumph mehr verdient!
+
+Der ursprüngliche Plan der Forschungsreise war folgender gewesen: Zu Anfang des
+Jahres 1908 wollte Shackleton NeuSeeland verlassen und auf dem antarktischen
+Festland mit der notwendigen Ausrüstung und genügenden Lebensmitteln ein
+Winterlager aufschlagen, das Schiff aber sollte nach Neu-Seeland zurückkehren
+und die Überwinterungsabteilung im nächsten Jahre wieder abholen.
+
+Zwölf Mann wollten also diesen langen Winter da verbringen. Sie teilten sich in
+drei Gruppen; die eine sollte ostwärts nach König Eduard VII.-Land ziehen, um
+dieses zu erforschen, die zweite westwärts nach dem magnetischen Südpol und die
+dritte nach dem geographischen Südpol.
+
+In dem Plan, den Shackleton der Geographischen Gesellschaft in London vorgelegt
+hatte, sagte er: „Ich habe nicht im Sinn, einer einfachen ‚Rekordjagd‘ wegen die
+wissenschaftlichen Untersuchungen aufzugeben, aber ich erkläre offen und
+ehrlich, daß ich alle meine Kräfte einsetzen will, den Südpol zu erreichen.“
+Außerdem war auch noch die Erforschung von Wilkes Land in Aussicht genommen,
+wahrlich ein außerordentlich umfangreicher Plan.
+
+Als Zugtiere verwendete Shackleton Ponys und Hunde, und zwar in erster Linie
+Ponys, die sich nach Shackletons Erfahrung für die Erforschung der Eisplatte am
+besten eigneten, während die Hunde mehr als „Ersatztiere“ betrachtet wurden.
+Ferner nahm man einen Motorschlitten mit; im übrigen hatte man die gewöhnliche
+Polarausrüstung: Schlitten, Schneeschuhe, Zelte usw.
+
+Am 7. August 1907 verließ Shackleton mit seinen Gefährten England an Bord des
+„Nimrod“, und am 23. November erreichten sie Neu-Seeland, wo die letzten
+Vorbereitungen für die lange Reise getroffen wurden.
+
+Am 1. Januar 1908 begann die Fahrt, und der Nimrod wurde von dem Dampfer
+„Koonya“ südwärts geschleppt. Der Nimrod war schwer beladen, und das Schleppen
+durch das stürmische Fahrwasser war durchaus keine leichte und angenehme Sache.
+
+Nach einer äußerst beschwerlichen Fahrt erreichte der Nimrod am 15. Januar das
+Packeis. Bei dem hohen Seegang hatte man einen Pony eingebüßt; aber dafür hatte
+eine Hündin den Bestand ihrer Rasse um mehrere neue Vertreter vermehrt, und so
+war der Verlust nicht gefährlich. Die Reise wurde ohne größere Hindernisse
+zurückgelegt; Packeis war fast keines zu sehen, dagegen aber Eisberge im
+Überfluß. Auf 70° 43´ s. Br. und 178° 58´ ö. L. gelangten die Polarforscher ins
+offene Roß-Meer. Shackletons Annahme, daß dem 180. Meridian entlang der Weg am
+leichtesten zurückzulegen sei, bewahrheitete sich.
+
+Am 23. Januar bekamen sie die Roß-Platte in Sicht. Der ursprüngliche Plan war,
+der Roß-Platte ostwärts entlang zu fahren und die Überwinterungsabteilung in der
+„Eisplattenbucht“ an Land zu setzen. Aber da diese Bucht ostwärts nicht
+aufzufinden war, wendeten sie schließlich und fuhren westwärts der Eiskante
+entlang.
+
+Da dieser Teil von Shackletons Reise mit der dritten Fahrt des „Fram“ nach dem
+Süden sehr nahe zusammenfällt, muß ich hier mehrere Stücke aus Shackletons
+eigenen Berichten wiedergeben. Es heißt darin: „Ich wußte, daß die
+„Eisplattenbucht“ sozusagen den Anfang von König Eduard VII.-Land bildete und
+daß wir von da aus das wirkliche Festland mit Schlitten leicht erreichen
+könnten. Dieser Platz hatte überdies den großen Vorteil, 170 km südlicher zu
+liegen als jeder andere Punkt, den wir mit einem Schiff hätten erreichen können.
+Ein anderer sehr wichtiger Umstand war auch, daß dieser Punkt für unser Schiff
+viel leichter zu erreichen sein würde als das König Eduard VII.Land selbst, an
+das wir, bei ungünstigen Eisverhältnissen vielleicht gar nicht hingelangen
+konnten. Mehrere meiner Gefährten, die schon an der Reise mit der Discovery
+teilgenommen hatten, hielten die Eisplattenbucht auch für den günstigsten Platz
+zur Errichtung des Winterlagers.
+
+Aber bei der Polarforschung geht es nicht immer den geradesten Weg, und selbst
+der beste Plan muß oftmals verändert werden. Wir fuhren also westwärts der
+Eisplatte entlang, und der Karte gemäß sollten wir morgens um 6 Uhr an der
+Eisplattenbucht sein. Aber keine Bucht war zu sehen, und als wir um 8 Uhr
+vormittags an der Borchgrevinkbucht vorüberfuhren, hatten wir volle Gewißheit,
+daß die Eisplattenbucht überhaupt nicht mehr vorhanden war. Die Eisplatte hatte
+sich zerteilt, meilenlange Stücke waren losgebrochen und ins Meer
+hinausgetrieben worden, und damit war die Eisplattenbucht mit der
+Borchgrevinkbucht zu einer einzigen überaus verschlammten Bucht vereinigt, der
+wir den Namen „Walfischbucht“ gaben.
+
+:::: { .break-before  .wrap-100  }
+![Nimrod.](Die_Eroberung_des_Suedpols_Vol_I_109.jpg "Nimrod."){#b109}
+::::
+
+Das war eine große Enttäuschung für uns, zugleich aber mußten wir uns glücklich
+preisen, daß die Eisplattenbucht verschwunden war, ehe wir unser Lager da
+errichtet hatten. Es war ja schlimm genug, daß wir einen Hafen hatten suchen
+müssen, der nicht mehr vorhanden war, aber wie viel schlimmer wäre es gewesen,
+wenn wir in der Bucht gelandet wären, solange sie noch da war, und unser Schiff,
+das uns im nächsten Jahre abholen sollte, die verschwundene Bucht vergebens
+gesucht hätte.
+
+Schon der Gedanke an das, was hätte geschehen können, bestimmte mich sofort,
+unter keinen Umständen auf der Eisplatte zu überwintern, sondern unser
+Winterlager auf gutem solidem Festland aufzuschlagen.
+
+Ungefähr 1 km buchteinwärts stießen wir auf festes Eis. Es war da ungefähr
+nachts ½1 Uhr, und die Sonne schien uns gerade ins Gesicht. Wie groß war unsere
+Verwunderung, als wir innerhalb des festen Eises, das sich 10 bis 12 km aus der
+Tiefe der Bucht heraus von Westen nach Osten erstreckte, eine Reihe hoher,
+runder, durch Täler getrennter Eisklippen aufragen sahen. Ungefähr 7 km südwärts
+öffnete sich ein großes Tal, aber wir konnten nicht herausfinden, wohin es
+führte. In gerader Linie südwärts erhoben sich steile abgerundete Eisklippen bis
+zu 240 m, und hinter diesen konnten wir andere spitzige Gipfel wahrnehmen. Da
+die Sonne jetzt nieder stand, warfen die Bergketten Schatten, die wir eine
+zeitlang für wirkliche Felsen hielten. Zwei dunkle Flecken auf einem der
+fernsten Gipfel machten denselben Eindruck. Aber eine sorgfältige Untersuchung
+mit dem Fernglas überzeugte uns, daß es Löcher in den Schneemauern waren.
+
+Nach Osten zog sich eine lange schneebedeckte 100 m hohe Hügelkette hin. Das
+Ganze schien ein schneebedecktes Land zu sein; aber wir konnten uns nicht
+aufhalten, um es zu untersuchen, denn von Norden her trieb dickes festes Packeis
+in die Bucht herein, das uns einzuschließen drohte. Es blieb uns nichts anderes
+übrig, als zu versuchen, so rasch wie möglich hinauszukommen“ ...
+
+Shackleton und seine Gefährten machten zuerst einen vergeblichen Versuch, König
+Eduard VII.-Land zu erreichen und dann westwärts zu steuern. Auf dem Rückweg
+fuhren sie wieder an der Walfischbucht vorüber, und nach Shackletons Bericht
+hatte nun der Eisgang in der Bucht selber begonnen, und das Eis war im Begriff,
+ins Meer hinauszutreiben.
+
+Dies war am 24. Januar gewesen. Am 3. Februar erreichten die Reisenden Kap Royds^[^0296]^
+auf der Roßinsel im Mc. MurdoSund, und hier beschloß Shackleton das Winterlager
+aufzuschlagen. Schon nach wenigen Tagen war es ganz eingerichtet. Die
+Lebensmittel und die Ausrüstung waren an Land gebracht, die Häuser gebaut und in
+Ordnung, obgleich die Arbeit, allzuschlechten Wetters halber, mehreremal hatte
+eingestellt werden müssen.
+
+:::: { .break-before  .wrap-100  }
+![Nimrod im Eis.](Die_Eroberung_des_Suedpols_Vol_I_111.jpg "Nimrod im Eis."){#b111}
+::::
+
+Außerst interessant ist, was Shackleton unter dem Kapitel „Schlittenausrüstung“
+über die Polarhunde als Zugtiere schreibt. Es heißt da: „Die
+Discovery-Forschungsreise hat zur Lösung der Frage, wie man bei Schlittenreisen
+in den antarktischen Gebieten am besten vorwärtskommen könne, einen sehr
+bedeutenden Beitrag geliefert. Die Schlitten und die übrige Ausrüstung dieser
+Forschungsreise waren alle von erster Güte. Als Zugtiere wurden Hunde benutzt,
+aber es zeigte sich, daß diese zum Gebrauch auf der Eisplatte ganz und gar nicht
+geeignet waren.
+
+Auf der Discovery hatten wir nur 20 Hunde, und wir hatten nichts als Arbeit und
+Widerwärtigkeiten mit ihnen. Sie fielen auf dem Eise rasch ab und wurden
+unbrauchbar. Es ist überdies wohl bekannt, daß auch andere antarktische Forscher
+mit Hunden als Zugtiere schlechte Erfahrungen gemacht haben. Meine eigenen
+brachten mich auf den Gedanken, ob nicht vielleicht mandschurische Ponys als
+Zugtiere auf der Eisplatte zu gebrauchen seien; sie sollten sich ja in sehr
+kalten, stürmischen Gegenden als solche besonders bewährt haben. Es wurde
+allgemein behauptet, diese Ponys könnten bei einer Schlittenlast von 600 kg
+ungefähr 40 bis 50 km auf sehr ausgefahrenen Wegen zurücklegen. Wohl war es ein
+großes Wagnis, diese Tiere aus dem fernen Norden durch die tropischen Gegenden
+und über ein stürmisches Meer eine Weglänge von ungefähr 12&nbsp;000 km zu
+schicken, aber ich meinte doch, die größere Leistungsfähigkeit eines Ponys lohne
+einen Versuch. Kann doch ein Pony bei dem Futterverbrauch von 10 Hunden
+wenigstens ebensoviel leisten wie 10 Hunde und dabei eine viel größere
+Wegstrecke zurücklegen.“
+
+Von den Ponys starben während des Winters 4, und als der Frühling kam, waren
+überhaupt nur noch 4 übrig. 9 Hunde waren als „Ersatztiere“ mitgenommen worden,
+und Shackletons eigene Worte über dieses Kapitel lauten: „Nach unserer Erfahrung
+auf der Discovery-Forschungsreise und hauptsächlich auf der Schlittenreise nach
+dem Süden, wo wir mit den Hunden außerordentlich viel Widerwärtigkeiten gehabt
+hatten, war ich von Anfang an gegen die Verwendung von Hunden als Zugtiere. Wir
+hatten sie deshalb nur als Ersatz mitgenommen für den Fall, daß die Ponys
+zugrunde gehen sollten. Peary schreibt in seinen Berichten, die Hunde könnten in
+den arktischen Gegenden sehr rasch weite Entfernungen zurücklegen. Er erzählt
+einen Fall, wo er 166 km in 23 Stunden gefahren war, aber das ist wahrscheinlich
+auf ebenem glatten Meereis oder auf gleichmäßig mit Eis bedecktem Land gewesen.
+So etwas wäre auf der antarktischen Eisplatte eine Unmöglichkeit.“
+
+Ein leuchtendes Beispiel für Shackletons Tatkraft und Entschlossenheit ist die
+Besteigung des Erebusberges, die schon in demselben Herbst unternommen wurde.
+
+Sobald die Hütte gebaut war, zog eine Abteilung von 6 Mann weiter. Es gelang
+ihnen, den Erebusberg zu erklimmen und eine Höhe von 4073 m zu erreichen.
+Nachdem dieses Unternehmen geglückt war, wurde das Winterlager aufgesucht und
+alle notwendigen Vorbereitungen zu den Schlittenfahrten getroffen, die bei
+Anbruch des Frühlings vorgenommen werden sollten. Der Winter wurde in einer
+warmen guten Hütte verbracht, und der allgemeine Gesundheitszustand war
+ausgezeichnet. Alle erwarteten ungeduldig den Anbruch des Frühlings, wo sie kühn
+und mutig wieder ausziehen könnten.
+
+:::: { .break-before  .wrap-100  }
+![Die Ponys vor dem Kohlenschlitten beim Winterlager.](Die_Eroberung_des_Suedpols_Vol_I_113.jpg "Die Ponys vor dem Kohlenschlitten beim Winterlager."){#b113}
+::::
+
+Im August, September und Oktober wurden Vorratslager errichtet. Das südlichste
+davon wurde auf 79° 36´ s. Br. angelegt und enthielt 80 kg Mais für die Ponys.
+Von dem Motorschlitten hatte man recht wenig Nutzen, denn er konnte beinahe gar
+nicht verwendet werden.
+
+Am 29. Oktober 1908 brach die nach Süden bestimmte Abteilung auf. Sie bestand
+aus Shackleton, Adams, Marschall und Wild mit 4 Schlitten, 4 Ponys und 400 kg
+Lebensmitteln, einem Vorrat für 91 Tage. Das Gewicht der täglichen Nahrung für
+jeden Mann betrug nicht ganz 1 kg und bestand aus Pemmikan, Zwieback, Käse,
+Schokolade, Kakao, Plasmon, Zucker und Hafergrütze, außerdem aus Tee, Pfeffer
+und Salz. Die Schlittenzwiebacke waren für diese Reise besonders hergestellt
+worden und enthielten 25% Plasmon.
+
+Schon am ersten Tage fielen die Ponys zusammen, und zwei davon waren ganz und
+gar erschöpft. Nach weiteren zwei Tagen rissen sie sich los und machten einen
+Angriff auf die Nahrungsmittel. Selbst die Riemen ihres Geschirrs hatten sie
+sich teilweise zu Gemüt geführt. Schon nach kurzer Zeit hatte man die größte
+Mühe, die Ponys über die gefährlichen Spalten im Eis hinüberzubringen.
+Shackleton klagt beständig über die Unebenheit, und daß die Ponys deshalb sehr
+wenig leisteten. Am 21. November zwischen 80° und 81° s. Br. wurde der erste
+Pony „Chinaman“ geschlachtet und das Fleisch im Vorratslager niedergelegt. „Der
+angestrengte Marsch hatte ihm das Leben gekostet“, sagt Shackleton, und häufig
+spricht er auch von Schneeblindheit. Diese unangenehme und hemmende Krankheit
+scheint recht häufig vorgekommen zu sein.
+
+Am 26. November wurde Scotts südlichste Breite, 82° 17´, überschritten. Am 27.
+November erkrankte einer der Ponys an Schneeblindheit. Später ging es einem
+andern ebenso. Am 28. November mußte der zweite Pony erschossen werden, ungefähr
+auf 82° 40´ s. Br. Dort wurde das dritte Vorratslager errichtet. Shackleton
+meint, die Schneeblindheit trage die Hauptschuld an der Erschöpfung der Ponys.
+
+In Shackletons Bericht heißt es dann am 29. November: „Wir sind jetzt auf knappe
+Kost gesetzt, denn wir müssen nach Kräften sparen, um so weit wie möglich
+südwärts zu kommen.“ 30. November: „Wir brachen morgens um 8 Uhr auf. „Quan“
+(ein Pony) ist sehr hinfällig, und es geht offenbar zu Ende mit ihm. Beide Ponys
+sind schneeblind; wir haben ihnen Scheuklappen aufgesetzt. Ich hoffe, das
+hilft.“ 1. Dezember: „Aufbruch morgens um 8 Uhr. ‚Quan‘ wurde mit jeder Stunde
+schwächer, und wir mußten seinen Schlitten tatsächlich selbst ziehen.“ „Quan“
+wurde noch an demselben Tag auf 83° 16' s. Br. erschossen.
+
+Von da an mußten drei Mann den einen mit 300 kg beladenen Schlitten ziehen,
+während der vierte den letzten Pony leitete. Am 4. Dezember erreichten sie die
+Verbindung zwischen der Eisplatte und Süd-Victorialand auf ungefähr 83° 20` s.
+Br. Sie stießen auf viele Spalten, kamen aber ohne Unfall darüber weg. 7.
+Dezember: „Wir brachen vormittags um 8 Uhr auf. Adams, Marschall und ich zogen
+den einen Schlitten, während Wild und Socks (der letzte Pony) nachfolgten. Es
+ging über kleine Hügel, immer hinauf und hinunter, bei sehr losem Schnee; Socks
+sank oft bis an den Bauch ein, und wir selbst mußten die ganze Zeit mitten
+hindurch, was eine höchste beschwerliche Arbeit war. Rechts von uns zeigten sich
+verschiedene Spalten und links waren sie überaus zahlreich. Die blendende Helle
+griff die Augen sehr an, und wir konnten die Spalten nur schwer unterscheiden.
+
+Um 1 Uhr wurde Rast gemacht und eine Mahlzeit gehalten. Als wir wieder
+aufbrachen, war das Licht milder geworden, und während des Marsches
+beglückwünschten wir uns gegenseitig dazu. Da hörten wir plötzlich Wild laut um
+Hilfe rufen. Wir hielten sofort an und eilten zu ihm zurück. Sein Schlitten war
+mit dem Vorderteil in eine Spalte gefallen, und Wild gab sich verzweifelte Mühe,
+ihn festzuhalten. Von dem Pony war nichts zu sehen. Wild war bald aus seiner
+gefährlichen Lage befreit, aber Socks war und blieb verloren. Der vordere Zug,
+also wir drei mit dem einen Schlitten, hatte eine ganz mit Schnee bedeckte
+Spalte glücklich überschritten, aber als Wild unseren Spuren folgte, brach der
+Schnee unter dem Gewicht des Ponys ein. Er fiel durch — in einer Sekunde war
+alles vorüber.“
+
+Auf ungefähr 84° s. Br. standen nun also diese Polarforscher ohne Zugtiere und
+waren ganz darauf angewiesen, ihre beladenen Schlitten selbst vorwärts zu
+bringen. Von da an hatte jeder Mann ungefähr 120 kg zu ziehen. Und nun kam der
+weite schwere Marsch über den Beardmore-Gletscher, wo sie immer nur einen
+Schlitten auf einmal vorwärts bringen konnten und also den Weg wiederholt
+zurücklegen mußten.
+
+:::: { .break-before  .wrap-100  }
+![Auf dem Marsch nach dem Erebusberg.](Die_Eroberung_des_Suedpols_Vol_I_116.jpg "Auf dem Marsch nach dem Erebusberg."){#b116}
+::::
+
+Am 12. Dezember schreibt Shackleton: „Unser Tagesmarsch betrug 5½ km . . . .
+Dies beweist besser, als ich es zu schreiben vermag, was für eine anstrengende
+Arbeit wir hinter uns haben. Wir brachen morgens 7 Uhr 40 Min. auf. Die
+Bodenverhältnisse waren furchtbar; scharfes blaues Eis voller Risse und Spalten,
+Löcher und Vertiefungen — ein so schwieriges Gelände, wie wohl kein Polarfahrer
+je eines zu überwinden hatte. Die Schlitten wurden schrecklich mitgenommen, und
+wir hatten die ganze Zeit über die größte Mühe, uns und die Schlitten glücklich
+über die gefährlichen Spalten hinüberzubringen. Wir sind voller blauer und
+grüner Flecke von den vielen Stößen, die uns getroffen haben, aber Gott sei Dank
+ist keiner von uns ernstlich zu Schaden gekommen! Heute haben wir uns immer aufs
+neue über die kaum zurückgelegte Strecke hinaufarbeiten müssen, weil wir stets
+nur einen Schlitten auf einmal weiter bringen konnten; zwei mußten ziehen, zwei
+schieben.
+
+Demgemäß legten wir zuerst 2 km zurück, dann mußten wir über alle Risse und
+Spalten wieder zurück, um den zweiten Schlitten zu holen. Im ganzen sind wir auf
+diese Weise 5½ km vorwärts gekommen, aber tatsächlich 16½ gegangen, und überdies
+bei einer Bodenbeschaffenheit, wo jedes Hinfallen den Tod bedeutete. Wir sind
+jetzt unserem Ziel 5½ km näher und haben unser Lager auf einer steinharten
+Schneewehe aufgeschlagen. Mit Hilfe unserer Eispickel gelang es uns, einen
+ebenen Platz zu schaffen, auf dem wir unser Zelt aufstellen konnten. Das Wetter
+ist noch immer ausgezeichnet, aber am südlichen Horizont liegen niedere Wolken.
+Hoffentlich haben wir nun bald das Schlimmste hinter uns und können weniger
+mühselig vorwärts kommen. Wenn wir nur erst bessere Wege haben, wird es nicht
+mehr lange dauern, bis wir am Ziel sind.“
+
+Um dem Leser einen Eindruck zu geben, auf welch ganz andere Weise als wir sich
+Shackleton hat durcharbeiten müssen, führe ich weiteres aus seiner Beschreibung
+des Marsches über die Hochebene an:
+
+&nbsp;13. Dezember. „Aufbruch wieder morgens um 8 Uhr, noch einmal bergauf und
+bergab und wieder bergauf über Spalten und stahlhartes Eis, um die Schlitten
+nacheinander hinaufzuschaffen. Nachdem wir 2 km zurückgelegt hatten, kamen wir
+an eine Stelle, wo jedes weitere Vordringen ausgeschlossen schien. Nach
+Südwesten sah übrigens das Gebiet etwas günstiger aus, und so beschlossen wir,
+diesen Weg einzuschlagen, um womöglich einige der schlimmsten Hindernisse zu
+vermeiden. Aber auf einer Rückwanderung zu den Schlitten fiel ich aufs Eis und
+verletzte mir das Knie, so daß ich den ganzen Tag über einen Verband tragen
+mußte. Jetzt ist das Knie wieder besser, aber jedermann wird verstehen, wie
+entsetzlich es wäre, wenn einer von uns unter den jetzigen Verhältnissen
+ernstlich zu schaden kommen würde .... Nachmittags fanden wir etwas leichtere
+Bodenbeschaffenheit, und wir konnten beide Schlitten zugleich ziehen. So kamen
+wir immer höher. Der Höhenmesser zeigte am Abend 1330 m ü. d. M. Der aus Süden
+kommende Wind ist kälter und schärfer, als wir ihn bisher gehabt haben, und da
+wir unser Zelt nur auf ganz hartgefrorenem Schnee aufschlagen konnten, mußten
+wir es mit den Vorratssäcken und anderen schweren Gegenständen belasten und
+sichern.
+
+Im Westsüdwesten tauchten bei jeder neuen Höhe, die wir erklommen hatten, immer
+neue Berge auf. Der Gletscher bewegt sich hier noch, aber viel langsamer als
+früher. Jetzt sind wir unserem Ziel um 9 km näher.“
+
+&nbsp;14. Dezember: „Dies ist einer der härtesten Tage für uns gewesen.
+Ununterbrochen ging es in südsüdwestlicher Richtung bergauf. Dazu hat es bei
+sehr hoher Temperatur den ganzen Tag geschneit, so daß alles tropfnaß ist. Aber
+wir sind heute 300 m gestiegen und befinden uns nun in einer Höhe von 1700 m ü.
+d. M. Danach müssen die Berge im Westen 3000 bis 4500 m hoch sein. Der Aufstieg
+war überaus schwierig, und wir sind oft gestürzt. Gerade ehe wir unser Lager
+aufschlagen wollten, fiel Adams in einen Schneebruch, konnte sich aber glücklich
+noch vor einem weiteren Fall in eine furchtbare Spalte retten. Es kostet
+unendliche Anstrengungen, die Schlitten in dieser Höhe zu ziehen, besonders bei
+dem glatten Eis, auf dem man so leicht ausgleitet. Früher ist hier offenbar eine
+ungeheure Eisbildung gewesen, die jetzt im Verschwinden begriffen ist .. ..
+Heute abend leben wir der frohen Hoffnung, daß der Aufstieg nun bald beendet ist
+und wir in kurzem die Hochebene erreichen können. Und dann geht es im Ernst
+südwärts. Alles hängt von dem Lebensmittelvorrat ab. Heute haben wir 14 km
+zurückgelegt.“
+
+&nbsp;17. Dezember. „Morgens 7 Uhr 20 Min. zogen wir weiter, und es ging den
+ganzen Tag über klares blaues Eis und vereinzelte Schneehaufen, dazwischen
+bergaufwärts. Von 7 Uhr 20 Min. morgens bis 6 Uhr 40 Min. abends waren wir, eine
+einstündige Mittagspause ausgenommen, den ganzen Tag hart an der Arbeit. Es
+könnte scheinen, als seien die 22 km, die wir an diesem Tag zurückgelegt haben,
+nicht viel, aber während der beiden letzten Stunden war der Aufstieg ungeheuer
+schwierig. Die Bergwand war so steil, daß wir nur einen Schlitten auf einmal
+nehmen konnten, und wir mußten Stufen ins Eis hacken, um überhaupt weiter kommen
+zu können. Überdies erschwerte uns ein heftiger Südwind, der uns gerade ins
+Gesicht blies, den Aufstieg auch noch. Den zweiten Schlitten mußten wir an einem
+Gletscherseil über den Eishügel hinüberziehen. Wir befestigten das Seil am
+Schlitten und zogen dann mit dem ersten Schlitten davon, bis es in seiner ganzen
+Länge ausgezogen war. Dann hielten wir an und hackten eine Stufe ins Eis, damit
+wir wenigstens festen Fuß fassen konnten, und zogen den zweiten Schlitten nach.
+Auf diese Weise brauchten wir den Weg nicht zweimal zu machen. — So drangen wir
+aufwärts, bis wir einen verhältnismäßig flachen Platz fanden, wo wir unser Zelt
+aufschlagen konnten. Jetzt führen wir keine warmen Kleider mehr mit. Alles, was
+wir entbehren können, wurde heute im Vorratslager niedergelegt und nur das
+Allernotwendigste mitgenommen.
+
+Nach dem Abendbrot wollte sich Wild nach der Hochebene umsehen, und bald kehrte
+er mit der erfreulichen Nachricht zurück, daß sie endlich in Sicht sei und der
+nächste Tag schon unserer Mühsal ein Ende machen werde. Er brachte auch einige
+merkwürdige geologische Proben mit, die Kohlen überaus ähnlich sehen.
+Vielleicht sind sie nicht von besonderer Güte, aber ich bin fast ganz sicher,
+daß es wirkliche Kohlen sind. Wild berichtete, es seien sechs Schichten von
+dieser dunklen Steinart vorhanden. Jede Schichte sei 1 bis 2½ m dick. Leider
+haben wir nur wenig Zeit zu geologischen Untersuchungen. Wahrscheinlich ist dies
+die südlichste geologische Probe, die zu erlangen ist, da wir auf der Hochebene
+selbst an keinem Berg mehr vorüberkommen.
+
+Heute abend jagen heftige Windstöße daher, aber das Wetter ist strahlend hell.
+Nach dem Höhenmesser befinden wir uns jetzt 1810 m ü. d. M.“
+
+&nbsp;18. Dezember. „Beinahe oben! Heute abend beträgt die Höhe 2250 m ü. d. M. Dies
+ist wieder einer unserer schwersten Tage gewesen, aber dafür haben wir jetzt
+auch bald die Hochebene erreicht. Morgens 7 Uhr 30 Min. wurde aufgebrochen, und
+im Lauf des Tages wurden 11 km zurückgelegt. Den ganzen Vormittag ging es über
+ganz glattes Eis aufwärts, und wir mußten einen Schlitten um den andern am
+Gletscherseile hinüberziehen. Mittags 12 Uhr 45 Min. schlugen wir unser Lager
+auf und frühstückten auf einem Schneekamm dicht neben einer Eispressung, von
+Spalten und Rissen umgeben, wo Adams und ich ernstlich zu Fall kamen; doch
+gelangten wir beide glücklich wieder heraus. Am Nachmittag wurde der höchst
+beschwerliche Marsch fortgesetzt, bis wir schließlich todmüde das Lager für die
+Nacht aufschlugen. Wir sparen beständig an den Lebensmitteln, damit der Vorrat
+länger hält. Der Hunger plagt uns oft gewaltig, und wir träumen immer vom Essen.
+Aber wir ersparen auf diese Weise jeden Tag zwei Zwiebacke und ebenso Pemmikan
+und Zucker. Dafür helfen wir mit Ponymais nach, der vorher in Wasser eingeweicht
+werden muß, weil er sonst zu hart zum Essen wäre.
+
+Bei dieser Einteilung haben wir jetzt noch für 5 Wochen Lebensmittel. Die
+Entfernung bis zum Pol beträgt von hier aus noch nahezu 560 km, und dieselbe
+Entfernung wieder zurück bis zu dem Vorratslager, das wir gestern errichtet
+haben. Wir müssen uns also mit wenig Speise begnügen, wenn wir unser Ziel
+erreichen wollen. Der Wind ist heute schneidend kalt gewesen, und unsere Lippen
+sind aufgesprungen. Noch immer geht es an gefährlichen Spalten hin, aber ich
+hoffe, daß sie morgen ein Ende nehmen werden.
+
+Bei dem heutigen Aufstieg sind südwestwärts wieder neue Gebirge aufgetaucht,
+einige mit kahlen, steilen Wänden, andere abgerundet und mit Schnee bedeckt.
+Meiner Ansicht nach erstrecken sich diese westlichen Gebirge nach Süden bis auf
+ungefähr 86° s. Br.“
+
+:::: { .break-before  .wrap-100  }
+![Das südlichste Lager nach einem 60 stündigen Sturm.](Die_Eroberung_des_Suedpols_Vol_I_121.jpg "Das südlichste Lager nach einem 60 stündigen Sturm."){#b121}
+::::
+
+&nbsp;19. Dezember. „Noch sind wir nicht ganz oben, obgleich wir uns heute abend
+2410 m ü. d. M. befinden. Es geht eben noch immer bergauf. Wir frühstückten früh
+um 5 Uhr und waren um 7 Uhr schon unterwegs. Jetzt hat jeder von uns ungefähr
+100 kg zu ziehen. Mit Ausnahme von einer vierstündigen Ruhepause waren wir den
+ganzen Tag auf den Beinen. Wir maßen die Meridianhöhe, sie ergab 85° 5´ s. Br.
+Wir kommen und kommen nicht aus dem zerklüfteten Gebiet heraus, und immer wieder
+fallen wir in Risse und Spalten hinein, auch mußten wir den ganzen Tag gegen
+einen bitter kalten südlichen Wind ankämpfen. Der Marsch war überaus
+anstrengend, weil wir die ganze Zeit über steigen mußten und die Schlittenkufen
+nach der Fahrt über das schwierige Eis in einem erbärmlichen Zustand sind. An
+mehreren Stellen hinderte uns auch loser Schnee am Vorwärtskommen; aber wir
+haben trotzdem 18 km zurückgelegt, und jetzt steht das Zelt auf festem Schnee
+zwischen zwei Eisspalten. Morgen hoffen wir die Hochebene sicher zu erreichen.
+Der Gletscher, den wir erklimmen, muß einer der größten, wenn nicht der
+allergrößte sein, den es gibt. Die zusammengewirbelten Schneewehen scheinen
+meistens nach Süden zu deuten, wir müssen also während des ganzen Weges nach dem
+Pol auf Gegenwind gefaßt sein. Glücklicherweise haben wir noch immer schönes
+Wetter, sonst wäre es fast unmöglich, uns zwischen allen diesen Spalten
+durchzuarbeiten. Der Gletscher bewegt sich sehr wenig, und viele von den Spalten
+sind mit Schnee gefüllt. Heute abend sind wir noch 558 km vom Pol entfernt. Wir
+denken beständig an das Weihnachtsmahl, das wir halten werden. Da wollen wir uns
+wahrlich satt essen!“
+
+&nbsp;20. Dezember. „Noch nicht ganz oben, aber nun ist es nicht mehr weit. Morgens um
+7 Uhr wurde abmarschiert. Den ganzen Tag herrschte eine heftige südliche Brise
+bei einer Temperatur von — 14 und — 15° C und unsere Bärte hingen voller
+Eiszapfen. Den ganzen Tag ging es bergauf; wir befinden uns jetzt 2440 m ü. d.
+M. Heute haben wir 85° 17´ s. Br. Wir hoffen beständig, dem letzten Aufstieg
+gegenüberzustehen, aber immer taucht ein neuer vor uns auf, und wir müssen die
+Schlitten wieder mit dem Seile hinter uns herziehen. Das ist eine schrecklich
+mühselige Arbeit, und nachdem unser erstes Frühstück auf einen Zwieback und
+einen Teller Labskaus herabgesetzt worden ist, haben wir, wenn die Mittagspause
+da ist, einen wahren Wolfshunger. Da haben wir dann 5 Stunden Arbeit hinter uns,
+die häufig bei sehr kaltem Gegenwind getan werden muß. Beim zweiten Frühstück
+oder Mittagessen genießen wir etwas. Schokolade, Tee mit Plasmon, eine Tasse
+Kakao und 3 Zwieback. Heute sind wir 20 km vorwärts gekommen. Den letzten Teil
+des Wegs mußten wir zweimal zurücklegen, weil er so steil war, daß wir nicht
+beide Schlitten auf einmal ziehen konnten. Aber es geht doch vorwärts. Jetzt
+haben wir nur noch 518 km vor uns, dann ist der Pol erreicht. Das Land scheint
+jetzt gegen Südwesten abzubiegen, und bald sind wir nur noch kleine schwarze
+Punkte auf der unendlichen weißen Fläche. Es ist heute abend bitter kalt. Ich
+bin in dieser Woche Koch und trete mit dem heutigen Abend mein Amt an. Wir sind
+alle in ausgezeichneter Laune.“
+
+&nbsp;21. Dezember. „Sonnwend und 16° C unter Null! Wir haben unsere Finger und
+Ohren erfroren, und den ganzen Tag hat ein scharfer Südwind gepfiffen. Nun sind
+wir 2440 m über dem Meere. Vom frühen Morgen an haben wir uns südwärts
+durchgearbeitet, und doch beträgt die ganze zurückgelegte Strecke nur 11 km,
+denn nach dem Mittagessen sahen wir uns genötigt, die Schlitten auf die gewohnte
+Weise über Spalten und Eispressungen hinüberzuziehen. Unzweifelhaft ist der Wind
+an der niederen Temperatur schuld, und wir fühlen die Kälte um so mehr, da wir
+nur spärliche Mahlzeiten einnehmen. Die Höhe ist ein weiterer erschwerender
+Umstand, aber es geht doch südwärts. Wir brachen morgens um 6 Uhr auf und haben
+uns bis 6 Uhr abends unermüdlich vorwärts geschafft. Der einzige Zeltplatz, den
+wir finden konnten, war eine mit Schnee gefüllte Spalte. Der Gletscher, den wir
+hier erklimmen, bietet beim Hinabschauen einen wundervollen Anblick. Die Gebirge
+erstrecken sich in gerader Linie nach Osten und Westen, und einzelne davon sind
+über 4500 m hoch.
+
+Wir sind jetzt immer hungrig, und die Kälte ist so durchdringend, wie wenn der
+Frühlingsanbruch in der Nähe wäre. Unser Bart ist den ganzen Tag ein einziger
+Eisklumpen.“
+
+&nbsp;22. Dezember. „Ich könnte mir leicht einbilden, wir befänden uns auf einem
+Ausflug im ersten Frühjahr. Das Thermometer zeigt — 21° C und eine scharfe
+südöstliche Brise dringt durch unsere Zeltwände, die allmählich fadenscheinig
+werden. Heute haben wir die Schlitten immerfort über Streifen von Eispressungen
+ziehen müssen. Wir sind nur 7½ km gegen Süden vorgedrungen, aber unsere
+Aussichten sind jetzt sehr verheißungsvoll; wir müssen den Gipfel des Gletschers
+sicherlich erreicht haben, denn der Boden vor uns wird flacher, und die Spalten
+ausgenommen werden wir wohl morgen auf keine großen Schwierigkeiten stoßen. Wir
+ziehen nun jedesmal 200 kg auf einem Schlitten über die steilen Abhänge und die
+gefährlichen Schneebrücken und benutzen dabei beständig ein Gletscherseil. Wenn
+wir zurückgehen, um den anderen Schlitten zu holen, halten wir das Seil immer
+straff zwischen uns, denn der Boden unter uns ist so unzuverlässig, daß wir
+unangeseilt gar oft in grundlose Tiefen stürzen würden. Heute abend steht unser
+Zelt in einer mit Schnee gefüllten Gletscherspalte. Gerade hinter uns ist, so
+weit das Auge reicht, lauter ineinandergeschobenes aufgetürmtes Preßeis. Vor uns
+aber liegt — Gott sei Dank — der Weg zum Pol frei.“
+
+&nbsp;23. Dezember. „2700 m über dem Meere, und noch immer geht es zwischen
+Eispressungen und Eiswänden nach der Hochebene aufwärts. Nach mehrstündigem
+Marschieren sahen wir, daß das Gelände immer steiler wurde, und unsere Hoffnung,
+die Hochebene erreicht zu haben, wurde dadurch vernichtet. Die Eisspalten waren
+heute viel gefährlicher als je vorher, weil sie unter dicken Schneeschichten
+verborgen lagen. Immer wieder mußten wir einander aus diesen fürchterlichen
+Löchern herausziehen. Wir brachen wieder früh um 6 Uhr auf und gönnten uns, mit
+Ausnahme der einstündigen Mittagspause, bis abends 6 Uhr keine Ruhe. Der
+Ponymais ist jetzt nicht mehr weich zu bekommen, das Wasser ist zu kalt. Die
+Folge davon ist, daß er in unserem Magen aufquillt. Wir sind sehr hungrig und
+sprechen immer von guten leckeren Sachen, die wir uns wünschen. Trotz der
+beschwerlichen Bodenbeschaffenheit haben wir heute doch 24 km zurückgelegt und
+sind jetzt auf 85° 41´ s. Br. Wenn wir doch wenigstens morgen dieses
+entsetzliche Gelände hinter uns hätten, damit wir endlich tüchtig auf den Pol
+zumarschieren könnten!“
+
+&nbsp;24. Dezember. „Endlich ein guter Tag! Wir brachen morgens um 7 Uhr auf. Im
+Anfang stürzten wir so ziemlich alle der Reihe nach in Löcher und Spalten; aber
+nachdem wir eine etwas westlichere Richtung eingeschlagen hatten, wurde der
+Boden günstiger. Nach der Mittagspause packten wir den einen Schlitten wieder,
+denn wir ziehen jetzt nur noch mit einem weiter. Die Oberfläche des Eises hatte
+sich jetzt merkwürdig gebessert, und ein frischer Wind blies von Süden her mit
+wirbelndem Schnee bei — 22° C, so daß unsere Gesichter beständig mit einer
+Eiskruste überzogen waren. Im Lauf des Nachmittags besserte sich die
+Schneefläche immer mehr, und die Spalten hörten auf. Aber es geht noch immer
+bergauf. Von dem Gipfel eines erklommenen Schneekammes erblickten wir neues
+Land, das sich südsüdwestwärts bis zum 86.° s. Br. erstreckt. Wir waren todmüde,
+als wir um 6 Uhr abends unser Lager aufschlugen. An Kleidern haben wir nur noch,
+was wir auf dem Leibe tragen. Die Kälte ist hier oben viel empfindlicher, als
+ich mir gedacht hatte. Heute abend befinden wir uns 2800 m ü. d. M., und noch
+immer geht es aufwärts. Ich hoffe, wir kommen jetzt bald auf ebenes Gelände,
+denn es ist überaus beschwerlich, den Schlitten auf dieser Höhe bergauf ziehen
+zu müssen. Noch sehe ich nichts von der harten Oberfläche, von der Kapitän Scott
+auf seiner Reise nach der Hochebene berichtet. Die Oberfläche hier sieht aus,
+als sei sie von einem regelmäßigen Schneefall bei ruhigem Wetter gebildet
+worden. Wir nähern uns dem Ziel. Heute haben wir 20 km zurückgelegt.“
+
+&nbsp;25. Dezember. „Weihnachten bei 25° C unter Null und einem beißend scharfen
+Wind von Süden her mit heftigem Schneetreiben! Wir haben uns die gewohnte Zeit
+hindurchgekämpft; aber es ging eine der steilsten Eiswände hinauf, die wir bis
+jetzt auf unserem Wege angetroffen haben, und sie war überdies da und dort von
+Spalten zerrissen. Wir befinden uns jetzt auf 85° 55´ und in einer Höhe von 2900
+m ü. d. M. heute nachmittag sahen wir ganz deutlich, daß sich das neue Land nach
+Südosten erstreckt, und wir konnten viele Gletscher erkennen. Es ist übrigens
+verhältnismäßig recht wenig Schnee zu sehen. Abends 6 Uhr, als wir eben Rast
+machten, nahm der Wind bedeutend zu. Es ist schwer verständlich, warum hier, wo
+es doch unaufhörlich stürmt und windet, eine lose Schneedecke liegt, und die
+einzige Erklärung für diese Erscheinung ist, daß wir die wirkliche Hochebene
+noch nicht erreicht haben. Nach dem Abendessen besprachen wir unsere Lage
+gründlich und kamen zu dem Ergebnis, daß wir uns von dem täglichen Essen noch
+mehr abknapsen müssen. Wir haben etwa 900 km zurückzulegen, um an den Pol und
+wieder zurück zu gelangen. Noch haben wir für einen Monat Lebensmittel, aber
+Zwieback nur noch für drei Wochen, wir müssen also das wöchentliche Maß auf 10
+Tage strecken. Von nun an werden wir also zum ersten Frühstück einen Zwieback,
+zum Mittag drei und abends zwei bekommen. Anders läßt sich die Sache durchaus
+nicht einrichten. Morgen lassen wir alles zurück, was nicht durchaus nötig ist.
+Betreffs der Kleider haben wir das ja schon lange getan, aber jetzt lassen wir
+auch die Ersatzschlittenkufen zurück und verlassen uns auf die am Schlitten fest
+angebrachten. Marschall hat heute abend die Temperatur gemessen, sie zeigte 2
+Grad unter dem Normalen.“
+
+&nbsp;26. Dezember. „Wir ließen einen großen Teil unserer Ausrüstung zurück und
+brachen um 7 Uhr morgens auf. Wir haben 26 km zurückgelegt, zum Teil durch losen
+Schnee und bei schneidendem Wind. Es ging die ganze Zeit bergauf über einen
+hohen Schneekamm nach dem andern. Heute abend beträgt unsere Höhe 2920 m ü. d.
+M. Alle diese Schneekämme unterscheiden sich sehr wenig voneinander, der eine
+sieht genau so aus wie der andere. Der Schnee dazwischen ist lose, aber auf den
+Gipfeln ist er sehr hart. So oft wir einen Gipfel erstiegen haben, sagen wir:
+Vielleicht ist das der letzte gewesen! — aber es ist nie der letzte; immer wieder
+taucht ein neuer auf. Heute haben wir das Land aus den Augen verloren, und wir
+haben nur noch die endlose Schneefläche vor uns. In zwei Tagen ist unser Mais zu
+Ende, die knappe Kost ist recht unangenehm, aber es läßt sich eben nicht anders
+einrichten. Wenn wir uns eine gewöhnliche Mahlzeit gönnen würden, müßten wir
+jeden Gedanken an ein weiteres Vordringen gegen Süden aufgeben.“
+
+&nbsp;27. Dezember. „Wenn eine ungeheure Schneefläche, die nach je 12 km in
+einem steilen Hügelkamm endigt, eine Hochebene genannt werden kann, dann sind
+wir endlich angelangt. Wir befinden uns 3000 m ü. d. M. Um 11 Uhr vormittags
+trafen wir auf einen der steilen Abhänge, den wir nur mit Aufbietung aller
+Kräfte überwinden konnten. Jeder von uns zieht jetzt 75 kg. Nachmittags
+versperrte uns wieder so ein Schneekamm den Weg, und es war ebenso schwer,
+darüber wegzukommen, wie über den am Vormittag. Der Rücken und die Beine taten
+uns tüchtig weh, als er endlich erklommen war. Wir haben 26 km zurückgelegt. Die
+Oberfläche ist jetzt höchst merkwürdig — lauter kleine Schneewehen, die nach
+Südsüdost laufen. Unsere knappe Kost erweckt Gedanken an Plumpudding in unseren
+Herzen, und der unaufgeweichte Mais macht uns Verdauungsbeschwerden. Aber das
+läßt sich nicht ändern — es geht trotz allem südwärts! Heute abend befinden wir
+uns auf 86° 19´ s. Br.“
+
+&nbsp;28. Dezember. „Den ganzen Vormittag ging es bergauf, aber das Gelände
+wechselte beständig. Zuerst trafen wir auf breite Schichten festen Schnees, dann
+kam tiefer loser Schnee, in den wir bis über die Knöchel einsanken. Gestern
+trafen wir auf die letzte Eisspalte. Wir sind jetzt 3100 m ü. d. M., und die
+Hochebene wird immer flacher, aber die Anstrengungen waren noch ebenso groß. Die
+bedeutende Höhe und die niedere Temperatur von — 26° C erschweren das Atmen
+ungeheuer. Heute abend sind wir auf 86° 31´ s. Br. angelangt. Wir hoffen über
+die letzten 111 km recht rasch hinwegzukommen, indem wir hier noch ein
+Vorratslager errichten und darin alles, was wir noch entbehren können,
+niederlegen. Bei gutem Wetter hoffe ich den Pol am 12. Januar zu erreichen und
+am 28. Februar wieder im Winterlager einzutreffen. Wenn wir den Schlitten eine
+Stunde lang gezogen haben, sind wir jetzt so müde, daß wir uns auf den Rücken
+legen, um nur drei Minuten auszuruhen. Heute haben wir in 10 Stunden 26 km
+zurückgelegt. Die knappe Kost macht sich geltend, und wir freuen uns auf die
+Zeit, wo sie zu Ende ist. Adams hatte gestern schlimmes Kopfweh, und heute bin
+ich damit geplagt. Das Gelände wird ebener, und ich hoffe, wir können morgen 28
+km zurücklegen.“
+
+&nbsp;29. Dezember. „Gestern hatte ich gehofft, wir würden heute 28 km
+überwinden; aber so wechselnd sind die Verhältnisse hier, daß man auch nicht
+eine Stunde bestimmt voraussagen kann, wie es in der nächsten sein wird. Hunger
+und Kälte sind schuld daran, daß wir nur 22 Km fertig gebracht haben. Wir sind
+jetzt auf einer Höhe von 3150 m. Es ist die ganze Zeit bergauf gegangen, und das
+Ziehen des Schlittens ist außerordentlich anstrengend gewesen. Allmählich fängt
+es an, ernst für uns auszusehen, denn wir müssen etwas mehr essen, wenn wir
+wirklich vorwärts kommen wollen, und wir müssen es wagen, unser letztes
+Vorratslager 130 km vom Pol entfernt anzulegen, um dann mit einer letzten
+Kraftanstrengung hinzugelangen. Unser Schlitten ist sehr abgenutzt, und in dem
+losen Schnee ist das Vorwärtskommen furchtbar schwierig. Adams und ich haben
+heute heftige Kopfschmerzen. Wahrscheinlich ist dies eine Art Bergkrankheit, die
+von der großen Höhe herkommt, in der wir uns jetzt befinden; körperliche
+Anstrengungen sind auf großen Höhen immer angreifend, und wir müssen den ganzen
+Tag den Schlitten ziehen. Mich selbst plagt das Kopfweh schrecklich, ich habe
+das Gefühl, als würden meine Nerven um einen Korkzieher gewunden und so in die
+Länge gezogen. Marschall hat heute die Körpertemperatur gemessen; sie betrug
+ungefähr 34,4° C. Trotz allem geht es aber doch südwärts. Wir sind jetzt nur
+noch 357 km vom Pol entfernt. Jeder von uns hat nur noch 75 kg zu ziehen, aber
+sie kommen uns schwerer vor als die 128, mit denen wir anfingen. Es kostet noch
+harte Arbeit, bis der Pol erreicht ist.“
+
+&nbsp;30. Dezember. „Heute haben wir nur 7 km zurückgelegt, weil wir um 11 Uhr
+vormittags schon aufhören mußten.“
+
+:::: { .break-before  .wrap-100  }
+![Wild, Shackleton, Marschall, Adams.](Die_Eroberung_des_Suedpols_Vol_I_129.jpg "Wild, Shackleton, Marschall, Adams."){#b129}
+::::
+
+&nbsp;31. Dezember. „Der Sylvesterabend ist der schwerste Tag, den wir seither
+gehabt haben. Bei scharfem Gegenwind und — 22° C ging es durch tiefen, losen
+Schnee unausgesetzt bergauf. Wir befinden uns jetzt 3200 m ü. d. M., und diese
+Höhe verbittert uns das Leben sehr. Ich habe den ganzen Tag an heftigen
+Kopfschmerzen gelitten, und wir alle fühlen die Wirkung der allzu knappen
+Ernährung; aber es geht doch noch immer südwärts. Jetzt sind wir auf 86° 54` s.
+Br.; wir haben indes nur noch für 3 Wochen Lebensmittel, Zwieback nur noch für
+14 Tage, und dabei sollen 930 km zurückgelegt werden. Wir wollen jeden— falls
+unser Bestes tun. Heute abend bin ich zu müde, um noch mehr zu schreiben; wir
+haben 20 km zurückgelegt.“
+
+&nbsp;1. Januar. „Mein Kopf schmerzt so, daß ich nicht schreiben kann. Wir haben
+20 km überwunden, und unsere Breite ist 87° 6½´, so daß wir alle Höchstleistungen
+sowohl im Norden als im Süden geschlagen haben. Wir sind von der ungenügenden
+Nahrung alle sehr angegriffen. Nun sind wir nur noch 320 km vom Pol entfernt.
+Unsere Höhe beträgt 3280 m ü. d. M.“
+
+&nbsp;2. Januar. „Heute schrecklich ermattet. Wir brachen vormittags 6 Uhr 45
+Min. auf, bei ziemlich guter Bodenbeschaffenheit. Aber bald nachher kam weicher,
+tiefer Schnee, in den wir bis über die Knöchel einsanken. Wir sind die ganze
+Zeit gestiegen und befinden uns nun 3370 m ü. d. M. Aber wir haben heute nur 18
+km zurückgelegt. Da wir jetzt ungenügend ernährt sind, geht uns der Wind bei —
+26° C durch Mark und Bein, und in dieser Höhe ist jede Bewegung eine
+Anstrengung. — Am wohlsten ist es uns, wenn wir schlafen. Mich selbst plagt das
+Kopfweh am meisten. Wild scheint von uns allen am widerstandsfähigsten zu sein.
+Gott weiß, wir tun, was wir können, aber die Aussichten sind nicht
+vielversprechend, wenn es bei dieser Bodenbeschaffenheit noch lange so weiter
+geht, und wir noch immer höher hinauf müssen, denn dann gehen unsere Vorräte auf
+die Neige. Ich kann mir nicht ausdenken, daß es uns mißlingen sollte; aber ich
+muß die Verhältnisse überlegen und abwägen und habe an das Leben derer zu
+denken, die bei mir sind. Wenn wir zu weit vordringen, können wir den Rückweg
+über dieses schreckliche Gelände nicht mehr aushalten, und alles, was wir bisher
+erreicht haben, geht für die Welt verloren. Wir können jetzt die Lage des
+geographischen Südpols auf der höchsten Hochebene der Welt mit Sicherheit
+feststellen, und unsere geologischen und meteorologischen Beobachtungen
+werden für die Wissenschaft von höchstem Wert sein. Aber alles dies ist eben
+doch immer noch nicht der Pol ... Wir können indes nicht mehr als unser Bestes
+tun,  die stärksten Naturgewalten sind gegen uns. Dieser bitterkalte,
+schneidende Südwind mit dem eisigen Schneegestöber verbittert uns das Leben, und
+nach einem zehnstündigen Kampf in solchem Wetter genügen zwei Zwiebacke, eine
+Tasse Labskaus und eine Tasse Kakao nicht, um uns aufzutauen. Morgen muß ich
+unsere ganze Lage genau abwägen. Die Zeit wird knapp, die Lebensmittel
+ebenfalls.“
+
+&nbsp;3. Januar. „Aufbruch morgens 6 Uhr 55 Min. bei — 22° C Bei dem furchtbar
+schlechten Boden konnten wir am Vormittag nicht mehr als 9 km zurücklegen.
+Nachmittags war es etwas besser, und da kamen wir 11 km vorwärts. Unsere Breite
+ist jetzt 87° 28´ und die Höhe 3450 m. Morgen müssen wir es wagen, noch ein
+Vorratslager anzulegen und noch einen Versuch zu machen, das Ziel zu erreichen;
+aber wenn die Bodenbeschaffenheit nicht besser wird, werden wir noch 14 Tage
+dazu brauchen.“
+
+&nbsp;4. Januar. „Das Ende ist nahe. Wir können nur noch drei Tage so
+fortmachen, denn unsere Kräfte verfallen rasch. Knappe Kost im Verein mit Wind
+und Schneegestöber von Süden her, sowie eine Temperatur von — 26° C geben uns
+deutlich zu verstehen, daß wir das äußerste geleistet haben. Mittags waren wir
+von der Kälte so erschöpft, daß drei von uns unter 34,4° C Blutwärme hatten.
+
+&nbsp;7 Uhr 20 Min. vormittags waren wir aufgebrochen, nachdem wir auf der
+endlosen weißen Fläche ein Vorratslager angelegt hatten. Unsere ganze,
+verzweifelte Lage rechtfertigte diesen gewagten Schritt, und ich hatte mich der
+Einwilligung meiner Gefährten zum voraus versichert. Der bei dem Vorratslager
+aufgestellte Bambusstock — eine unserer Zeltstangen — an dem eine kleine Fahne
+flatterte, sah bedauernswert klein aus; wir hatten sie schon nach einem
+halbstündigen Marsch aus den Augen verloren und können uns nun auf dem Rückweg
+nur an unsere Fußstapfen halten. Heute haben wir 23 km zurückgelegt; es fällt
+uns viel schwerer, die jetzigen 38 kg zu ziehen als die ursprünglichen 125.
+Dies halte ich für einen deutlichen Beweis, daß unsere Kräfte abnehmen. Unsere
+schlimmsten Feinde sind jetzt die Höhe und der schneidende Wind. Unsere
+Gesichter sind vom Frost tüchtig mitgenommen, und unsere Hände und Füße immer am
+Erfrieren. Zwei Finger an meiner linken Hand sind fast nicht mehr warm zu
+bekommen; ich habe sie mir bei der Arbeit mit dem Motorschlitten im Winter
+zerschunden. Unsere Stiefel sind nächstens durchgelaufen, und wir müssen von
+Zeit zu Zeit anhalten, um den Schnee von den Sohlen abzukratzen. Meiner Ansicht
+nach müßte selbst bei Sommerarbeit auf dieser Hochebene jeder eine tägliche
+Ration von mindestens 3 kg haben, und wir haben täglich nur 1 kg. Um Gewicht zu
+ersparen, haben wir vor drei Wochen unser doppeltes Unterzeug im Vorratslager
+niedergelegt, so daß wir jetzt Tag und Nacht in denselben Kleidern bleiben
+müssen. Wenn wir morgens aus unseren nassen Schlafsäcken heraustaumeln, wird
+unser Hauch augenblicklich zu Reif, und im Lauf des Tages wird Haar und Bart zu
+einer wahren Eismasse. Wir hoffen jetzt bis auf 188 km an den Pol hinzugelangen.
+Unter den obwaltenden Verhältnissen können wir nicht mehr erwarten. Ich bin
+überzeugt, daß der Pol auf dieser meilenweit von jedem wahrnehmbaren Land
+entfernten Hochebene liegt, die wir hier entdeckt haben. Die Temperatur beträgt
+— 30° C.“
+
+&nbsp;5. Januar. „Wieder Gegenwind und Schneegestöber bei — 28° C und eine
+schreckliche Bodenbeschaffenheit! Wir mußten über festgefrorene scharfe
+Schneewehen weg, die mit einer dünnen Lage losen Schnees bedeckt waren, was
+allen das Vorwärtskommen schrecklich erschwerte. Trotzdem haben wir 24 km
+zurückgelegt. Aber wir waren gezwungen, die täglichen Mahlzeiten etwas
+reichlicher zu gestalten, sonst hätten wir jeden Gedanken an ein weiteres
+Vordringen aufgeben müssen. Morgens um 7 Uhr zogen wir ab, und erst abends 6 Uhr
+wurde das Zelt aufgeschlagen. Jetzt rasten wir alle in einem Zelt; demzufolge
+sind wir mit dem Aufschlagen rascher als je fertig geworden.
+Dieses Zelt ist nämlich für uns alle zu klein; zwei müssen abends davor stehen,
+bis drinnen alles in Ordnung ist, und das ist ein sehr kaltes Vergnügen. Der
+Hunger nagt gewaltig an uns, und unser Lebensmittelvorrat ist überaus knapp. Ich
+habe furchtbare Kopfschmerzen. Im Anfang habe ich dieses Kopfweh meinem Feind
+angewünscht, aber auch das tue ich nicht mehr, denn selbst meinem schlimmsten
+Feind möchte ich keine so grauenvolle Schmerzen mehr wünschen. Es fällt uns
+jetzt außerordentlich schwer, den ganzen Tag unterwegs zu sein, und ich glaube
+nicht, daß wir noch länger als 3 Tage so fortmachen können. Seit wir die
+Hochebene erreicht haben, ist die Temperatur noch nicht ein einziges Mal über —
+18° C gestiegen, obgleich es hier Hochsommer ist. Wir haben das
+Menschenmöglichste geleistet und müssen froh sein, daß wir überhaupt so weit
+gekommen sind.“
+
+&nbsp;6. Januar. „Dies war der letzte Tag, an dem wir mit der Zeltausrüstung
+südwärts gezogen sind. Morgen müssen wir mit etwas Mundvorrat in der Tasche so
+weit wie möglich nach Süden vordringen und dann die Flagge aufpflanzen. Heute
+haben wir — 32° C gehabt mit scharfem Wind und Schneegestöber. Trotzdem haben
+wir 24 km durch losen Schnee zurückgelegt. Morgen wollen wir also mit der Flagge
+so rasch wie möglich südwärts. Wir sind heute abend auf 88° 7´ s. Br. Ein
+scharfer Wind braust daher. Ich bin nicht imstand, meine Gefühle
+niederzuschreiben. Daß wir jetzt umkehren müssen! Nur eins hilft mir über meine
+Enttäuschung weg: das Bewußtsein, alles getan zu haben, was in meiner Macht
+stand. Die Naturmächte haben uns an der vollständigen Erreichung des Ziels
+verhindert. Ich kann nicht mehr schreiben.“
+
+&nbsp;7. Januar. „Heulender, rasender Sturm den ganzen Tag hindurch bei einer
+Temperatur von — 30 bis — 40° C. Es war unmöglich, aus dem vollständig
+eingeschneiten Zelt auch nur herauszukommen. Wir haben den ganzen Tag in den
+Schlafsäcken gelegen und sind nur warm geworden, wenn wir gegessen hatten. Der
+aufgewirbelte feine Schnee dringt durch die Wände des schlechten Zelts herein
+und legt sich in einer dünnen Schicht auf unsere Schlafsäcke. Adams hat
+wiederholt Krampfanfälle gehabt. Es ist sehr schwer für uns, daß wir hier liegen
+und den Mundvorrat aufessen müssen, ohne vorwärts kommen zu können. Der Wind
+bläst mit einer Stärke von 40 bis 50 m. d. Sek. Ich kann fast gar nicht mehr
+schlafen. Noch hoffe ich, der Sturm werde sich morgen legen. Sobald er vorüber
+ist, dringe ich so weit wie möglich gen Süden vor, pflanze die Flagge auf, und
+dann drehen wir um. Wir sind in großer Angst, die zu dem letzten Vorratslager
+führenden Fußstapfen könnten verschneit werden, denn sie sind unser einziger
+Wegzeiger für den Rückweg. Auf dieser großen Schneefläche gibt es keine
+Landmarken, die als Merkmal dienen könnten. Wir setzen uns allerdings einer
+großen Gefahr aus, aber da wir A gesagt haben, müssen wir nun auch B sagen und
+hoffen, daß die Vorsehung uns hilft.“
+
+&nbsp;8. Januar. „Wieder ein ganzer in den Schlafsäcken verbrachter Tag. Der
+Hunger plagt uns heftig, und unsere Hände und Füße sind vom Frost sehr
+mitgenommen. Zitternd liegen wir in unsern Schlafsäcken. Ab und zu ist einem ein
+Fuß erstarrt; dann muß er ihn herausziehen und ihn zu dem Fuß seines Nachbarn
+hineinstecken, der womöglich in einem ebenso traurigen Zustand ist wie der
+seinige. Wir müssen noch weiter nach Süden vordringen, selbst wenn wir hier die
+Lebensmittel aufzehren und mit jeder Stunde schwächer werden. Jetzt haben wir —
+40° C, der Wind saust mitten durch unser dünnes Zelt hindurch, und der wirbelnde
+Schnee findet den Weg sogar in unsere Säcke hinein, die doch vorher schon ganz
+naß sind. Wir werden oft von Krämpfen befallen, und der Stöberschnee hat das
+Zelt so beschwert und zusammengedrückt, daß wir kaum noch Platz darin haben. Ich
+fühle es wohl, der morgige Marsch wird der letzte sein, den wir in südlicher
+Richtung machen; wir sind nur unzulänglich ernährt, und es fällt uns sehr
+schwer, uns zwischen den mageren Mahlzeiten in dieser Höhe — 3540 m ü. d. M. —
+warm zu erhalten.“
+
+:::: { .break-before  .wrap-100  }
+![Shackletons südlichster Punkt, 88° 23´, 9. Januar 1909.](Die_Eroberung_des_Suedpols_Vol_I_135.jpg "Shackletons südlichster Punkt, 88° 23´, 9. Januar 1909."){#b135}
+::::
+
+&nbsp;9. Januar. „Unser letzter Marsch südwärts ist zu Ende. Wir haben getan,
+was wir konnten. Das Ergebnis ist 88° 28' s. Br. und 162° ö. L.
+
+Der Wind legte sich morgens 1 Uhr. Um 4 Uhr machten wir uns auf den Weg mit der
+Flagge, einem messingnen Zylinder voll Briefmarken und Briefen,
+Photographieapparat, Fernglas und Kompaß. Um 9 Uhr vormittags erreichten wir
+nach einem strammen Marsch 88° 28´ s. Br. Der Weg war nach dem letzten Sturm
+hart gefroren. Es war uns ganz sonderbar, daß wir ohne unsere gräßliche Plage,
+den Schlitten hinter uns herziehen zu müssen, so dahinwandern konnten. Nun
+pflanzten wir die Flagge des Königs auf, dann unsere eigene und dann ergriffen
+wir im Namen des Königs Besitz von dem Lande. Während unsere Flagge sich bei
+schneidend kaltem Wind, der einem durch Mark und Bein ging, entfaltete,
+richteten wir unser ausgezeichnetes Fernglas nach Süden, konnten aber weit und
+breit nichts anderes sehen als die unendliche weiße Schneefläche. Nirgends war
+auf der Hochebene, die sich bis zum Pol hin erstreckte, eine Unterbrechung
+wahrzunehmen, und wir sind überzeugt, daß das Ziel, das wir nicht erreicht
+haben, auf dieser Hochebene liegt. Wir verweilten nur wenige Minuten auf dieser
+Stelle, packten dann die Flagge des Königs wieder zusammen, drehten um und
+traten den Rückweg an. Unsere magere Mahlzeit verzehrten wir unterwegs.
+
+Um 3 Uhr nachmittags waren wieder bei unserem Zelt und wanderten dann noch
+weiter nordwärts, waren aber nach 2 Stunden so todmüde, daß wir das Lager
+aufschlagen mußten. Nun geht es also wirklich rückwärts. So enttäuscht wir auch
+sind, wir haben doch den Trost, daß wir alles getan haben, was in unsern Kräften
+stand.“ Der Rückweg dieser kühnen Pfadfinder war ein fortgesetzter Kampf ums
+Leben, was ja bei dem erschöpften Zustand, in dem sie sich nach den ungeheuren
+Anstrengungen und Entbehrungen befanden, nur natürlich war. Glücklicherweise
+fanden sie alle ihre Vorratslager wieder, sonst ware ihnen der Tod sicher
+gewesen.
+
+Am 4. März erreichten alle vier das Winterlager, nachdem sie während der letzten
+Wochen sozusagen mit dem Tod um die Wette gelaufen waren. Ganz erschöpft trafen
+sie im Winterlager ein, und hier wartete ihrer ein neues Mißgeschick — Seuche
+und Krankheit. Sie wurden von Dysenterie ergriffen und litten unaussprechlich.
+Aber mit übermenschlicher Anstrengung gelang es ihnen schließlich, auch diesen
+neuen Feind zu überwinden.
+
+Wer immer diese Tagebuchaufzeichnungen liest, wird von grenzenloser Bewunderung
+für diese vier Helden erfüllt werden. Ein deutlicheres Zeugnis dafür, was ein
+Mensch leisten kann, wenn er seine ganze Kraft und seinen ganzen Willen
+einsetzt, wird es wohl kaum in der Weltgeschichte geben. Ein Denkmal haben diese
+Männer errichtet, nicht nur für sich selbst und ihre Leistungen,
+sondern auch zur Ehre ihres Vaterlandes und der ganzen gebildeten Welt.
+
+Shackletons Großtat ist einer der stolzesten Abschnitte in der Geschichte der
+antarktischen Forschung.
+
+Die Entfernung, die diese Leute auf dem Hin- und Rückweg zurückgelegt haben,
+beträgt 1630 Seemeilen oder 2830 km. Dazu brauchten sie 127 Tage — nämlich 73
+Tage hin und 54 Tage zurück. Der tägliche Durchschnittsmarsch beträgt ungefähr
+22 km.
+
+Aber nicht allein der gewaltige Vorstoß nach Süden zeichnete diese
+Forschungsreise aus, die Arbeit erstreckte sich auch in nördlicher Richtung, und
+sie wurde auf eine Weise ausgeführt, die die Bewunderung der ganzen Welt
+hervorrufen mußte.
+
+Die Aufgabe der andern Abteilung war, die Lage des magnetischen Südpols zu
+bestimmen. Diese Abteilung zog am 5. Oktober von dannen. Sie bestand aus drei
+Mann: `Mawson`^[^0298]^, `Mackay` und dem Leiter Professor `Edgeworth David`^[^0297]^. Sie hatten
+weder Ponys noch Hunde bei sich und waren also ganz auf ihre eigenen Kräfte
+angewiesen. Es klingt fast unglaublich, aber es gelang diesen Männern, sich zu
+Fuß über Meer- und Landeis, über Risse und Spalten, durch harten und losen
+Schnee bis zum magnetischen Pol durchzuarbeiten und dort Beobachtungen
+anzustellen. Und was noch besser ist, alle drei kehrten gesund zurück. Die ganze
+Entfernung, die diese Abteilung zurücklegte, beträgt 2330 km.
+
+Professor David sagt in seiner ausgezeichneten Beschreibung dieser Reise: „Die
+ersten 1570 km mußten wir unsere Schlitten auf zweimal ziehen, und das ganze
+Gewicht betrug da etwas über 500 kg, das sich natürlich allmählich etwas
+verminderte. Während der ersten Hälfte der übrigen 960 km betrug das Gewicht 335
+kg, das dann allmählich auf 225 kg zusammenschmolz.
+
+Wir brauchten 122 Tage zu dieser Reise, von denen wir wegen allzu heftigen
+Sturms 5 Tage im Zelt verbringen und 5 andere Tage auf verschiedene kleinere
+Arbeiten verwenden mußten. Den Weg selbst — 2330 km — legten wir in 109
+Arbeitstagen oder mit einem täglichen Durchschnittsmarsch von 21,4 km zurück.
+Zur Errichtung von zwei kleinen Vorratslagern, die in ganz kurzer Entfernung von
+dem Winterlager angelegt wurden, verwendeten wir den Motorschlitten; sonst
+hatten wir keine Hilfe, und wir zogen unsere Schlitten den ganzen Weg allein.
+Anfangs war der Weg über das Meereis ganz gut, aber später verursachten uns das
+übereinandergeschobene Packeis und hohe gewaltige Schneewehen viel Beschwer.
+Ende Oktober, den ganzen November und während eines Teils des Dezembers
+herrschte Tauwetter, wodurch uns viel Mühe und ungeheure Anstrengungen
+erwuchsen. Außerdem mußten wir auf dem letzten Teil der Reise über das Meereis
+immer darauf vorbereitet sein, daß ein Sturm das Eis losreißen und uns ins Meer
+hinaustreiben würde. Und ganz zweifellos haben wir auch das Land gerade noch im
+letzten Augenblick, ehe das Gefürchtete eintraf, erreicht. Dies beweisen die
+großen offenen Waken, die hinter uns entstanden. Der Drygalskigletscher machte
+uns auch ungeheure Schwierigkeiten. Obgleich er nur 37 km breit war, brauchten
+wir doch 14 Tage, bis wir ihn überwunden hatten.
+
+Und schließlich war es auch noch eine recht schwierige Aufgabe, einen gangbaren
+Weg auf die Hochebene hinauf zu finden. Wir versuchten vergeblich, uns einen Weg
+über den Nansenund Bellingshausen-Gletscher zu erzwingen. Ungeheure offene
+Schluchten und breite Spalten verhinderten uns am Vordringen, und zugleich
+verzögerte an vielen Stellen tiefer, loser Schnee das Vorwärtskommen. Auf der
+Hochebene selbst erwarteten uns neue Schwierigkeiten. Die große Höhe erschwerte
+uns das Atmen. Das Fortkommen war durch wellenförmige Anhäufungen und hohe
+Schneewehen äußerst erschwert. Der Wind war kalt und durchdringend, oft von
+wahrer Sturmesstärke. Unsere Lippen, Finger und Füße waren vom Frost sehr
+mitgenommen. Ungenügend ernährt waren wir auch. Und zuletzt wartete unser die
+Enttäuschung, daß der Pol weiter drinnen im Lande lag, als wir berechnet hatten,
+was uns zwang, die Rückkehr zu beschleunigen, wenn wir unser Schiff zur rechten
+Zeit erreichen wollten. Die durchschnittliche Marschleistung auf dieser
+Rückreise betrug 30 bis 37 km täglich.
+
+Nachher ist ja leicht reden; aber darüber herrscht kein Zweifel, wenn wir etwas
+von der großen Menge Seehunde gewußt hätten, die sich der Küste entlang dort
+vorfanden, und wenn wir im Besitze eines guten Hundegespanns gewesen wären, dann
+hätten wir den Weg wohl in der halben Zeit zurücklegen können.“
+
+So viel ist aus der kurzen Schilderung, die Professor David von seiner Rückreise
+gibt, klar und deutlich zu ersehen, daß auch diese drei Männer mit großen
+Hindernissen zu kämpfen hatten. Welch ein stolzer Tag muß es für beide
+Abteilungen des Unternehmens gewesen sein, als sie auf dem Nimrod wieder
+zusammentrafen und sich gegenseitig erzählen konnten, was sie ausgerichtet
+hatten! Mehr als irgend sonst jemand haben diese Männer dazu beigetragen, den
+Schleier zu lüften, der über der „Antarktika“ ruhte.
+
+Aber ein kleiner Zipfel bedeckte sie doch immer noch.^[^0299]^
 
 :::
 
 :::: align-center
 ****
 ::::
+
+:::: { .break-before  .wrap-60  }
+![Karte der Antarktis mit den verschiedenen Forschungsreisen. <small>Gezeichnet von Ivar Refsdal.</small>](Die_Eroberung_des_Suedpols_Vol_I_140.jpg "Karte der Antarktis mit den verschiedenen Forschungsreisen."){#b140}
+::::
+
 
 #### **Anmerkungen** {.break-before .unnumbered}
 
@@ -1702,3 +2971,39 @@ S 116
 [^0280]: [*Ferrar*: vergleiche [Hartley Travers Ferrar](https://de.wikipedia.org/wiki/Hartley_Travers_Ferrar)]{.footnote}
 
 [^0281]: [*Mc. Murdo Bucht*: vergleiche [McMurdo-Sund](https://de.wikipedia.org/wiki/McMurdo-Sund)]{.footnote}
+
+[^0282]: [*Erich von Drygalski*: vergleiche [Erich von Drygalski](https://de.wikipedia.org/wiki/Erich_von_Drygalski)]{.footnote}
+
+[^0283]: [*Hans Ruser*: vergleiche [Hans Ruser](https://de.wikipedia.org/wiki/Hans_Ruser)]{.footnote}
+
+[^0284]: [*Wilkes-Land*: vergleiche [Wilkesland](https://de.wikipedia.org/wiki/Wilkesland)]{.footnote}
+
+[^0285]: [*Knox-Land*: vergleiche [Knox-Küste](https://de.wikipedia.org/wiki/Knox-K%C3%BCste)]{.footnote}
+
+[^0286]: [*Otto Nordenskjöld*: vergleiche [Otto Nordenskiöld](https://de.wikipedia.org/wiki/Otto_Nordenskj%C3%B6ld)]{.footnote}
+
+[^0287]: [*Snow Hill Island*: vergleiche [Snow Hill Island](https://de.wikipedia.org/wiki/Snow_Hill_Island)]{.footnote}
+
+[^0288]: [*Uruguay*: vergleiche [Uruguay (Schiff)](https://de.wikipedia.org/wiki/Uruguay_(Schiff))]{.footnote}
+
+[^0289]: [*Scotia*: vergleiche [Scottish National Antarctic Expedition](https://de.wikipedia.org/wiki/Scottish_National_Antarctic_Expedition#Scotia)]{.footnote}
+
+[^0290]: [*Coats-Land*: vergleiche [Coatsland](https://de.wikipedia.org/wiki/Coatsland)]{.footnote}
+
+[^0291]: [*Dr. Johann Charcot*: vergleiche [Jean-Baptiste Charcot](https://de.wikipedia.org/wiki/Jean-Baptiste_Charcot)]{.footnote}
+
+[^0292]: [*Loubet-Land*: vergleiche [Loubet-Küste](https://de.wikipedia.org/wiki/Loubet-K%C3%BCste)]{.footnote}
+
+[^0293]: [*Fallières-Land*: vergleiche [Fallières-Küste](https://de.wikipedia.org/wiki/Falli%C3%A8res-K%C3%BCste)]{.footnote}
+
+[^0294]: [*Charcot-Land*: vergleiche [Charcot-Insel](https://de.wikipedia.org/wiki/Charcot-Insel)]{.footnote}
+
+[^0295]: [*Nimrod*: vergleiche [Nimrod](https://de.wikipedia.org/wiki/Nimrod_(Schiff))]{.footnote}
+
+[^0296]: [*Kap Royds*: vergleiche [Kap Royds](https://de.wikipedia.org/wiki/Kap_Royds)]{.footnote}
+
+[^0297]: [*Edgeworth David*: vergleiche [Tannatt William Edgeworth David](https://de.wikipedia.org/wiki/Tannatt_William_Edgeworth_David)]{.footnote}
+
+[^0298]: [*Mawson*: vergleiche [Douglas Mawson](https://de.wikipedia.org/wiki/Douglas_Mawson)]{.footnote}
+
+[^0299]: [Zur Ausarbeitung des Kapitels „Die Geschichte des Südpols“ sind folgende Quellen benutzt worden: Robert Hugo Mill: Die Eroberung des Südpols. Sir Ernst Shackleton: In das Herz der Antarktik.]{.footnote}

@@ -178,23 +178,23 @@ Alexander Kutschin, Ozeanograph aus Rußland.<br />
 * [Belgica im Eis.](ch004.xhtml#b084)
 * [Kaiserpinguin.](ch004.xhtml#b086)
 * [Carsten Vorchgrevink.](ch004.xhtml#b087)
-* [Southern Croß.](ch004.xhtml#b087)
-* R. F. Scott
-* Discovery
-* Mc Murdo-Sund
-* Professor Erich von Drygalsti
-* Dr. Otto Nordenskjöld
-* Dr. Wilh. 85. Bruce
-* Scotia im Packeis
-* Dr. Johann Charcot
-* Sir Ernst Shackleton
-* Nimrod
-* Nimrod im Eis
-* Die Ponys vor dem Kohlenschlitten beim Winterlager
-* Auf dem Marsch nach dem Erebusberg
-* Das südlichste Lager nach einem 60 stündigen Sturm
-* Wild, Shackleton, Marschall, Adams
-* Shackletons südlichster Punkt, 88° 23´, 9. Januar 1909
+* [Southern Croß.](ch004.xhtml#b088)
+* [R. F. Scott.](ch004.xhtml#b091)
+* [Discovery.](ch004.xhtml#b092)
+* [Mc Murdo-Sund.](ch004.xhtml#b093)
+* [Professor Erich von Drygalski.](ch004.xhtml#b096)
+* [Dr. Otto Nordenskjöld.](ch004.xhtml#b097)
+* [Dr. Wilh. S. Bruce.](ch004.xhtml#b102)
+* [Scotia im Packeis.](ch004.xhtml#b103)
+* [Dr. Johann Charcot.](ch004.xhtml#b104)
+* [Sir Ernst Shackleton.](ch004.xhtml#b105)
+* [Nimrod](ch004.xhtml#b109)
+* [Nimrod im Eis.](ch004.xhtml#b111)
+* [Die Ponys vor dem Kohlenschlitten beim Winterlager.](ch004.xhtml#b113)
+* [Auf dem Marsch nach dem Erebusberg.](ch004.xhtml#b116)
+* [Das südlichste Lager nach einem 60 stündigen Sturm.](ch004.xhtml#b121)
+* [Wild, Shackleton, Marschall, Adams.](ch004.xhtml#b129)
+* [Shackletons südlichster Punkt, 88° 23´, 9. Januar 1909.](ch004.xhtml#b135)
 * Roald Amundsen am Schreibtisch (Kopfstück)
 * Kainan Maru
 * Ein Teil der Eisplatte
@@ -309,7 +309,7 @@ Alexander Kutschin, Ozeanograph aus Rußland.<br />
 * Framheim  (Schlußstück)
 
 ## Verzeichnis der Karten und Pläne.
-* Karte der Antarktis mit den verschiedenen Forschungsreisen
+* [Karte der Antarktis mit den verschiedenen Forschungsreisen.](ch004.xhtml#b140)
 * Anlage des Hundelagers
 * Karte der Walfischbucht
 * Kennzeichen für das Vorratslager auf 80° s. Br.
