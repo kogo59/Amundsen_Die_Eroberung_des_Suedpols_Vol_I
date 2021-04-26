@@ -97,7 +97,7 @@ unserer Entdecker Reisen in den Polargegenden dies alles, verbunden mit der
 Verwendung von Hunden als Zugtiere, ist dem Plan zugrunde gelegt worden und hat
 dessen Ausführung möglich gemacht — als der rechte Mann kam.
 
-Deshalb —wenn der rechte Mann erst kommt, geht es durch alle Schwierigkeiten
+Deshalb — wenn der rechte Mann erst kommt, geht es durch alle Schwierigkeiten
 hindurch, als seien gar keine vorhanden, jede einzelne ist vorausgesehen und im
 Geiste schon vorher erlebt worden. Darum komme keiner daher und rede von Glück
 und günstigem Zufall! Amundsens Glück ist das Glück des Starken, der weisen
@@ -201,10 +201,9 @@ wird er gerade so sicher durchführen, wie die, von der er eben heimkehrt.
 Aber während wir hierauf warten, wollen wir uns einstweilen über das freuen, was
 erreicht ist. Wir wollen den schmalen Schlittenspuren folgen, die die kleinen
 schwarzen Punkte Hunde und Männer — über die endlose weiße Fläche dort im fernen
-Süden — wie einen Schienenstrang mitten ins Herz des
-Unbekannten hinein gezogen haben. Der Wind jagt mit rast—
-losem Sausen über diese durch die Schneewüste führenden Spuren
-hin — bald werden sie ausgelöscht sein.
+Süden — wie einen Schienenstrang mitten ins Herz des Unbekannten hinein gezogen
+haben. Der Wind jagt mit rastlosem Sausen über diese durch die Schneewüste
+führenden Spuren hin — bald werden sie ausgelöscht sein.
 
 Aber der Schienenstrang der Wissenschaft ist gelegt, unser
 Wissen ist bereichert worden.

@@ -195,11 +195,11 @@ Alexander Kutschin, Ozeanograph aus Rußland.<br />
 * [Das südlichste Lager nach einem 60 stündigen Sturm.](ch004.xhtml#b121)
 * [Wild, Shackleton, Marschall, Adams.](ch004.xhtml#b129)
 * [Shackletons südlichster Punkt, 88° 23´, 9. Januar 1909.](ch004.xhtml#b135)
-* Roald Amundsen am Schreibtisch (Kopfstück)
-* Kainan Maru
-* Ein Teil der Eisplatte
-* Große Wäsche
-* Der Fram (Schlußstück)
+* [Roald Amundsen am Schreibtisch.](ch005.xhtml#b141) (Kopfstück)
+* [Kainan Maru.](ch005.xhtml#b145)
+* [Ein Teil der Eisplatte.](ch005.xhtml#b148)
+* [Große Wäsche.](ch005.xhtml#b157)
+* [Der Fram.](ch005.xhtml#b184) (Schlußstück)
 * Gruppenbild: Rönne, Lindström, L. Hansen, Kristensen, Stubberud, Beck, Olsen, Johansen und Nödtvedt (Condruck)
 * Las Palmas
 * Amundsens Haus am Bundefjord

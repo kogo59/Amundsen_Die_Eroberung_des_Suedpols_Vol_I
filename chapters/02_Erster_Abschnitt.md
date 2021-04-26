@@ -1,6 +1,5 @@
 # Erster Abschnitt.<br /><br />**Die Geschichte der Südpolarforschung.** {#Erster .unnumbered}
 
-
 ::: justified
 
 :::: {.align-right .fs-xs }
@@ -913,7 +912,7 @@ konnte.
 ![Der Zusammenstoß von Erebus und Terror mit dem Eisberg, 15. März 1842.](Die_Eroberung_des_Suedpols_Vol_I_067.jpg "Der Zusammenstoß von Erebus und Terror mit dem Eisberg, 15. März 1842."){#b067}
 ::::
 
-Da Scott 60 Jahre später gerade in dieser Gegend das König Eduard VII.-Land
+Da Scott 60 Jahre später gerade in dieser Gegend das König Eduard VII.-Land^[^0301]^
 entdeckte, ist es höchst interessant zu hören, was Roß von der Mastspitze aus
 gesehen hat. In seinem Bericht heißt es: „Der Eisrand stieg gegen Süden sachte
 und gleichmäßig an, und wir glaubten die Andeutung von sehr hohen vollständig
@@ -2324,7 +2323,7 @@ wahrlich satt essen!“
 
 &nbsp;20. Dezember. „Noch nicht ganz oben, aber nun ist es nicht mehr weit. Morgens um
 7 Uhr wurde abmarschiert. Den ganzen Tag herrschte eine heftige südliche Brise
-bei einer Temperatur von — 14 und — 15° C und unsere Bärte hingen voller
+bei einer Temperatur von — 14° und — 15° C und unsere Bärte hingen voller
 Eiszapfen. Den ganzen Tag ging es bergauf; wir befinden uns jetzt 2440 m ü. d.
 M. Heute haben wir 85° 17´ s. Br. Wir hoffen beständig, dem letzten Aufstieg
 gegenüberzustehen, aber immer taucht ein neuer vor uns auf, und wir müssen die
@@ -2522,7 +2521,7 @@ Höhe verbittert uns das Leben sehr. Ich habe den ganzen Tag an heftigen
 Kopfschmerzen gelitten, und wir alle fühlen die Wirkung der allzu knappen
 Ernährung; aber es geht doch noch immer südwärts. Jetzt sind wir auf 86° 54` s.
 Br.; wir haben indes nur noch für 3 Wochen Lebensmittel, Zwieback nur noch für
-14 Tage, und dabei sollen 930 km zurückgelegt werden. Wir wollen jeden— falls
+14 Tage, und dabei sollen 930 km zurückgelegt werden. Wir wollen jedenfalls
 unser Bestes tun. Heute abend bin ich zu müde, um noch mehr zu schreiben; wir
 haben 20 km zurückgelegt.“
 

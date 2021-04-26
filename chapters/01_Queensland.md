@@ -81,7 +81,7 @@ September machten sich acht Mann mit sieben Schlitten und 90 Hunden nebst
 Lebensmitteln für 90 Tage auf den Weg. Die Bodenbeschaffenheit war ausgezeichnet
 und die Temperatur erträglich. Aber schon am nächsten Tage zeigte sich, daß wir
 uns zu früh herausgewagt hatten. Die Temperatur fiel und hielt sich während der
-folgenden Tage zwischen 50 und 60° Kälte. Wir persönlich litten nicht darunter,
+folgenden Tage zwischen 50° und 60° Kälte. Wir persönlich litten nicht darunter,
 da wir sehr gute Pelzanzüge hatten, aber bei den Hunden war es eine andere
 Sache. Sie wurden mit jedem Tag magerer, und wir merkten bald, daß sie es auf
 die Dauer nicht aushalten würden. An unserem Vorratslager auf 80° Breite
@@ -90,7 +90,7 @@ wir die Lebensmittel wohl verwahrt hatten, kehrten wir in die Hütte zurück. Wi
 hatten einige Hunde eingebüßt und ein paar Fersen erfroren, sonst aber befand
 sich alles ausgezeichnet. Erst Mitte Oktober wurde es tatsächlich Frühling; nun
 tauchten da und dort Seehunde und Vögel auf. Die Temperatur hielt sich
-gleichmäßig zwischen 20 und 30° Kälte.
+gleichmäßig zwischen 20° und 30° Kälte.
 
 :::: { .break-before  .wrap-100 }
 ![Auf der Seehundjagd.](Die_Eroberung_des_Suedpols_Vol_I_013.jpg "Auf der Seehundjagd."){#b013}
@@ -130,7 +130,7 @@ vermochten.
 
 Am 8. zogen wir wieder südwärts, und von da an betrug der tägliche Marsch 50 km.
 Um die schweren Schlitten zu erleichtern, legten wir auf jedem Grad, den wir
-erreichten, Vorratslager an. Vom 82.0 bis zum 83.0 war es die reinste
+erreichten, Vorratslager an. Vom 82.° bis zum 83.° war es die reinste
 Vergnügungsreise, denn Bodenbeschaffenheit und Witterung waren so günstig, wie
 man sie sich nur wünschen konnte. Alles ging wie am Schnürchen bis zum 9., wo
 wir das Süd-Viktorialand^[^0100]^ und die Fortsetzung der Bergkette sahen, die Shackleton
