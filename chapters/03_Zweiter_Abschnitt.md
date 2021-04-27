@@ -1,4 +1,4 @@
-# Zweiter Abschnitt.<br /><br />**Plan und Ausrüstung.** {#Zweiter .unnumbered}
+# Zweiter Abschnitt.<br />**Plan und Ausrüstung.** {#Zweiter .unnumbered}
 
 :::: { .wrap-100  }
 ![](Die_Eroberung_des_Suedpols_Vol_I_141.jpg "Roald Amundsen am Schreibtisch."){#b141}
@@ -1177,6 +1177,10 @@ wieder, die eine Reise nach dem Südpol hin und zurück gemacht haben.
 
 :::: { .wrap-40  .align-center }
 ![Fram.](Die_Eroberung_des_Suedpols_Vol_I_184.jpg "Fram."){#b184}
+::::
+
+:::: { .wrap-70  .break-before }
+![](Die_Eroberung_des_Suedpols_Vol_I_185.jpg "Rönne, Lindström, L. Hansen, Kristensen, Stubberud, Beck, Olsen, Johansen und Nödtvedt."){#b185}
 ::::
 
 :::

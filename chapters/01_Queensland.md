@@ -1,4 +1,4 @@
-# Der erste Drahtbericht aus Queensland.<br /><br /> {#Queensland .unnumbered}
+# Der erste Drahtbericht aus Queensland.<br /> {#Queensland .unnumbered}
 
 ::: justified
 

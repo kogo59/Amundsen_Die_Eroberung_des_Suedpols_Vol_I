@@ -1,4 +1,4 @@
-# Erster Abschnitt.<br /><br />**Die Geschichte der Südpolarforschung.** {#Erster .unnumbered}
+# Erster Abschnitt.<br />**Die Geschichte der Südpolarforschung.** {#Erster .unnumbered}
 
 ::: justified
 

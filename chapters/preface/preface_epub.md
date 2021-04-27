@@ -200,33 +200,33 @@ Alexander Kutschin, Ozeanograph aus Rußland.<br />
 * [Ein Teil der Eisplatte.](ch005.xhtml#b148)
 * [Große Wäsche.](ch005.xhtml#b157)
 * [Der Fram.](ch005.xhtml#b184) (Schlußstück)
-* Gruppenbild: Rönne, Lindström, L. Hansen, Kristensen, Stubberud, Beck, Olsen, Johansen und Nödtvedt (Condruck)
-* Las Palmas
-* Amundsens Haus am Bundefjord
-* Frischer Westwind
-* Der Fram nimmt Birkenholz an Bord
-* Knut Sundbeck (Condruck)
-* Die Hunde tun einen guten Schlaf
-* Ein gebrochenes Hundebein wird geschient
-* Bug des Fram
-* Der erste Offizier als Tierarzt
-* Funchal auf Madeira
-* Die Backbordwache auf der Landreise in Funchal
-* Feststellung des Chronometerstandes in Funchal
-* Rönne fühlte sich am sichersten, wenn die Hunde einen Maulkorb trugen
-* Olaf Bjaaland (Condruck)
-* Frische Brise im Westwindgürtel
-* Frams Deck im Passatwind
-* Lt. Christian Prestrud    (Condruck)
-* Die „Dame vom Ballett“
-* In Ermanglung von Damen macht Rönne ein Tänzchen mit den Hunden
-* Im Gebiet des Westwindes braucht man die Schraube nicht
-* Frisches Fleisch an Bord des Fram
-* An der Treibeisgrenze bei Mondschein Wierfarbendruck)
-* Unsere zum Weihnachtsabend geschmückte Kajüte
-* Albatross
-* Eisberg im Roßmeer
-* Ein Blick auf die Eiskante     (Condruck)
+* [Gruppenbild: Rönne, Lindström, L. Hansen, Kristensen, Stubberud, Beck, Olsen, Johansen und Nödtvedt.](ch005.xhtml#b185) (Condruck)
+* [Las Palmas.](ch006.xhtml#b186)
+* [Amundsens Haus am Bundefjord.](ch006.xhtml#b187)
+* [Frischer Westwind.](ch006.xhtml#b191)
+* [Der Fram nimmt Birkenholz an Bord.](ch006.xhtml#b195)
+* [Knut Sundbeck.](ch006.xhtml#b199) (Condruck)
+* [Die Hunde tun einen guten Schlaf.](ch006.xhtml#b203)
+* [Ein gebrochenes Hundebein wird geschient.](ch006.xhtml#b205)
+* [Bug des Fram.](ch006.xhtml#b205)
+* [Der erste Offizier als Tierarzt.](ch006.xhtml#b216)
+* [Funchal auf Madeira.](ch006.xhtml#b218)
+* [Die Backbordwache auf der Landreise in Funchal.](ch006.xhtml#b219)
+* [Feststellung des Chronometerstandes in Funchal.](ch006.xhtml#b223)
+* [Rönne fühlte sich am sichersten, wenn die Hunde einen Maulkorb trugen.](ch006.xhtml#b231)
+* [Olaf Bjaaland](ch006.xhtml#b233) (Condruck)
+* [Frische Brise im Westwindgürtel.](ch006.xhtml#b234)
+* [Frams Deck im Passatwind.](ch006.xhtml#b235)
+* [Lt. Christian Prestrud](ch006.xhtml#b240) (Condruck)
+* [Die „Dame vom Ballett“.](ch006.xhtml#b242)
+* [In Ermanglung von Damen macht Rönne ein Tänzchen mit den Hunden.](ch006.xhtml#b243)
+* [Im Gebiet des Westwindes braucht man die Schraube nicht.](ch006.xhtml#b247)
+* [Frisches Fleisch an Bord des Fram.](ch006.xhtml#b251)
+* [An der Treibeisgrenze bei Mondschein.](ch006.xhtml#b247) (Vierfarbendruck)
+* [Unsere zum Weihnachtsabend geschmückte Kajüte.](ch006.xhtml#b253)
+* [Albatros](ch006.xhtml#b257)
+* [Eisberg im Roßmeer.](ch006.xhtml#b259)
+* [Ein Blick auf die Eiskante.](ch006.xhtml#b260)     (Condruck)
 * Die Oberfläche der Eisplatte in der Nähe Framheims
 * Jagd auf die „Fleischfelsen“ (Mutter mit Jungem)
 * Der Fram am Kap Mannskopf  Wierfarbendruck)

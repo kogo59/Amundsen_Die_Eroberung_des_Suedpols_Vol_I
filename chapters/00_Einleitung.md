@@ -1,4 +1,4 @@
-# Einleitung von Fridtjof Nansen<br /><br /> {#Einleitung .unnumbered}
+# Einleitung von Fridtjof Nansen<br /> {#Einleitung .unnumbered}
 
 
 :::: {.wrap-100}
