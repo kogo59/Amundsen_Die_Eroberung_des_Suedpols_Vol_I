@@ -227,40 +227,40 @@ Alexander Kutschin, Ozeanograph aus Rußland.<br />
 * [Albatros](ch006.xhtml#b257)
 * [Eisberg im Roßmeer.](ch006.xhtml#b259)
 * [Ein Blick auf die Eiskante.](ch006.xhtml#b260)     (Condruck)
-* Die Oberfläche der Eisplatte in der Nähe Framheims
-* Jagd auf die „Fleischfelsen“ (Mutter mit Jungem)
-* Der Fram am Kap Mannskopf  Wierfarbendruck)
-* Seehundjagd an der Eiskante
-* Eine Ruhepause während des Ausladens
-* An der Ballon-Bucht
-* Unser erstes Lager auf der Eisplatte
-* Die Lebensmittel werden nach Framheim geschafft
-* Die Balken zum Fußboden des Hauses werden gelegt
-* Hausbau
-* Framheim im Bau   (Condruck)
-* Wie man geschickt an Land geht
-* Getrocknete Fische werden ins Lager geschafft
-* Unser Lager (Mondscheinbild)
-* Eine Ecke in unserer Küche
-* Willkommener Besuch in Framheim  (Condruck)
-* Hunde auf der Eisplatte (Vierfarbendruck)
-* Die Terra Nova verläßt uns
-* Rast auf dem Weg zum Pol
-* Kapitän Nilsen häutet einen Seehund ab
-* Nach beendigtem Tagesmarsch
-* Beförderung von Lebensmitteln   Condruck)
-* Firx und Lassesen, meine beiden Lieblingshunde
-* Ein Hundezelt von innen
-* Der Eingang zu den westlichen Werkstätten
-* Fleischzelt
-* Framheim im Februar 1911
-* Hassel, zur Arbeit angekleidet
-* Bjaaland bei dem Merkzeichen auf 82°
-* Wisting in Wintertracht
-* Framheim im März 1911
-* Winterabend in Framheim
-* Lindström mißt die Windstärke
-* Framheim im April 1911
+* [Die Oberfläche der Eisplatte in der Nähe Framheims.](ch007.xhtml#b263)
+* [Jagd auf die „Fleischfelsen“ (Mutter mit Jungem).](ch007.xhtml#b265)
+* [Der Fram am Kap Mannskopf.](ch007.xhtml#b272)  (Vierfarbendruck)
+* [Seehundjagd an der Eiskante.](ch007.xhtml#b273)
+* [Eine Ruhepause während des Ausladens.](ch007.xhtml#b275)
+* [An der Ballon-Bucht.](ch007.xhtml#b277)
+* [Unser erstes Lager auf der Eisplatte.](ch007.xhtml#b277)
+* [Die Lebensmittel werden nach Framheim geschafft.](ch007.xhtml#b281)
+* [Die Balken zum Fußboden des Hauses werden gelegt.](ch007.xhtml#b283)
+* [Hausbau.](ch007.xhtml#b285)
+* [Framheim im Bau.](ch007.xhtml#b288)   (Condruck)
+* [Wie man geschickt an Land geht.](ch007.xhtml#b290)
+* [Getrocknete Fische werden ins Lager geschafft.](ch007.xhtml#b291)
+* [Unser Lager (Mondscheinbild)](ch007.xhtml#b293)
+* [Eine Ecke in unserer Küche.](ch007.xhtml#b295)
+* [Willkommener Besuch in Framheim.](ch007.xhtml#b296)  (Condruck)
+* [Hunde auf der Eisplatte.](ch007.xhtml#b304) (Vierfarbendruck)
+* [Die Terra Nova verläßt uns.](ch007.xhtml#b303)
+* [Rast auf dem Weg zum Pol.](ch007.xhtml#b307)
+* [Kapitän Nilsen häutet einen Seehund ab.](ch007.xhtml#b309)
+* [Nach beendigtem Tagesmarsch.](ch007.xhtml#b311)
+* [Beförderung von Lebensmitteln.](ch007.xhtml#b312)   (Condruck)
+* [Firx und Lassesen, meine beiden Lieblingshunde.](ch007.xhtml#b316)
+* [Ein Hundezelt von innen.](ch007.xhtml#b320)
+* [Der Eingang zu den westlichen Werkstätten.](ch007.xhtml#b321)
+* [Fleischzelt](ch007.xhtml#b323)
+* [Framheim im Februar 1911.](ch007.xhtml#b326)
+* [Hassel, zur Arbeit angekleidet.](ch007.xhtml#b333)
+* [Bjaaland bei dem Merkzeichen auf 82°.](ch007.xhtml#b338)
+* [Wisting in Wintertracht.](ch007.xhtml#b343)
+* [Framheim im März 1911.](ch007.xhtml#b348)
+* [Winterabend in Framheim.](ch007.xhtml#b353)
+* [Lindström mißt die Windstärke.](ch007.xhtml#b355)
+* [Framheim im April 1911.](ch007.xhtml#b357)
 * Framheim im Schnee
 * Ein Morgenbummel auf der Eiskante (Condruck)
 * Lindström glaubt den Polarstorch gefangen zu haben
@@ -293,7 +293,7 @@ Alexander Kutschin, Ozeanograph aus Rußland.<br />
 * Beim Kartenspiel
 * Framheim im Winter 1911/12
 * Der meteorologische Beobachtungsposten
-* An der Eiskante      (Vierfarbendruck)
+* An der Eiskante   (Vierfarbendruck)
 * Die Schlitten werden in der Intendantur gepackt
 * Das aufgeschlagene Zelt der Südpol-Abteilung
 * Arbeitsabend in der Hütte  (Condruck)
@@ -310,9 +310,9 @@ Alexander Kutschin, Ozeanograph aus Rußland.<br />
 
 ## Verzeichnis der Karten und Pläne.
 * [Karte der Antarktis mit den verschiedenen Forschungsreisen.](ch004.xhtml#b140)
-* Anlage des Hundelagers
-* Karte der Walfischbucht
-* Kennzeichen für das Vorratslager auf 80° s. Br.
+* [Anlage des Hundelagers.](ch007.xhtml#b268)
+* [Karte der Walfischbucht.](ch007.xhtml#b271)
+* [Kennzeichen für das Vorratslager auf 80° s. Br.](ch007.xhtml#b330)
 * Plan des Winterlagers
 * Karte der Reisewege  (dreifarbig)
 
