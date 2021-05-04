@@ -139,7 +139,7 @@ Alexander Kutschin, Ozeanograph aus Rußland.<br />
 * [Der Fram.](ch002.xhtml#b001)
 * [Hissung der Flagge.](ch002.xhtml#b006)
 * [Polarhunde.](ch002.xhtml#b008)  (Schlußstück)
-* [Roald Amundsen in Polartracht.](ch002.xhtml#b009) (Condruck)
+* [Roald Amundsen in Polartracht.](ch002.xhtml#b009) (Tondruck)
 * [Hüttenbau bei Framheim.](ch003.xhtml#b010)
 * [„Am 10. Februar begannen wir uns in südlicher Richtung durchzuarbeiten, um Vorratslager zu errichten“](ch003.xhtml#b011)
 * [Pinguine.](ch003.xhtml#b012)
@@ -200,12 +200,12 @@ Alexander Kutschin, Ozeanograph aus Rußland.<br />
 * [Ein Teil der Eisplatte.](ch005.xhtml#b148)
 * [Große Wäsche.](ch005.xhtml#b157)
 * [Der Fram.](ch005.xhtml#b184) (Schlußstück)
-* [Gruppenbild: Rönne, Lindström, L. Hansen, Kristensen, Stubberud, Beck, Olsen, Johansen und Nödtvedt.](ch005.xhtml#b185) (Condruck)
+* [Gruppenbild: Rönne, Lindström, L. Hansen, Kristensen, Stubberud, Beck, Olsen, Johansen und Nödtvedt.](ch005.xhtml#b185) (Tondruck)
 * [Las Palmas.](ch006.xhtml#b186)
 * [Amundsens Haus am Bundefjord.](ch006.xhtml#b187)
 * [Frischer Westwind.](ch006.xhtml#b191)
 * [Der Fram nimmt Birkenholz an Bord.](ch006.xhtml#b195)
-* [Knut Sundbeck.](ch006.xhtml#b199) (Condruck)
+* [Knut Sundbeck.](ch006.xhtml#b199) (Tondruck)
 * [Die Hunde tun einen guten Schlaf.](ch006.xhtml#b203)
 * [Ein gebrochenes Hundebein wird geschient.](ch006.xhtml#b205)
 * [Bug des Fram.](ch006.xhtml#b205)
@@ -214,10 +214,10 @@ Alexander Kutschin, Ozeanograph aus Rußland.<br />
 * [Die Backbordwache auf der Landreise in Funchal.](ch006.xhtml#b219)
 * [Feststellung des Chronometerstandes in Funchal.](ch006.xhtml#b223)
 * [Rönne fühlte sich am sichersten, wenn die Hunde einen Maulkorb trugen.](ch006.xhtml#b231)
-* [Olaf Bjaaland](ch006.xhtml#b233) (Condruck)
+* [Olaf Bjaaland](ch006.xhtml#b233) (Tondruck)
 * [Frische Brise im Westwindgürtel.](ch006.xhtml#b234)
 * [Frams Deck im Passatwind.](ch006.xhtml#b235)
-* [Lt. Christian Prestrud](ch006.xhtml#b240) (Condruck)
+* [Lt. Christian Prestrud](ch006.xhtml#b240) (Tondruck)
 * [Die „Dame vom Ballett“.](ch006.xhtml#b242)
 * [In Ermanglung von Damen macht Rönne ein Tänzchen mit den Hunden.](ch006.xhtml#b243)
 * [Im Gebiet des Westwindes braucht man die Schraube nicht.](ch006.xhtml#b247)
@@ -226,7 +226,7 @@ Alexander Kutschin, Ozeanograph aus Rußland.<br />
 * [Unsere zum Weihnachtsabend geschmückte Kajüte.](ch006.xhtml#b253)
 * [Albatros](ch006.xhtml#b257)
 * [Eisberg im Roßmeer.](ch006.xhtml#b259)
-* [Ein Blick auf die Eiskante.](ch006.xhtml#b260)     (Condruck)
+* [Ein Blick auf die Eiskante.](ch006.xhtml#b260)     (Tondruck)
 * [Die Oberfläche der Eisplatte in der Nähe Framheims.](ch007.xhtml#b263)
 * [Jagd auf die „Fleischfelsen“ (Mutter mit Jungem).](ch007.xhtml#b265)
 * [Der Fram am Kap Mannskopf.](ch007.xhtml#b272)  (Vierfarbendruck)
@@ -237,18 +237,18 @@ Alexander Kutschin, Ozeanograph aus Rußland.<br />
 * [Die Lebensmittel werden nach Framheim geschafft.](ch007.xhtml#b281)
 * [Die Balken zum Fußboden des Hauses werden gelegt.](ch007.xhtml#b283)
 * [Hausbau.](ch007.xhtml#b285)
-* [Framheim im Bau.](ch007.xhtml#b288)   (Condruck)
+* [Framheim im Bau.](ch007.xhtml#b288)   (Tondruck)
 * [Wie man geschickt an Land geht.](ch007.xhtml#b290)
 * [Getrocknete Fische werden ins Lager geschafft.](ch007.xhtml#b291)
 * [Unser Lager (Mondscheinbild)](ch007.xhtml#b293)
 * [Eine Ecke in unserer Küche.](ch007.xhtml#b295)
-* [Willkommener Besuch in Framheim.](ch007.xhtml#b296)  (Condruck)
+* [Willkommener Besuch in Framheim.](ch007.xhtml#b296)  (Tondruck)
 * [Hunde auf der Eisplatte.](ch007.xhtml#b304) (Vierfarbendruck)
 * [Die Terra Nova verläßt uns.](ch007.xhtml#b303)
 * [Rast auf dem Weg zum Pol.](ch007.xhtml#b307)
 * [Kapitän Nilsen häutet einen Seehund ab.](ch007.xhtml#b309)
 * [Nach beendigtem Tagesmarsch.](ch007.xhtml#b311)
-* [Beförderung von Lebensmitteln.](ch007.xhtml#b312)   (Condruck)
+* [Beförderung von Lebensmitteln.](ch007.xhtml#b312)   (Tondruck)
 * [Firx und Lassesen, meine beiden Lieblingshunde.](ch007.xhtml#b316)
 * [Ein Hundezelt von innen.](ch007.xhtml#b320)
 * [Der Eingang zu den westlichen Werkstätten.](ch007.xhtml#b321)
@@ -261,60 +261,60 @@ Alexander Kutschin, Ozeanograph aus Rußland.<br />
 * [Winterabend in Framheim.](ch007.xhtml#b353)
 * [Lindström mißt die Windstärke.](ch007.xhtml#b355)
 * [Framheim im April 1911.](ch007.xhtml#b357)
-* Framheim im Schnee
-* Ein Morgenbummel auf der Eiskante (Condruck)
-* Lindström glaubt den Polarstorch gefangen zu haben
-* Seehundjagd beim Hause
-* Am Festabend
-* Prestrud in seinem Beobachtungshaus
-* Eingang zur Hütte
-* „Die Schreinergenossenschaft“
-* Verbindungsgang in der Eisplatte zwischen dem Haus und dem Kohlenzelt
-* Die „Genossenschafter“ erweitern ihre Räume. Der Schnee wird durch ein Loch oben in der Schneedecke hinausgeschafft
-* Wisting in seinem Arbeitsraum
-* Eingang zur Intendantur
-* Die Vorratskisten wurden ungefähr 1,5 km vom Hause entfernt gelagert
-* Die Aussicht von Framheim nach Westen     (Tondruck)
-* Eingang zur Hütte
-* Lindström in der Küche
-* Polarkoch Adolf Heinrich Lindström   Condrucdh)
-* Sport auf der Eiswand   (Condruck)
-* Stubberud denkt an das, was er verlassen hat
-* Die Hunde machen sich Bewegung
-* Hassel im Öllager
-* Hanssen und Wisting sorren neue Schlitten
-* Wisting in der Nähstube
-* Johansen packt im Kristallpalast Vorratskisten
-* Prestrud und Hanssen beim Verschnüren der Schlitten im Kristallpalast
-* Johansen an der Zwiebackkiste
-* Hassel vor dem Dampfbad
-* Tafelschmuck in Framheim, 24. Juni 1911
-* Stubberud macht sich's bequem
-* Beim Kartenspiel
-* Framheim im Winter 1911/12
-* Der meteorologische Beobachtungsposten
-* An der Eiskante   (Vierfarbendruck)
-* Die Schlitten werden in der Intendantur gepackt
-* Das aufgeschlagene Zelt der Südpol-Abteilung
-* Arbeitsabend in der Hütte  (Condruck)
-* So sah schließlich unsere Fuß- und Schneeschuhbekleidung aus
-* Die Schneebrillenausstellung
-* Prestrud in Wintertracht
-* „Funcho“
-* Fertig ausgerüsteter Schlitten wird aus der Intendantur heraufgezogen
-* Die zur Abfahrt bereiten Südpolschlitten
-* Das Vorratslager auf dem 80°
-* Eingeschneite
-* Frühling
-* Framheim  (Schlußstück)
+* [Framheim im Schnee.](ch008.xhtml#b359)
+* [Ein Morgenbummel auf der Eiskante.](ch008.xhtml#b360) (Tondruck)
+* [Lindström glaubt den Polarstorch gefangen zu haben.](ch008.xhtml#b361)
+* [Seehundjagd beim Hause.](ch008.xhtml#b363)
+* [Am Festabend.](ch008.xhtml#b367)
+* [Prestrud in seinem Beobachtungshaus.](ch008.xhtml#b369)
+* [Eingang zur Hütte.](ch008.xhtml#b371)
+* [„Die Schreinergenossenschaft“.](ch008.xhtml#b375)
+* [Verbindungsgang in der Eisplatte zwischen dem Haus und dem Kohlenzelt.](ch008.xhtml#b379)
+* [Die „Genossenschafter“ erweitern ihre Räume. Der Schnee wird durch ein Loch oben in der Schneedecke hinausgeschafft.](ch008.xhtml#b380)
+* [Wisting in seinem Arbeitsraum.](ch008.xhtml#b381)
+* [Eingang zur Intendantur.](ch008.xhtml#b382)
+* [Die Vorratskisten wurden ungefähr 1,5 km vom Hause entfernt gelagert.](ch008.xhtml#b384)
+* [Die Aussicht von Framheim nach Westen.](ch008.xhtml#b385)  (Tondruck)
+* [Eingang zur Hütte.](ch008.xhtml#b391)
+* [Lindström in der Küche.](ch008.xhtml#b393)
+* [Polarkoch Adolf Heinrich Lindström.](ch008.xhtml#b400)  (Tondruck)
+* [Sport auf der Eiswand.](ch008.xhtml#b408)    (Tondruck)
+* [Stubberud denkt an das, was er verlassen hat.](ch008.xhtml#b409)
+* [Die Hunde machen sich Bewegung.](ch008.xhtml#b411)
+* [Hassel im Öllager.](ch008.xhtml#b415)
+* [Hanssen und Wisting sorren neue Schlitten.](ch008.xhtml#b423)
+* [Wisting in der Nähstube.](ch008.xhtml#b425)
+* [Johansen packt im Kristallpalast Vorratskisten.](ch008.xhtml#b427)
+* [Prestrud und Hanssen beim Verschnüren der Schlitten im Kristallpalast.](ch008.xhtml#b428)
+* [Johansen an der Zwiebackkiste.](ch008.xhtml#b429)
+* [Hassel vor dem Dampfbad.](ch008.xhtml#b437)
+* [Tafelschmuck in Framheim, 24. Juni 1911.](ch008.xhtml#b441)
+* [Stubberud macht sich's bequem.](ch008.xhtml#b447)
+* [Beim Kartenspiel.](ch008.xhtml#b449)
+* [Framheim im Winter 1911/12.](ch008.xhtml#b453)
+* [Der meteorologische Beobachtungsposten.](ch008.xhtml#b454)
+* [An der Eiskante.](ch008.xhtml#b456)   (Vierfarbendruck)
+* [Die Schlitten werden in der Intendantur gepackt.](ch008.xhtml#b457)
+* [Das aufgeschlagene Zelt der Südpol-Abteilung.](ch008.xhtml#b461)
+* [Arbeitsabend in der Hütte.](ch008.xhtml#b465)  (Tondruck)
+* [So sah schließlich unsere Fuß- und Schneeschuhbekleidung aus.](ch008.xhtml#b469)
+* [Die Schneebrillenausstellung.](ch008.xhtml#b474)
+* [Prestrud in Wintertracht.](ch008.xhtml#b476)
+* [„Funcho“](ch008.xhtml#b478)
+* [Fertig ausgerüsteter Schlitten wird aus der Intendantur heraufgezogen.](ch008.xhtml#b480)
+* [Die zur Abfahrt bereiten Südpolschlitten.](ch008.xhtml#b488)
+* [Das Vorratslager auf dem 80°.](ch008.xhtml#b492)
+* [Eingeschneit.](ch008.xhtml#b494)
+* [Frühling.](ch008.xhtml#b496)
+* [Framheim.](ch008.xhtml#b499)  (Schlußstück)
 
 ## Verzeichnis der Karten und Pläne.
 * [Karte der Antarktis mit den verschiedenen Forschungsreisen.](ch004.xhtml#b140)
 * [Anlage des Hundelagers.](ch007.xhtml#b268)
 * [Karte der Walfischbucht.](ch007.xhtml#b271)
 * [Kennzeichen für das Vorratslager auf 80° s. Br.](ch007.xhtml#b330)
-* Plan des Winterlagers
-* Karte der Reisewege  (dreifarbig)
+* [Plan des Winterlagers.](ch008.xhtml#b373)
+* [Karte der Reisewege.](ch008.xhtml#b999)  (dreifarbig)
 
 ::: align-center
 ****

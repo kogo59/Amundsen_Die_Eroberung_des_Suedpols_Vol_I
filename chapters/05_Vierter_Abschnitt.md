@@ -100,7 +100,7 @@ sei, uns anzuseilen, ehe wir in die Spalte fielen, geschah dies von den beiden
 ersten, die auf der Platte vorrückten.
 
 Wir marschierten in östlicher Richtung durch ein kleines Tal, das von dem
-Nelson-Berg auf der einen und dem RönnikenBerg auf der andern Seite gebildet
+Nelson-Berg auf der einen und dem Rönniken-Berg auf der andern Seite gebildet
 wurde. Der geehrte Leser darf sich aber durch die helltönenden Namen nicht in
 Erstaunen setzen lassen und ja nicht meinen, wir seien da zwischen gewaltigen
 Gebirgen dahingewandert. Der Nelson- und der Rönniken-Berg waren nichts anderes
@@ -532,7 +532,7 @@ Wunsch seines Lebens erreicht — diese Gegenstände auf die für einen Hund so
 eigentümliche, für uns so unbegreifliche Weise zu behandeln. Während dieses
 Verfahren nach Herzenslust vor sich geht, ist der Führer vom Schlitten gestiegen
 und bemüht sich, die Seile wieder in Ordnung zu bringen, die sich jetzt um
-Bretter und Balken und was sich sonst in der Nähe befinden mag, ge-wickelt
+Bretter und Balken und was sich sonst in der Nähe befinden mag, gewickelt
 haben. Er selbst ist weit entfernt davon, den Wunsch seines Lebens erfüllt zu
 sehen — dies scheint jedenfalls der bezeichnende Ausruf, dessen er sich bedient,
 zu verraten. Endlich ist alles wieder in Ordnung. Nun schaut er sich um und
@@ -768,7 +768,7 @@ heimelich war es, wenn wir nach der Tagesarbeit dahergefahren kamen und diesen
 Rauch aufsteigen sahen! Es ist ja im Grunde herzlich wenig, und doch sagt es so
 unendlich viel. Mit Lindström zog außer dem „täglichen Brot“ auch Licht und Luft
 — beides Dinge, auf die er besonders viel hielt — bei uns ein. Zuallererst
-stellte er die Luxrlampe auf und schaffte uns dadurch eine Beleuchtung, die zum
+stellte er die Luxlampe auf und schaffte uns dadurch eine Beleuchtung, die zum
 Wohlbehagen und zur Bequemlichkeit während des langen Winters sehr viel beitrug.
 Für Luft sorgte er uns auch, wobei ihm Stubberud behilflich war. Diese beiden
 miteinander verschafften uns während des ganzen Aufenthalts eine ausgezeichnet
@@ -1067,7 +1067,7 @@ Bei der „Abfahrt“ hielten wir an, denn hier mußten wir uns von unseren Kame
 trennen. Keiner von uns war besonders sentimental angelegt; ein ehrlicher
 Händedruck und ein Lebewohl, damit schieden wir.
 
-:::: { .break-before .wrap-100  }
+:::: { .break-before .wrap-90  }
 ![Kapitän Nilsen häutet einen Seehund ab.](Die_Eroberung_des_Suedpols_Vol_I_309.jpg "Kapitän Nilsen häutet einen Seehund ab."){#b309}
 ::::
 
@@ -2218,7 +2218,6 @@ Gewicht dieser Vorräte belief sich auf 620 kg.
 :::: align-center
 ****
 ::::
-
 
 #### **Anmerkungen** {.break-before .unnumbered}
 
