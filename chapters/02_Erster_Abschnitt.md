@@ -2673,7 +2673,7 @@ warm zu erhalten.“
 ::::
 
 &nbsp;9. Januar. „Unser letzter Marsch südwärts ist zu Ende. Wir haben getan,
-was wir konnten. Das Ergebnis ist 88° 28' s. Br. und 162° ö. L.
+was wir konnten. Das Ergebnis ist 88° 23' s. Br. und 162° ö. L.
 
 Der Wind legte sich morgens 1 Uhr. Um 4 Uhr machten wir uns auf den Weg mit der
 Flagge, einem messingnen Zylinder voll Briefmarken und Briefen,

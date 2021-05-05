@@ -62,7 +62,7 @@ der kleinen Menschen so wohltuende Nebel, in dem alles verschwindet, was groß
 und hervorragend ist. Da — ganz unerwartet dringt die helle Frühlingssonne durch
 die Nebelschicht!
 
-Eine neue Botschaft ist da! Die Leute waren wieder starr —sie sehen in die Höhe:
+Eine neue Botschaft ist da! Die Leute waren wieder starr — sie sehen in die Höhe:
 Hoch über ihnen glänzt eine Tat, ein Mann — Jubel erfüllt die Herzen; — die
 Augen leuchten mit den Fahnen um die Wette.
 
@@ -172,7 +172,7 @@ hielten, daß der Fram unmöglich hindurchkommen könnte. Und beide Male wurde d
 Fahrt mit einer Schnelligkeit und Sicherheit ausgeführt, wie wenn das Schiff
 eine stehende Straße zurückgelegt hätte. Der Baumeister des Fram, der prächtige
 Colin Archer^[^0009]^, kann mit Fug und Recht stolz darauf sein, wie sein „Kind“ auch
-diese Aufgabe gelöst hat — dieses Schiff, das am weitesten nordund am weitesten
+diese Aufgabe gelöst hat — dieses Schiff, das am weitesten nord- und am weitesten
 südwärts auf unserer Erde vorgedrungen ist. Aber Kapitän Nilsen und seine Leute
 an Bord des Fram haben noch mehr getan, sie haben eine Forschungsreise
 ausgeführt, die in Beziehung auf wissenschaftlichen Wert allem gleichgestellt

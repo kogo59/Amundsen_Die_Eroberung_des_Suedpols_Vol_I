@@ -1327,7 +1327,7 @@ Allernotwendigste. Suppen wurden vom Speisezettel verbannt, denn sie
 verschlangen zu viel von dem kostbaren Naß. Sich in Süßwasser zu waschen, war
 verboten. Man darf aber deshalb nicht glauben, daß wir keine Gelegenheit gehabt
 hätten, uns zu waschen. O doch, wir waren reichlich mit einer Seife versehen,
-die im Seewasser einen ebenso guten Schaum er—zeugt wie im Süßwasser, und
+die im Seewasser einen ebenso guten Schaum erzeugt wie im Süßwasser, und
 dadurch konnten wir nicht allein uns selbst, sondern auch unsere Wäsche und
 Kleider ebenso rein halten wie sonst. Wenn uns ab und zu eine Sorge wegen
 unseres Wasservorrats beschleichen wollte, verschwand sie verhältnismäßig rasch
