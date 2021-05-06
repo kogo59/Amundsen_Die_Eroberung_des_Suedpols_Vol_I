@@ -7,7 +7,7 @@
 
 ::: justified
 
-**W**en der Entdecker den Sieg gewonnen hat, jubeln ihm bei seiner Heimkehr alle
+**W**enn der Entdecker den Sieg gewonnen hat, jubeln ihm bei seiner Heimkehr alle
 entgegen. Wir sind alle stolz auf die vollendete Tatsache, für unser Volk — für
 die ganze Menschheit! Es ist uns, als hätten wir eine neue Feder auf unserem
 Hut und als hätten wir sie billig erworben.
