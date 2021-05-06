@@ -1,9 +1,9 @@
-# Transhimalaja. Dritter Band.
+# Die Eroberung des Suedpols. Erster Band.
 
 This is a git repository of the source files for the book
 "Die Eroberung des Suedpols von Roald Amundsen. Erster Band."
 
-Authors:
+Author:
 
 * [Roald Amundsen](https://de.wikipedia.org/wiki/Roald_Amundsen) (1872—1928)
 
