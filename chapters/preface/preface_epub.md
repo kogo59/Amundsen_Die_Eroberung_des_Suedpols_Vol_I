@@ -49,7 +49,7 @@ ins Deutsche von Pauline Klaiber
 :::
 
 :::: { .fs-xxs .align-center }
-Mit 300 Abbildungen, Vierfarbdruckbildern<br />
+Mit 300 Abbildungen, 8 Vierfarbdruckbildern<br />
 nach Olgemälden von Prof. W. L. Lehmann<br />
 und 15 Karten und Plänen
 ::::
