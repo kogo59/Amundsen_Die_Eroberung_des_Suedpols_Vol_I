@@ -1,5 +1,7 @@
 # Die Eroberung des Suedpols. Erster Band.
 
+<img align="right" height="200" src="https://user-images.githubusercontent.com/13177792/193357555-6426b19e-a835-4717-a800-993aeaa69b6d.jpg">
+
 This is a git repository of the source files for the book
 "Die Eroberung des Suedpols von Roald Amundsen. Erster Band."
 
