@@ -33,5 +33,4 @@ before January 1, 1925.
 # Sources
 Die Eroberung des Suedpols. Erster Band. [Hathi-Trust](https://babel.hathitrust.org/cgi/pt?id=msu.31293106015153&view=1up&seq=9)
 
-# ePUB
-Die Eroberung des Suedpols. Erster Band. [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=339250)
+
