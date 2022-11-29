@@ -2,6 +2,8 @@
 
 <img align="right" height="200" src="https://user-images.githubusercontent.com/13177792/193357555-6426b19e-a835-4717-a800-993aeaa69b6d.jpg">
 
+<img align="right" height="200" src="https://user-images.githubusercontent.com/13177792/193357555-6426b19e-a835-4717-a800-993aeaa69b6d.jpg">
+
 This is a git repository of the source files for the book
 "Die Eroberung des Suedpols von Roald Amundsen. Erster Band."
 
@@ -35,3 +37,6 @@ before January 1, 1925.
 
 # Sources
 Die Eroberung des Suedpols. Erster Band. [Hathi-Trust](https://babel.hathitrust.org/cgi/pt?id=msu.31293106015153&view=1up&seq=9)
+
+# ePUB
+Die Eroberung des Suedpols. Erster Band. [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=339250)
