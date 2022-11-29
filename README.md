@@ -1,5 +1,7 @@
 # Die Eroberung des Suedpols. Erster Band.
 
+<img align="right" height="200" src="https://user-images.githubusercontent.com/13177792/193357555-6426b19e-a835-4717-a800-993aeaa69b6d.jpg">
+
 This is a git repository of the source files for the book
 "Die Eroberung des Suedpols von Roald Amundsen. Erster Band."
 
@@ -16,8 +18,11 @@ Illustrator:
 * [W. L. Lehmann](https://de.wikipedia.org/wiki/Wilhelm_Ludwig_Lehmann) (1861—1932)
 
 
-
 # Licenses
+The authors died in 1928, 1944, 1932 so this work is in the public domain in its country of
+origin and other countries and areas where the copyright term is the author's life
+plus 80 years or fewer.
+
 This work is in the public domain in the United States because it was
 published (or registered with the U.S. Copyright Office)
 before January 1, 1925.
@@ -30,6 +35,3 @@ before January 1, 1925.
 
 # Sources
 Die Eroberung des Suedpols. Erster Band. [Hathi-Trust](https://babel.hathitrust.org/cgi/pt?id=msu.31293106015153&view=1up&seq=9)
-
-# ePUB
-Die Eroberung des Suedpols. Erster Band. [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=339250)
