@@ -177,7 +177,7 @@ einzuschränken. In allem zeigt Cook bei der Ausrüstung seiner Schiffe so viel
 Sorgfalt und Umsicht, daß man gleich die Überzeugung bekommt, daß hier der
 rechte Mann für das schwierige Unternehmen gefunden worden war.
 
-:::: { .break-before  .wrap-60 }
+:::: {   .wrap-60 }
 ![J. Cook.](Die_Eroberung_des_Suedpols_Vol_I_032.jpg "J. Cook"){#b032}
 ::::
 
@@ -195,7 +195,7 @@ dieser Punkt 500 km von der Stelle entfernt ist, wo Bouvet Land gesehen zu haben
 meinte, stellte Cook damit fest, daß das in Frage stehende Land — wenn es
 vorhanden war — jedenfalls nicht mit dem großen südlichen Erdteil zusammenhing.
 
-:::: { .break-before  .wrap-100 }
+:::: {    .wrap-100 }
 ![Scott-Felsen auf König Eduard VII.-Land.](Die_Eroberung_des_Suedpols_Vol_I_033.jpg "Scott-Felsen auf König Eduard VII.-Land."){#b033}
 ::::
 
@@ -306,11 +306,11 @@ Februar war die Weltumsegelung auf dieser hohen südlichen Breite vollendet, und
 mit Recht wird Kapitän Fabian Gottlieb von Bellingshausen unter die größten
 antarktischen Forscher gerechnet.
 
-:::: { .break-before  .wrap-60 }
+:::: {    .wrap-60 }
 ![Fabian Gottlieb von Bellingshausen.](Die_Eroberung_des_Suedpols_Vol_I_038.jpg "Fabian Gottlieb von Bellingshausen."){#b038}
 ::::
 
-:::: { .break-before  .wrap-100 }
+:::: {    .wrap-100 }
 ![Bellingshausens Schiffe „Wostok“ und „Mirni“ bei der Macquarie-Insel.](Die_Eroberung_des_Suedpols_Vol_I_039.jpg "Bellingshausens Schiffe „Wostok“ und „Mirni“ bei der Macquarie-Insel."){#b039}
 ::::
 
@@ -319,7 +319,7 @@ Seine erste Reise unternahm er von Leith aus auf dem Seehundfänger
 „Jane“ von 160 Tonnen. Süd-Shetland wurde genau untersucht und aufgenommen. Er
 gilt auch als Entdecker der Orkneyinseln^[^0226]^.
 
-:::: { .break-before  .wrap-60 }
+:::: {    .wrap-60 }
 ![Jakob Weddell.](Die_Eroberung_des_Suedpols_Vol_I_040.jpg "Jakob Weddell."){#b040}
 ::::
 
@@ -339,7 +339,7 @@ nirgends eine Spur von Eis zu entdecken.
 Am 20. Februar 1822 erreichte er die höchste südliche Breite 74° 15´; die
 frühere höchste Leistung Cooks mit 71° 10´ war also glänzend überholt.
 
-:::: { .break-before  .wrap-100 }
+:::: {    .wrap-100 }
 ![Jakob Weddells Schiffe „Jane“ und „Beaufoy“ auf dem 68.°, Februar 1823.](Die_Eroberung_des_Suedpols_Vol_I_041.jpg "Jakob Weddells Schiffe „Jane“ und „Beaufoy“ auf dem 68.°, Februar 1823."){#b041}
 ::::
 
@@ -398,7 +398,7 @@ gelungen war. — Das Ludwig Philipp-Land^[^0235]^ wurde am 27. Februar 1838 ent
 benannt, desgleichen die Joinville-Inseln^[^0236]^. Viel mehr wurde in diesem Jahr nicht
 ausgeführt.
 
-:::: { .break-before  .wrap-60 }
+:::: {    .wrap-60 }
 ![Dumont d'Urville.](Die_Eroberung_des_Suedpols_Vol_I_043.jpg "Dumont d'Urville."){#b043}
 ::::
 
@@ -412,7 +412,7 @@ Inseln war es vollständig mit Schnee bedeckt. Es erhielt den Namen Adelie-Land^
 und ein Teil der westlich davon liegenden Eiswand den Namen Clarie-Küste. Es ist
 indes keine Sicherheit vorhanden, daß „Clarie-Küste“ festes Land ist.
 
-:::: { .break-before  .wrap-60 }
+:::: {    .wrap-60 }
 ![Astrolabe im Eis.](Die_Eroberung_des_Suedpols_Vol_I_044.jpg "Astrolabe im Eis."){#b044}
 ::::
 
@@ -428,7 +428,7 @@ jetzt unmöglich mehr beurteilen. Aus der Darstellung der ganzen Reise scheint
 indes doch hervorzugehen, daß es sich immerhin um ein ernstes Unternehmen
 gehandelt hat.
 
-:::: { .break-before  .wrap-100 }
+:::: {    .wrap-100 }
 ![D'Urvilles Schiffe.](Die_Eroberung_des_Suedpols_Vol_I_045a.jpg "D'Urvilles Schiffe."){#b045a}
 ::::
 
@@ -443,7 +443,7 @@ als irgendein anderer den Weg zum Südpol eröffnet hat, finde ich es am
 richtigsten, ihm eine eingehendere Besprechung zu widmen, als irgendeinem der
 vorhergehenden Forscher.
 
-:::: { .break-before  .wrap-60 }
+:::: {    .wrap-60 }
 ![Jakob Clark Roß.](Die_Eroberung_des_Suedpols_Vol_I_046.jpg "Jakob Clark Roß."){#b046}
 ::::
 
@@ -495,7 +495,7 @@ Ankerplatz. Doch bald wurden sie durch furchtbare Stürme mit schwerer See
 voneinander getrennt, und erst am 16. August trafen sie wieder in Hobart
 zusammen.
 
-:::: { .break-before  .wrap-100 }
+:::: {    .wrap-100 }
 ![Die Schiffe von Roß, Erebus und Terror, im Packeis.](Die_Eroberung_des_Suedpols_Vol_I_048.jpg "Die Schiffe von Roß, Erebus und Terror, im Packeis."){#b048}
 ::::
 
@@ -578,7 +578,7 @@ die Schraube in Bewegung setzen und uns aus der ersten entgegentretenden
 Schwierigkeit hinauswinden. Helden waren jene Menschen, Helden in des Wortes
 höchster Bedeutung!
 
-:::: { .break-before  .wrap-70 }
+:::: {    .wrap-70 }
 ![Possession-Insel.](Die_Eroberung_des_Suedpols_Vol_I_051.jpg "Possession-Insel."){#b051}
 ::::
 
@@ -623,7 +623,7 @@ zusteuern konnten. Nun wurde ihnen zum erstenmal ein wunderbarer Anblick zuteil
 3600 bis 4200 m erstreckt. Am 17. wurde die Coulman-Insel^[^0248]^ entdeckt und Roß'
 späterem Schwiegervater zu Ehren benannt.
 
-:::: { .break-before  .wrap-100 }
+:::: {    .wrap-100 }
 ![Die Possession-Insel und (hinten) der Sabine-Berg, entdeckt am 11. Januar 1841.](Die_Eroberung_des_Suedpols_Vol_I_053.jpg "Die Possession-Insel und (hinten) der Sabine-Berg, entdeckt am 11. Januar 1841."){#b053}
 ::::
 
@@ -637,7 +637,7 @@ Die Franklin-Insel^[^0249]^ wurde am 27. Januar auf 76° 8´ s. Br. entdeckt. Ei
 wurde gemacht, die Insel in Besitz genommen, und eine reiche Sammlung von allem,
 was sich da fand, an Bord geschafft.
 
-:::: { .break-before  .wrap-100 }
+:::: {    .wrap-100 }
 ![Vulkanberg Erebus, den Roß am 28. Januar 1841 sah.](Die_Eroberung_des_Suedpols_Vol_I_055.jpg "Vulkanberg Erebus, den Roß am 28. Januar 1841 sah."){#b055}
 ::::
 
@@ -660,7 +660,7 @@ konnte, war, zu versuchen, darum herumzukommen. Und nun begann die erste
 Untersuchung der Wand der großen antarktischen Eisplatte, die später den Namen
 Roßplatte erhielt.
 
-:::: { .break-before  .wrap-100 }
+:::: {    .wrap-100 }
 ![Kante der Eisplatte unter 78° 15´ s. Br.](Die_Eroberung_des_Suedpols_Vol_I_056.jpg "Kante der Eisplatte unter 78° 15´ s. Br."){#b056}
 ::::
 
@@ -714,7 +714,7 @@ im Treibeis lag Roß unverdrossen seinen wissenschaftlichen Arbeiten ob und
 benutzte jede Gelegenheit, seine Ausbeute auf diesem Gebiet zu vermehren; ganz
 besondere Aufmerksamkeit widmete er den magnetischen Untersuchungen.
 
-:::: { .break-before  .wrap-100 }
+:::: {    .wrap-100 }
 ![Pinguinfang.](Die_Eroberung_des_Suedpols_Vol_I_058.jpg "Pinguinfang."){#b058}
 ::::
 
@@ -729,7 +729,7 @@ gewannen so einigermaßen Sicherheit. Am 18. Januar erhob sich indes ein heftige
 Südwind, der gegen Mitternacht in einen nordwestlichen Sturm umschlug, und nun
 war die Lage äußerst ernst.
 
-:::: { .break-before  .wrap-60 }
+:::: {    .wrap-60 }
 ![Erebus-Krater, 275 m tief und 800 m breit.](Die_Eroberung_des_Suedpols_Vol_I_059.jpg "Erebus-Krater, 275 m tief und 800 m breit."){#b059}
 ::::
 
@@ -768,7 +768,7 @@ und die Mannschaft, zeigten die ganze Zeit die größte Geistesgegenwart,
 Manneszucht und Todesverachtung, kurz ein des britischen Seemanns würdiges
 Benehmen.
 
-:::: { .break-before  .wrap-100 }
+:::: {    .wrap-100 }
 ![Seehundjagd.](Die_Eroberung_des_Suedpols_Vol_I_062.jpg "Seehundjagd."){#b062}
 ::::
 
@@ -908,7 +908,7 @@ strich nach Nordosten, und erreichte an einzelnen Stellen nur 24 m, so daß man
 da zum ersten Male vom Gipfel des Mastbaums aus gut über den Eisrand hinwegsehen
 konnte.
 
-:::: { .break-before  .wrap-100 }
+:::: {    .wrap-100 }
 ![Der Zusammenstoß von Erebus und Terror mit dem Eisberg, 15. März 1842.](Die_Eroberung_des_Suedpols_Vol_I_067.jpg "Der Zusammenstoß von Erebus und Terror mit dem Eisberg, 15. März 1842."){#b067}
 ::::
 
@@ -1011,7 +1011,7 @@ hatten wir das westliche Ende des Eisbergs erreicht! Nur eines bewahrte uns
 davor, vollständig zermalmt und zerschmettert zu werden, nämlich die Wucht, mit
 der die von dem Eisberg zurückbrandenden Wogen auch uns immer wieder mit zurückrissen.
 
-:::: { .break-before  .wrap-100 }
+:::: {    .wrap-100 }
 ![„Erebus“ und „Terror“ nach dem Zusammenstoß, 15. März 1842.](Die_Eroberung_des_Suedpols_Vol_I_071.jpg "„Erebus“ und „Terror“ nach dem Zusammenstoß, 15. März 1842."){#b071}
 ::::
 
@@ -1163,7 +1163,7 @@ Forschungsergebnis mit nach Hause. An Bord der „Balaena“ befand sich `Dr.
 Wilhelm S. Bruce`^[^0260]^. Es ist das erste, aber nicht das letzte Mal, daß wir
 diesen Mann auf dem Wege nach dem Süden antreffen.
 
-:::: { .break-before  .wrap-60 }
+:::: {    .wrap-60 }
 ![Geh. Admiralitätsrat Georg von Neumeyer.](Die_Eroberung_des_Suedpols_Vol_I_077.jpg "Geh. Admiralitätsrat Georg von Neumeyer."){#b077}
 ::::
 
@@ -1179,7 +1179,7 @@ Larsen die erste Nachricht. Und von allergrößter Bedeutung sind die ersten
 Versteinerungen aus antarktischem Gebiet, die er von der Seymour-Insel mit nach
 Hause gebracht hat.
 
-:::: { .break-before  .wrap-60 }
+:::: {    .wrap-60 }
 ![Kapitän C. A. Larsen.](Die_Eroberung_des_Suedpols_Vol_I_077a.jpg "Kapitän C. A. Larsen."){#b077a}
 ::::
 
@@ -1194,7 +1194,7 @@ es ist nicht zu bezweifeln, daß Kapitän Evensen, wenn er frei gewesen
 wäre, Gelegenheit zu noch ausgezeichneterer Arbeit gehabt hätte, als er bisher
 mit seiner unternehmenden Kühnheit geleistet hatte.
 
-:::: { .break-before  .wrap-100 }
+:::: {    .wrap-100 }
 ![Der „Antarktik“ im südlichen Eismeer.](Die_Eroberung_des_Suedpols_Vol_I_078.jpg "Der „Antarktik“ im südlichen Eismeer."){#b078}
 ::::
 
@@ -1205,7 +1205,7 @@ seinen Fuß auf den sechsten Weltteil, das große Festland „Antarktika“ setz
 
 Dies geschah im Januar 1895.
 
-:::: { .break-before  .wrap-100 }
+:::: {    .wrap-100 }
 ![Danco-Land.](Die_Eroberung_des_Suedpols_Vol_I_079.jpg "Danco-Land."){#b079}
 ::::
 
@@ -1230,7 +1230,7 @@ später die magnetischen Beobachtungen übernahm, erwarb er sich durch seine
 meisterhafte Tätigkeit auf diesem Gebiete große Verdienste, und Lecomte wird
 immer als die treibende Kraft dieser Forschungsreise betrachtet werden.
 
-:::: { .break-before  .wrap-60 }
+:::: {    .wrap-60 }
 ![Adrian von Gerlache.](Die_Eroberung_des_Suedpols_Vol_I_080.jpg "Adrian von Gerlache."){#b080}
 ::::
 
@@ -1347,7 +1347,7 @@ vollständig genug gewesen. Ganz besonders griff der Skorbut um sich und richtet
 solche Verwüstungen an, daß schließlich jeder einzelne Mann an Bord von der
 entsetzlichen Krankheit stark mitgenommen war.
 
-:::: { .break-before  .wrap-100 }
+:::: {    .wrap-100 }
 ![Belgica im Eis.](Die_Eroberung_des_Suedpols_Vol_I_084.jpg "Belgica im Eis."){#b084}
 ::::
 
@@ -1399,7 +1399,7 @@ Wie wenig ahnten seine Gefährten, daß er in späteren Jahren als
 angesehen werden müßte. Dies ist ein psychologisches Rätsel, des Studiums wohl
 wert für den, der Lust dazu hat!
 
-:::: { .break-before  .wrap-30 .float-left }
+:::: {    .wrap-30 .float-left }
 ![Kaiserpinguin.](Die_Eroberung_des_Suedpols_Vol_I_086.jpg "Kaiserpinguin."){#b086}
 ::::
 
@@ -1433,7 +1433,7 @@ Roß-Meer hinein, beinahe 60 Jahre, nachdem Roß es verlassen hatte.
 Der Teil der Reisegenossen, der hier zu überwintern gedachte, wurde an Land
 gesetzt, das Schiff selbst überwinterte in Neuseeland.
 
-:::: { .break-before  .wrap-60  }
+:::: {    .wrap-60  }
 ![Carsten Vorchgrevink.](Die_Eroberung_des_Suedpols_Vol_I_087.jpg "Carsten Vorchgrevink."){#b087}
 ::::
 
@@ -1450,7 +1450,7 @@ Hindernis aus dem Wege geräumt hat. Welch ein Schritt vorwärts war zu
 verzeichnen, als diese Reisenden im März 1900 in die zivilisierte Welt
 zurückkehrten!
 
-:::: { .break-before  .wrap-100  }
+:::: {    .wrap-100  }
 ![Southern Croß.](Die_Eroberung_des_Suedpols_Vol_I_088.jpg "Southern Croß."){#b088}
 ::::
 
@@ -1533,7 +1533,7 @@ und sie verlief auch recht glücklich. Allerdings zeigten sich Spuren von
 Skorbut, aber durch eine verständige Behandlung gelang es, die Krankheit in den
 ersten Anfängen zu ersticken.
 
-:::: { .break-before  .wrap-60  }
+:::: {    .wrap-60  }
 ![R. F. Scott.](Die_Eroberung_des_Suedpols_Vol_I_091.jpg "R. F. Scott."){#b091}
 ::::
 
@@ -1554,7 +1554,7 @@ daß er nichts mehr leisten konnte, und von da an mußten die beiden andern die
 Schlitten allein ziehen.
 
 
-:::: { .break-before  .wrap-100  }
+:::: {    .wrap-100  }
 ![Discovery.](Die_Eroberung_des_Suedpols_Vol_I_092.jpg "Discovery."){#b092}
 ::::
 
@@ -1580,7 +1580,7 @@ Nun mußten da draußen in der öden Eisregion die Vorbereitungen zu einer zweit
 Fleisch herbeigeschafft worden war, konnte man der langen Nacht ohne Angst vor
 dem Skorbut entgegensehen.
 
-:::: { .break-before  .wrap-100  }
+:::: {    .wrap-100  }
 ![Mc Murdo-Sund.](Die_Eroberung_des_Suedpols_Vol_I_093.jpg "Mc Murdo-Sund."){#b093}
 ::::
 
@@ -1660,7 +1660,7 @@ dazwischen schob, so daß keine Rede von irgendeinem Vorwärtskommen mehr sein
 konnte. Es blieb nichts anderes übrig, als in den sauren Apfel zu beißen und an
 die Überwinterung zu denken.
 
-:::: { .break-before  .wrap-60  }
+:::: {    .wrap-60  }
 ![Professor Erich von Drygalski.](Die_Eroberung_des_Suedpols_Vol_I_096.jpg "Professor Erich von Drygalski."){#b096}
 ::::
 
@@ -1675,7 +1675,7 @@ war außerordentlich stürmisch und kalt; aber der Winterhafen in Lee von den
 großen gestrandeten Eisbergen erwies sich als recht gut, so daß die Seefahrer
 kein einziges Mal unangenehmen Überraschungen ausgesetzt waren.
 
-:::: { .break-before  .wrap-60  }
+:::: {    .wrap-60  }
 ![Dr. Otto Nordenskjöld.](Die_Eroberung_des_Suedpols_Vol_I_097.jpg "Dr. Otto Nordenskjöld."){#b097}
 ::::
 
@@ -1829,7 +1829,7 @@ Die sehr oft wiederholten Lotungen ergaben bis 22° s. Br. und 18° w. L. ziemli
 gleichmäßige Tiefe. Von da an waren die Lotungen durch den schlammigen
 Meeresgrund sehr erschwert.
 
-:::: { .break-before  .wrap-60  }
+:::: {    .wrap-60  }
 ![Dr. Wilh. S. Bruce.](Die_Eroberung_des_Suedpols_Vol_I_102.jpg "Dr. Wilh. S. Bruce."){#b102}
 ::::
 
@@ -1848,7 +1848,7 @@ Festlandes zu entschleiern. Ihm verdanken wir die genauere Kenntnis von
 Alexander I.-Land, ebenso ist die Entdeckung von Loubet-^[^0292]^
 Fallières-^[^0293]^ und Charcot-Land^[^0294]^ sein Werk.
 
-:::: { .break-before  .wrap-100  }
+:::: {    .wrap-100  }
 ![Scotia im Packeis.](Die_Eroberung_des_Suedpols_Vol_I_103.jpg "Scotia im Packeis."){#b103}
 ::::
 
@@ -1862,7 +1862,7 @@ Wasser scharfe Riffe hin, und das Meer ist mit Eisbergen übersät. Die
 Erforschung solcher Gegenden verlangt überaus tüchtige Leute und eine sehr gute
 Ausrüstung.
 
-:::: { .break-before  .wrap-60  }
+:::: {    .wrap-60  }
 ![Dr. Johann Charcot.](Die_Eroberung_des_Suedpols_Vol_I_104.jpg "Dr. Johann Charcot."){#b104}
 ::::
 
@@ -1883,7 +1883,7 @@ der Polarfahrer, der schon im ersten Jahre von der Discovery hatte zurückkehren
 müssen? Wozu wollte er denn wieder hinaus? Er hatte doch deutlich genug gezeigt,
 daß er sich für die Arbeit auf dem antarktischen Gebiet nicht eignete!
 
-:::: { .break-before  .wrap-60  }
+:::: {    .wrap-60  }
 ![Sir Ernst Shackleton.](Die_Eroberung_des_Suedpols_Vol_I_105.jpg "Sir Ernst Shackleton."){#b105}
 ::::
 
@@ -1982,7 +1982,7 @@ hinausgetrieben worden, und damit war die Eisplattenbucht mit der
 Borchgrevinkbucht zu einer einzigen überaus verschlammten Bucht vereinigt, der
 wir den Namen „Walfischbucht“ gaben.
 
-:::: { .break-before  .wrap-100  }
+:::: {    .wrap-100  }
 ![Nimrod.](Die_Eroberung_des_Suedpols_Vol_I_109.jpg "Nimrod."){#b109}
 ::::
 
@@ -2030,7 +2030,7 @@ Lebensmittel und die Ausrüstung waren an Land gebracht, die Häuser gebaut und 
 Ordnung, obgleich die Arbeit, allzuschlechten Wetters halber, mehreremal hatte
 eingestellt werden müssen.
 
-:::: { .break-before  .wrap-100  }
+:::: {    .wrap-100  }
 ![Nimrod im Eis.](Die_Eroberung_des_Suedpols_Vol_I_111.jpg "Nimrod im Eis."){#b111}
 ::::
 
@@ -2084,7 +2084,7 @@ warmen guten Hütte verbracht, und der allgemeine Gesundheitszustand war
 ausgezeichnet. Alle erwarteten ungeduldig den Anbruch des Frühlings, wo sie kühn
 und mutig wieder ausziehen könnten.
 
-:::: { .break-before  .wrap-100  }
+:::: {    .wrap-100  }
 ![Die Ponys vor dem Kohlenschlitten beim Winterlager.](Die_Eroberung_des_Suedpols_Vol_I_113.jpg "Die Ponys vor dem Kohlenschlitten beim Winterlager."){#b113}
 ::::
 
@@ -2159,7 +2159,7 @@ weite schwere Marsch über den Beardmore-Gletscher, wo sie immer nur einen
 Schlitten auf einmal vorwärts bringen konnten und also den Weg wiederholt
 zurücklegen mußten.
 
-:::: { .break-before  .wrap-100  }
+:::: {    .wrap-100  }
 ![Auf dem Marsch nach dem Erebusberg.](Die_Eroberung_des_Suedpols_Vol_I_116.jpg "Auf dem Marsch nach dem Erebusberg."){#b116}
 ::::
 
@@ -2294,7 +2294,7 @@ einige mit kahlen, steilen Wänden, andere abgerundet und mit Schnee bedeckt.
 Meiner Ansicht nach erstrecken sich diese westlichen Gebirge nach Süden bis auf
 ungefähr 86° s. Br.“
 
-:::: { .break-before  .wrap-100  }
+:::: {    .wrap-100  }
 ![Das südlichste Lager nach einem 60 stündigen Sturm.](Die_Eroberung_des_Suedpols_Vol_I_121.jpg "Das südlichste Lager nach einem 60 stündigen Sturm."){#b121}
 ::::
 
@@ -2510,7 +2510,7 @@ harte Arbeit, bis der Pol erreicht ist.“
 &nbsp;30. Dezember. „Heute haben wir nur 7 km zurückgelegt, weil wir um 11 Uhr
 vormittags schon aufhören mußten.“
 
-:::: { .break-before  .wrap-100  }
+:::: {    .wrap-100  }
 ![Wild, Shackleton, Marschall, Adams.](Die_Eroberung_des_Suedpols_Vol_I_129.jpg "Wild, Shackleton, Marschall, Adams."){#b129}
 ::::
 
@@ -2668,7 +2668,7 @@ Richtung machen; wir sind nur unzulänglich ernährt, und es fällt uns sehr
 schwer, uns zwischen den mageren Mahlzeiten in dieser Höhe — 3540 m ü. d. M. —
 warm zu erhalten.“
 
-:::: { .break-before  .wrap-100  }
+:::: {    .wrap-100  }
 ![Shackletons südlichster Punkt, 88° 23´, 9. Januar 1909.](Die_Eroberung_des_Suedpols_Vol_I_135.jpg "Shackletons südlichster Punkt, 88° 23´, 9. Januar 1909."){#b135}
 ::::
 
@@ -2803,9 +2803,6 @@ Aber ein kleiner Zipfel bedeckte sie doch immer noch.^[^0299]^
 :::: { .break-before  .wrap-60  }
 ![Karte der Antarktis mit den verschiedenen Forschungsreisen. <small>Gezeichnet von Ivar Refsdal.</small>](Die_Eroberung_des_Suedpols_Vol_I_140.jpg "Karte der Antarktis mit den verschiedenen Forschungsreisen."){#b140}
 ::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0200]: [*Heinrich, Prinz von Portugal*: vergleiche [Heinrich der Seefahrer](https://de.wikipedia.org/wiki/Heinrich_der_Seefahrer)]{.footnote}
 

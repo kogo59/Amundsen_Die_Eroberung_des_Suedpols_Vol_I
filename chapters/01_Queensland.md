@@ -40,7 +40,7 @@ waren. So hatten wir alles unter Dach und Fach und auch leicht zugänglich, fall
 das Wetter so kalt und stürmisch werden sollte, daß wir uns nicht hinauswagen
 konnten.
 
-:::: { .break-before  .wrap-60 }
+:::: { .wrap-60 }
 ![Hüttenbau bei Framheim.](Die_Eroberung_des_Suedpols_Vol_I_010.jpg "Hüttenbau bei Framheim."){#b010}
 ::::
 
@@ -54,7 +54,7 @@ war sehr wenig Schnee vorhanden, obgleich sich offenes Wasser in der Nähe
 befand. Wir hatten gehofft, im Laufe des Winters eine höhere Temperatur
 verzeichnen zu können, aber sie hielt sich sehr niedrig.
 
-:::: { .break-before  .wrap-100 }
+:::: {  .wrap-100 }
 ![„Am 10. Februar begannen wir uns in südlicher Richtung durchzuarbeiten, um Vorratslager zu errichten.“ (S. 9.)](Die_Eroberung_des_Suedpols_Vol_I_011.jpg "„Am 10. Februar begannen wir uns in südlicher Richtung durchzuarbeiten, um Vorratslager zu errichten“"){#b011}
 ::::
 
@@ -70,7 +70,7 @@ Sonne am 24. August wieder auftauchte, beschien sie Männer an Leib und Seele
 frisch und gesund und vollkommen bereit, die Aufgabe, die gelöst werden sollte,
 in Angriff zu nehmen.
 
-:::: { .break-before  .wrap-100 }
+:::: {  .wrap-100 }
 ![Pinguine.](Die_Eroberung_des_Suedpols_Vol_I_012.jpg "Pinguine."){#b012}
 ::::
 
@@ -92,7 +92,7 @@ sich alles ausgezeichnet. Erst Mitte Oktober wurde es tatsächlich Frühling; nu
 tauchten da und dort Seehunde und Vögel auf. Die Temperatur hielt sich
 gleichmäßig zwischen 20° und 30° Kälte.
 
-:::: { .break-before  .wrap-100 }
+:::: {   .wrap-100 }
 ![Auf der Seehundjagd.](Die_Eroberung_des_Suedpols_Vol_I_013.jpg "Auf der Seehundjagd."){#b013}
 ::::
 
@@ -206,7 +206,7 @@ wir nicht das mindeste sehen; aber wir fühlten, daß wir, ganz im Gegensatz zu
 dem, was wir erwartet hatten — nämlich einen weiteren Aufstieg — nun rasch
 abwärts stiegen.
 
-:::: { .break-before .wrap-60   }
+:::: { .wrap-60   }
 ![Betty-Gipfel, 85° 7' südliche Breite. „Am nächsten Tag begann der Aufstieg“ (S. 15).](Die_Eroberung_des_Suedpols_Vol_I_017.jpg "Betty-Gipfel, 85° 7' südliche Breite."){#b017}
 ::::
 
@@ -349,11 +349,6 @@ und so dauerte die Reise sehr lange. Es geht uns allen ausgezeichnet.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0100]: [*Süd-Viktorialand*: vergleiche [Viktorialand](https://de.wikipedia.org/wiki/Viktorialand)]{.footnote}
 

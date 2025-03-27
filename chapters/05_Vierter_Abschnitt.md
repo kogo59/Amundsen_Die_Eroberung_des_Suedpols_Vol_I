@@ -48,7 +48,7 @@ Gletscherseile nennen. Auch diese, ungefähr 30 m lang und aus ganz dünnem
 seidenweichem, zur Verwendung in der Kälte besonders geeignetem Tauwerk
 hergestellt, lagen seit längerer Zeit gebrauchsfertig da.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Jagd auf die „Fleischfelsen“ (Mutter mit Jungem).](Die_Eroberung_des_Suedpols_Vol_I_265.jpg "Jagd auf die „Fleischfelsen“ (Mutter mit Jungem)."){#b265}
 ::::
 
@@ -129,7 +129,7 @@ brauchten uns wegen irgendwelcher Veränderungen nicht zu ängstigen. Außerdem
 konnte man von da aus das Schiff sehen und mit den an Bord zurückgebliebenen
 Genossen in beständiger Verbindung stehen; das war ein weiterer Vorteil.
 
-:::: { .wrap-70  .break-before }
+:::: { .wrap-70    }
 ![Anlage des Hundelagers.](Die_Eroberung_des_Suedpols_Vol_I_268.jpg "Anlage des Hundelagers."){#b268}
 ::::
 
@@ -188,7 +188,7 @@ hätten, erweckte natürlich allgemein große Befriedigung. Allen hatte es im
 stillen vor einer langen, mühseligen Beförderung der Ausrüstung und der
 Lebensmittel gegraut.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Karte der Walfischbucht.](Die_Eroberung_des_Suedpols_Vol_I_271.jpg "Karte der Walfischbucht."){#b271}
 ::::
 
@@ -224,7 +224,7 @@ zurückgelegtem Kopf und den fleischigsten Teil ihres Körpers hoch erhoben,
 vorwärts. Alles schien zu gelingen. Ich gluckse und lache, aber noch mit einer
 gewissen Zurückhaltung.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Der Fram am Kap Mannskopf.](Die_Eroberung_des_Suedpols_Vol_I_272.jpg "Der Fram am Kap Mannskopf."){#b272}
 ::::
 
@@ -252,7 +252,7 @@ vorher. Endlich gab der Gewaltige nach und kehrte zurück. „Verflucht zäh!“
 ich ihn sagen, als er wieder an Bord kam. Ich unterdrückte ein Lächeln, denn ich
 wollte den guten Burschen nicht kränken.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Seehundjagd an der Eiskante.](Die_Eroberung_des_Suedpols_Vol_I_273.jpg "Seehundjagd an der Eiskante."){#b273}
 ::::
 
@@ -269,7 +269,7 @@ blendenden Licht im Süden? Verlockend und anziehend liegst du vor uns, du
 geheimnisvolle Schöne! Ja, wir hören dich rufen, und wir werden schon kommen!
 Den Kuß sollst du erhalten, und wenn wir ihn mit dem Leben bezahlen müßten!
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Eine Ruhepause während des Ausladens.](Die_Eroberung_des_Suedpols_Vol_I_275.jpg "Eine Ruhepause während des Ausladens."){#b275}
 ::::
 
@@ -331,7 +331,7 @@ nicht vorwärts! Es sah wirklich verzweifelt aus. Endlich, mit vereinten Kräfte
 von sämtlichen Tieren und Menschen, kamen wir doch wieder in Gang. Aber ein
 Triumph konnte unser erstes Erlebnis gewiß nicht genannt werden.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![An der Ballon-Bucht.](Die_Eroberung_des_Suedpols_Vol_I_277.jpg "An der Ballon-Bucht."){#b277}
 ::::
 
@@ -372,7 +372,7 @@ schon wieder heraus. Aber wir empfanden das nicht allzu hart, denn wir waren
 alle voller Eifer, die Arbeit so rasch wie möglich zu vollenden, damit der Fram
 wieder abfahren könnte.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Unser erstes Lager auf der Eisplatte.](Die_Eroberung_des_Suedpols_Vol_I_279.jpg "Unser erstes Lager auf der Eisplatte."){#b279}
 ::::
 
@@ -412,7 +412,7 @@ Zeltwächter hatte auch noch die Aufgabe, die Mahlzeiten zu kochen und das Zelt
 in Ordnung zu halten. Diese Stellung war außerordentlich gesucht, und man riß
 sich darum, denn sie brachte etwas Abwechslung in das ewige Hin- und Herfahren.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Die Lebensmittel werden nach Framheim geschafft.](Die_Eroberung_des_Suedpols_Vol_I_281.jpg "Die Lebensmittel werden nach Framheim geschafft."){#b281}
 ::::
 
@@ -448,7 +448,7 @@ hörten. Natürlich liefen wir in aller Eile hinaus. Da — wenige Meter von uns
 Türe entfernt — saß ein großer Kaiserpinguin und verbeugte sich einmal ums
 andere.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Die Balken zum Fußboden des Hauses werden gelegt.](Die_Eroberung_des_Suedpols_Vol_I_283.jpg "Die Balken zum Fußboden des Hauses werden gelegt."){#b283}
 ::::
 
@@ -482,7 +482,7 @@ abgezogen, und das Fleisch mit dem Proviant und dem Baumaterial zugleich
 hinaufgefahren. An diesen Tagen schwelgten die Hunde in frischem Fleisch, und
 sie durften fressen, soviel sie wollten.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Hausbau.](Die_Eroberung_des_Suedpols_Vol_I_285.jpg "Hausbau."){#b285}
 ::::
 
@@ -584,7 +584,7 @@ Schiff kehrte an seinen früheren Platz zurück, den es indes erst am Abend
 erreichte. Es war, wie wir es uns gedacht hatten — der Fram hatte des hohen
 Seegangs wegen hinausfahren müssen.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Framheim im Bau.](Die_Eroberung_des_Suedpols_Vol_I_288.jpg "Framheim im Bau."){#b288}
 ::::
 
@@ -610,7 +610,7 @@ erinnerten auch wirklich an solche. An diesem Sonntag gingen wir alle, mit
 Ausnahme der notwendigen Zeltwächter in beiden Lagern, an Bord und ließen es uns
 wohl sein. Wir hatten die ganze Woche hindurch hart genug arbeiten müssen.
 
-:::: { .wrap-70  .break-before }
+:::: { .wrap-70    }
 ![Wie man geschickt an Land geht.](Die_Eroberung_des_Suedpols_Vol_I_290.jpg "Wie man geschickt an Land geht."){#b290}
 ::::
 
@@ -650,7 +650,7 @@ nichts als Eis! Aber beides ist schön, und ich überlegte, um mich blickend, wa
 ich vorziehen würde. Meine Gedanken schweiften weit umher — in einer Sekunde
 über viele tausend Meilen hin. Aber der Wald trug den Sieg davon.
 
-:::: { .wrap-70  .break-before }
+:::: { .wrap-70    }
 ![Getrocknete Fische werden ins Lager geschafft.](Die_Eroberung_des_Suedpols_Vol_I_291.jpg "Getrocknete Fische werden ins Lager geschafft."){#b291}
 ::::
 
@@ -674,7 +674,7 @@ sie geweckt werden soll, scheint nur noch eine Frage der Zeit zu sein. Eine
 frohe Schar war es, die sich am ersten Abend in der Hütte versammelte und bei
 Grammophonmusik das Hoch auf die Zukunft ausbrachte.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Unser Lager (Mondscheinbild).](Die_Eroberung_des_Suedpols_Vol_I_293.jpg "Unser Lager (Mondscheinbild)."){#b293}
 ::::
 
@@ -742,7 +742,7 @@ der Furcht vor Schlägen, und in einem solchen Fall zeigt sich's dann, daß dies
 Grundlage zu schwach ist. Die Freßgier überwindet die Angst vor den Schlägen,
 und das Ergebnis ist — ein Biß.
 
-:::: { .wrap-70  .break-before }
+:::: { .wrap-70    }
 ![Eine Ecke in unserer Küche.](Die_Eroberung_des_Suedpols_Vol_I_295.jpg "Eine Ecke in unserer Küche."){#b295}
 ::::
 
@@ -757,7 +757,7 @@ außerordentlicher Gewissenhaftigkeit und Tüchtigkeit allein vor, bis er im Mai
 1912 in Hobart wieder einen Gehilfen bekam. Das war eine brave Leistung für
 einen Burschen von zwanzig Jahren! Hätten wir nur recht viele seines Schlages!
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Willkommener Besuch in Framheim.](Die_Eroberung_des_Suedpols_Vol_I_296.jpg "Willkommener Besuch in Framheim."){#b296}
 ::::
 
@@ -933,7 +933,7 @@ war kein Ende. Der Zustand dauerte allerdings nicht lange, schon nach wenigen
 Stunden waren wir wieder frisch und gesund, aber es war doch ein merkwürdiger
 Vorfall!
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Die Terra Nova verläßt uns.](Die_Eroberung_des_Suedpols_Vol_I_303.jpg "Die Terra Nova verläßt uns."){#b303}
 ::::
 
@@ -969,7 +969,7 @@ Mann, der diesen Befehl erhielt. Einen tüchtigeren, ehrlicheren ersten Offizier
 hätte ich nicht haben können, und in seinen Händen war der Fram sicher, das
 wußte ich.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Hunde auf der Eisplatte.](Die_Eroberung_des_Suedpols_Vol_I_304.jpg "Hunde auf der Eisplatte."){#b304}
 ::::
 
@@ -1027,7 +1027,7 @@ schwarzen Wimpeln versehene Bambusstangen zum Bezeichnen des Wegs. An weiterer
 Ausrüstung führten wir noch zwei Dreimännerzelte mit, vier einschläfrige
 Schlafsäcke und die notwendigen Küchengeräte.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Rast auf dem Weg zum Pol.](Die_Eroberung_des_Suedpols_Vol_I_307.jpg "Rast auf dem Weg zum Pol."){#b307}
 ::::
 
@@ -1067,7 +1067,7 @@ Bei der „Abfahrt“ hielten wir an, denn hier mußten wir uns von unseren Kame
 trennen. Keiner von uns war besonders sentimental angelegt; ein ehrlicher
 Händedruck und ein Lebewohl, damit schieden wir.
 
-:::: { .break-before .wrap-90  }
+:::: {   .wrap-90  }
 ![Kapitän Nilsen häutet einen Seehund ab.](Die_Eroberung_des_Suedpols_Vol_I_309.jpg "Kapitän Nilsen häutet einen Seehund ab."){#b309}
 ::::
 
@@ -1116,7 +1116,7 @@ diese Zickzacklinien nur, um ihn zu ärgern; darum enthält, wie gesagt, der Zur
 „Dummkopf!“ Ja, so ist es, ich habe nach beiden Seiten hin meine Erfahrungen
 gemacht.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Nach beendigtem Tagesmarsch.](Die_Eroberung_des_Suedpols_Vol_I_311.jpg "Nach beendigtem Tagesmarsch."){#b311}
 ::::
 
@@ -1152,7 +1152,7 @@ Gegenden die besten Zugtiere wären, oder hätten wir besser getan, Renntiere od
 Ponys oder Kraftwagen oder Flugmaschinen oder noch andere Beförderungsmittel zu
 nehmend?
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-70   }
 ![Beförderung von Lebensmitteln.](Die_Eroberung_des_Suedpols_Vol_I_312.jpg "Beförderung von Lebensmitteln."){#b312}
 ::::
 
@@ -1269,7 +1269,7 @@ auf einem der Schlitten lag, und die Wegzeiger waren gefunden: Ob wohl schon
 irgend jemand irgendwo je den Weg mit getrockneten Fischen bezeichnet hat? Ich
 möchte es bezweifeln.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Firx und Lassesen, meine beiden Lieblingshunde.](Die_Eroberung_des_Suedpols_Vol_I_316.jpg "Firx und Lassesen, meine beiden Lieblingshunde."){#b316}
 ::::
 
@@ -1342,7 +1342,7 @@ und weiter gemacht werden. Dieses Kleidungsstück war für die ganze Reise so
 außerordentlich wichtig, daß alles versucht werden mußte, um es wirklich
 zweckentsprechend zu machen.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Ein Hundezelt von innen.](Die_Eroberung_des_Suedpols_Vol_I_320.jpg "Ein Hundezelt von innen."){#b320}
 ::::
 
@@ -1370,7 +1370,7 @@ Hunden Schnee holen, so viel man Lust hatte. Ein anderer großer Vorteil dieses
 Ganges war auch, daß man nun nicht bei Sturm und Nacht und Kälte hinausmußte, so
 oft man ein Stück Eis holen wollte. —
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Der Eingang zu den westlichen Werkstätten.](Die_Eroberung_des_Suedpols_Vol_I_321.jpg "Der Eingang zu den westlichen Werkstätten."){#b321}
 ::::
 
@@ -1399,7 +1399,7 @@ war das ja kein Unglück. Es wurde auf zwei mit 12 Hunden bespannten Schlitten
 ziemlich weit auf die Eisplatte hinaufgefahren. Der Mast ragte hoch empor und
 zeigt dadurch den Lagerplatz deutlich an.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Fleischzelt](Die_Eroberung_des_Suedpols_Vol_I_323.jpg "Fleischzelt"){#b323}
 ::::
 
@@ -1488,7 +1488,7 @@ wußte wohl, daß er schon nach kurzem da und dort Ausschau halten, oder
 sehnsüchtig den Abhang hinaufschauen und denken würde: „Ob sie nicht bald
 wiederkommen?“
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Framheim im Februar 1911.](Die_Eroberung_des_Suedpols_Vol_I_326.jpg "Framheim im Februar 1911."){#b326}
 ::::
 
@@ -1588,7 +1588,7 @@ ertragen konnten. Bei den Frühlingsfahrten merkten wir nichts von Wundsein bei
 ihnen, obgleich die Verhältnisse da eher schlimmer waren als besser.
 Wahrscheinlich waren ihre Pfoten im Lauf des Winters abgehärtet worden.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Kennzeichen für das Vorratslager auf 80° s. Br.](Die_Eroberung_des_Suedpols_Vol_I_330.jpg "Kennzeichen für das Vorratslager auf 80° s. Br."){#b330}
 ::::
 
@@ -1602,7 +1602,7 @@ auf — 45° C gesunken. Vergleicht man die Temperatur der arktischen und
 antarktischen Gegenden, so wird man sehen, daß dieser Thermometerstand wirklich
 sehr nieder war.
 
-:::: { .wrap-60 .break-before }
+:::: { .wrap-60   }
 ![Hassel, zur Arbeit angekleidet.](Die_Eroberung_des_Suedpols_Vol_I_333.jpg "Hassel, zur Arbeit angekleidet."){#b333}
 ::::
 
@@ -1763,7 +1763,7 @@ konnte ein überzähliger Schlitten an dieser Stelle vielleicht einmal willkomme
 sein. Das 2½ m hohe Vorratslager wurde mit beflaggten Bambusstangen, die weithin
 sichtbar waren, gekennzeichnet.
 
-:::: { .wrap-60 .break-before }
+:::: { .wrap-60   }
 ![Bjaaland bei dem Merkzeichen auf 82°.](Die_Eroberung_des_Suedpols_Vol_I_338.jpg "Bjaaland bei dem Merkzeichen auf 82°."){#b338}
 ::::
 
@@ -1859,7 +1859,7 @@ Musketiere starb an diesem Tag; wie Lurven ist er in den Sielen gestorben. Jens
 war sehr schlecht daran, er konnte nicht mehr fressen und wurde von Wisting
 gefahren.
 
-:::: { .wrap-60 .break-before }
+:::: { .wrap-60   }
 ![Wisting in Wintertracht.](Die_Eroberung_des_Suedpols_Vol_I_343.jpg "Wisting in Wintertracht."){#b343}
 ::::
 
@@ -2006,7 +2006,7 @@ immer in der Welt das Daheim sein mag, ob zu Wasser oder zu Land, oder auf — d
 Eisplatte! Wie wohl ließen wir's uns an diesem Abend sein, und wie gütlich taten
 wir uns an all den guten Sachen!
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Framheim im März 1911.](Die_Eroberung_des_Suedpols_Vol_I_348.jpg "Framheim im März 1911."){#b348}
 ::::
 
@@ -2088,7 +2088,7 @@ verabreicht. Ich muß offen gestehen, daß ich noch nie so gute Tage gehabt habe
 geht auch alles ausgezeichnet, und ich habe den bestimmten Eindruck, daß unser
 Unternehmen von Erfolg gekrönt sein wird.“
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Winterabend in Framheim.](Die_Eroberung_des_Suedpols_Vol_I_353.jpg "Winterabend in Framheim."){#b353}
 ::::
 
@@ -2126,7 +2126,7 @@ Dabei lag eine wunderbare Ruhe, ein tiefer Frieden über der ganzen Landschaft.
 Aber aus Framheim stieg der Rauch lustig in die Höhe und verkündigte, daß der
 viel tausendjährige Zauber gebrochen war.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Lindström mißt die Windstärke.](Die_Eroberung_des_Suedpols_Vol_I_355.jpg "Lindström mißt die Windstärke."){#b355}
 ::::
 
@@ -2189,7 +2189,7 @@ aufgefressen sein würde, war nicht ausgeschlossen. Aber diese Furcht erwies sic
 später als unbegründet. Der Hund „Cook“ war verschwunden. Hier muß ich bemerken,
 daß wir selbstverständlich auch einen „Peary“ hatten.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Framheim im April 1911.](Die_Eroberung_des_Suedpols_Vol_I_357.jpg "Framheim im April 1911."){#b357}
 ::::
 
@@ -2215,11 +2215,6 @@ Gewicht dieser Vorräte belief sich auf 620 kg.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0500]: [*Wedell-Robbe*: vergleiche [Wedellrobbe](https://de.wikipedia.org/wiki/Weddellrobbe)]{.footnote}
 

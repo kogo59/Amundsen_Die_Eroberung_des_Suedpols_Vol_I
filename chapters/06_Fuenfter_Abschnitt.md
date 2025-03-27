@@ -36,7 +36,7 @@ mußten im voraus genau überlegen, was uns die Zukunft möglicherweise bringen
 könnte, und uns beizeiten darauf vorbereiten. Hatte uns die Sonne erst einmal
 verlassen und brach die lange Dunkelheit herein, dann war es zu spät dazu.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100   }
 ![Ein Morgenbummel auf der Eiskante.](Die_Eroberung_des_Suedpols_Vol_I_360.jpg "Ein Morgenbummel auf der Eiskante."){#b360}
 ::::
 
@@ -105,7 +105,7 @@ Frauenzimmer und so viele von ihren Kleinen, als er auf einmal fassen konnte,
 daherschleppte. Unter freundlichen Ermahnungen für Kamilla konnte man dann die
 Gesellschaft im Heim verschwinden sehen.
 
-:::: { .wrap-60  .break-before }
+:::: { .wrap-60    }
 ![Seehundjagd beim Hause.](Die_Eroberung_des_Suedpols_Vol_I_363.jpg "Seehundjagd beim Hause."){#b363}
 ::::
 
@@ -197,7 +197,7 @@ wir seiner sonst sehr bald überdrüssig werden würden. Wir ließen es darum ni
 sehr oft spielen, wenn es dann aber einmal geschah, dann hatten wir auch um so
 größere Freude daran.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Am Festabend.](Die_Eroberung_des_Suedpols_Vol_I_367.jpg "Am Festabend."){#b367}
 ::::
 
@@ -249,7 +249,7 @@ sich seiner Aufgaben mit Glanz. Es gelang ihm sogar, seinen größten Kunden —
 Lindström — hinters Licht zu führen und im Lauf des Winters einen hübschen
 Haufen Kohlen zu ersparen.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Prestrud in seinem Beobachtungshaus.](Die_Eroberung_des_Suedpols_Vol_I_369.jpg "Prestrud in seinem Beobachtungshaus."){#b369}
 ::::
 
@@ -282,7 +282,7 @@ Behagen suchen konnten, als Werkstatt benutzen lassen. Ich weiß zwar wohl, daß
 das sonst allgemeiner Brauch ist, aber ich habe immer gefunden, daß er nichts
 taugt.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Eingang zur Hütte.](Die_Eroberung_des_Suedpols_Vol_I_371.jpg "Eingang zur Hütte."){#b371}
 ::::
 
@@ -320,7 +320,7 @@ eine ganze unterirdische Stadt angelegt hatten. Das war höchst wahrscheinlich
 eine der anregendsten Arbeiten, die je in der Nähe eines Polarlagers vorgenommen
 worden ist.
 
-:::: { .wrap-70  .break-before }
+:::: { .wrap-70    }
 ![Plan des Winterlagers.](Die_Eroberung_des_Suedpols_Vol_I_373.jpg "Plan des Winterlagers."){#b373}
 ::::
 
@@ -364,7 +364,7 @@ Während wir so vorwärts gruben, gruben wir gleichzeitig auch in die Tiefe, um
 das Dach nicht zu schwächen. Unten war mehr als genug Schnee zum Wegnehmen, die
 Eisplatte war wahrlich tief genug.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![„Die Schreinergenossenschaft“](Die_Eroberung_des_Suedpols_Vol_I_375.jpg "„Die Schreinergenossenschaft“"){#b375}
 ::::
 
@@ -468,7 +468,7 @@ Tageslicht kam, wurde freudig begrüßt und genau betrachtet. Schließlich wurde
 die Seehunde auf zwei Haufen getürmt, und an ihnen fanden die Hunde Arbeit genug
 für den ganzen Winter.
 
-:::: { .wrap-70  .break-before }
+:::: { .wrap-70    }
 ![Verbindungsgang in der Eisplatte zwischen dem Haus und dem Kohlenzelt.](Die_Eroberung_des_Suedpols_Vol_I_379.jpg "Verbindungsgang in der Eisplatte zwischen dem Haus und dem Kohlenzelt."){#b379}
 ::::
 
@@ -511,7 +511,7 @@ Kohlenzelt. Das war ein hochfeines Bauwerk, das seine Meister lobte. Und diese
 Arbeit lohnte sich, denn nun konnte Hassel zu jeder Zeit unter Dach Kohlen holen
 und brauchte deshalb nicht mehr ins Freie hinaus.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Die „Genossenschafter“ erweitern ihre Räume. Der Schnee wird durch ein Loch oben in der Schneedecke hinausgeschafft.](Die_Eroberung_des_Suedpols_Vol_I_380.jpg "Die „Genossenschafter“ erweitern ihre Räume. Der Schnee wird durch ein Loch oben in der Schneedecke hinausgeschafft."){#b380}
 ::::
 
@@ -542,7 +542,7 @@ auch ein Bau aus dem Boden gewachsen neben dem „Kristallpalast“. Er sah aber
 aus, als ob er Zahnweh hätte, und starb auch nach nicht allzu langer Zeit eines
 sanften Todes.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Wisting in seinem Arbeitsraum.](Die_Eroberung_des_Suedpols_Vol_I_381.jpg "Wisting in seinem Arbeitsraum."){#b381}
 ::::
 
@@ -559,7 +559,7 @@ hervorgeholt und in zwei lange Reihen gestellt, die so weit voneinander entfernt
 waren, daß sie dem Schnee freien Zutritt ließen. Diese Arbeit war in zwei Tagen
 vollendet.
 
-:::: { .wrap-70  .break-before }
+:::: { .wrap-70    }
 ![Eingang zur Intendantur.](Die_Eroberung_des_Suedpols_Vol_I_382.jpg "Eingang zur Intendantur."){#b382}
 ::::
 
@@ -587,7 +587,7 @@ dannen gezogen. Nicht als ob unsere Arbeitszeit besonders lange gewährt hätte,
 das verboten schon die Verhältnisse. Aber solange gearbeitet wurde, wurde auch
 streng gearbeitet.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Die Vorratskisten wurden ungefähr 1,5 km vom Hause entfernt gelagert.](Die_Eroberung_des_Suedpols_Vol_I_384.jpg "Die Vorratskisten wurden ungefähr 1,5 km vom Hause entfernt gelagert."){#b384}
 ::::
 
@@ -619,7 +619,7 @@ durfte die Angaben des andern hören, es hätte ihn ja in seiner Schätzung
 beeinflussen können. Deshalb mußte einer nach dem andern gleich beim Eintreten
 sein Urteil abgeben.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Die Aussicht von Framheim nach Westen.](Die_Eroberung_des_Suedpols_Vol_I_385.jpg "Die Aussicht von Framheim nach Westen."){#b385}
 ::::
 
@@ -755,7 +755,7 @@ können Sie wenigstens die nächste Umgebung unterscheiden. Wie, Sie können das
 Haus nicht sehen? Ja, das glaube ich Ihnen aufs Wort. Der Schornstein dort auf
 dem Schnee ist alles, was davon über der Eisplatte hervorragt.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Eingang zur Hütte.](Die_Eroberung_des_Suedpols_Vol_I_391.jpg "Eingang zur Hütte."){#b391}
 ::::
 
@@ -786,7 +786,7 @@ Festtag zugeht. Sie müssen mir aber versprechen, die Farben nicht gar zu dick
 aufzutragen, wenn Sie Ihren Bericht nach Hause senden. So, nun leben Sie
 einstweilen wohl!
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Lindström in der Küche.](Die_Eroberung_des_Suedpols_Vol_I_393.jpg "Lindström in der Küche."){#b393}
 ::::
 
@@ -1030,7 +1030,7 @@ Seilen hängen. Das scheint also der Trockenplatz zu sein — höchst bescheiden
 seiner Einfachheit. Unter dem Tisch stehen einige gefirnißte Kisten, aber zu was
 sie dienen, mögen die Götter wissen.
 
-:::: { .wrap-60  .break-before }
+:::: { .wrap-60    }
 ![Polarkoch Adolf Heinrich Lindström](Die_Eroberung_des_Suedpols_Vol_I_400.jpg "Polarkoch Adolf Heinrich Lindström"){#b400}
 ::::
 
@@ -1273,7 +1273,7 @@ Hundegesellschaft, auf dem Weg von Grönland, einen Monat zubringen mußte.
 Diese Untat bestand darin, daß er Lindström gehörig ins Gesäß biß. Der reine
 Spaß, wenn solch eine Bestie zubeißt — was?“
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Sport auf der Eiswand.](Die_Eroberung_des_Suedpols_Vol_I_408.jpg "Sport auf der Eiswand."){#b408}
 ::::
 
@@ -1287,7 +1287,7 @@ Vorsicht setzt“, fährt Amundsen fort. „Ich selbst trage die Spur seiner Zä
 der linken Wade, und noch verschiedene von uns sind in ähnlicher Weise
 gezeichnet. Es sind noch einige da, die alle Achtung vor ihm haben.
 
-:::: { .wrap-80  .break-before }
+:::: { .wrap-80    }
 ![Stubberud denkt an das, was er verlassen hat.](Die_Eroberung_des_Suedpols_Vol_I_409.jpg "Stubberud denkt an das, was er verlassen hat."){#b409}
 ::::
 
@@ -1322,7 +1322,7 @@ liebt, sehen Sie wohl deutlich. Sie steht meist auf den Hinterpfoten und gibt
 sich alle Mühe, mir das Gesicht zu lecken. Ich habe mich bis jetzt vergebens
 bemüht, ihr das abzugewöhnen; sie setzt ihren Kopf durch.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Die Hunde machen sich Bewegung.](Die_Eroberung_des_Suedpols_Vol_I_411.jpg "Die Hunde machen sich Bewegung."){#b411}
 ::::
 
@@ -1430,7 +1430,7 @@ große Hitze beklagen, aber wenn man Holz sägt, dann geht es ja noch an. Wir
 treten zu Hassel, der aussieht, als ob er es sehr eilig hätte, denn die
 Sägespäne fliegen nur so.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Hassel im Öllager.](Die_Eroberung_des_Suedpols_Vol_I_415.jpg "Hassel im Öllager."){#b415}
 ::::
 
@@ -1672,7 +1672,7 @@ Jetzt bin ich so neugierig, daß ich fast nicht mehr an mich halten kann. Endlic
 scheint die Frage der Sorren erledigt zu sein, und mein Führer macht Anstalten,
 weiterzugehen. Er läßt die Laterne stehen und geht auf den Vorhang zu.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Hanssen und Wisting sorren neue Schlitten.](Die_Eroberung_des_Suedpols_Vol_I_423.jpg "Hanssen und Wisting sorren neue Schlitten."){#b423}
 ::::
 
@@ -1710,7 +1710,7 @@ Nun sind wir auch hier fertig und haben augenscheinlich damit alles gesehen.
 Mein Begleiter geht an die Langwand zurück, an der die Kleider liegen, und kramt
 in diesen herum. „Kleiderparade!“ denke ich. „Kein besonderes Vergnügen!“
 
-:::: { .wrap-70  .break-before }
+:::: { .wrap-70    }
 ![Wisting in der Nähstube.](Die_Eroberung_des_Suedpols_Vol_I_425.jpg "Wisting in der Nähstube."){#b425}
 ::::
 
@@ -1758,7 +1758,7 @@ aller Kraft aneinander befestigt wurden, dann mußten die Kisten so feststehen
 wie in einem Schraubstock, und doch könnte man die Deckel bequem abnehmen. Das
 war eine höchst sinnreiche Idee, die viel Arbeit sparte.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Johansen packt im Kristallpalast Vorratskisten.](Die_Eroberung_des_Suedpols_Vol_I_427.jpg "Johansen packt im Kristallpalast Vorratskisten."){#b427}
 ::::
 
@@ -1783,7 +1783,7 @@ ist in kleine Stücke zerbrochene Schokolade hineingestopft. Wenn diese Kiste
 fertig gepackt ist, muß sie so fest sein, als bestünde sie durch und durch aus
 einem einzigen Stück Holz.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Prestrud und Hanssen beim Verschnüren der Schlitten im Kristallpalast.](Die_Eroberung_des_Suedpols_Vol_I_428.jpg "Prestrud und Hanssen beim Verschnüren der Schlitten im Kristallpalast."){#b428}
 ::::
 
@@ -1796,7 +1796,7 @@ macht der Kristallpalast den Eindruck eines großen Kolonial- und
 Fettwarengeschäfts. Pemmikan, Zwieback, Schokolade und Milchwürste liegen
 überall umher.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Johansen an der Zwiebackkiste.](Die_Eroberung_des_Suedpols_Vol_I_429.jpg "Johansen an der Zwiebackkiste."){#b429}
 ::::
 
@@ -2020,7 +2020,7 @@ und man kann dem darüber herausragenden Gesicht ansehen, daß es allmählich re
 heiß da drinnen wird. Das letzte, was ich Bjaaland noch tun sehe, ist, durch
 Pumpen zwei Primuskocher zu höchster Tätigkeit anzuspornen; dann verschwindet er.
 
-:::: { .wrap-70  .break-before }
+:::: { .wrap-70    }
 ![Hassel vor dem Dampfbad.](Die_Eroberung_des_Suedpols_Vol_I_437.jpg "Hassel vor dem Dampfbad."){#b437}
 ::::
 
@@ -2100,7 +2100,7 @@ den Schnee hoch auf und fegt ihn über Framheim hin. Aber in den Zelten liegen
 die Hunde gesättigt und befriedigt und spüren nichts von dem draußen
 herrschenden Wind und Wetter.
 
-:::: { .wrap-70  .break-before }
+:::: { .wrap-70    }
 ![Tafelschmuck in Framheim, 24. Juni 1911.](Die_Eroberung_des_Suedpols_Vol_I_441.jpg "Tafelschmuck in Framheim, 24. Juni 1911."){#b441}
 ::::
 
@@ -2258,7 +2258,7 @@ Hitze der großen Lampe denen, die in den oberen Kojen schlafen, allzulästig
 würde. Dieses Löschen ist zugleich ein kleiner Wink für die andern, daß es jetzt
 für anständige Leute Zeit sei, sich schlafen zu legen.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Stubberud macht sich's bequem.](Die_Eroberung_des_Suedpols_Vol_I_447.jpg "Stubberud macht sich's bequem."){#b447}
 ::::
 
@@ -2313,7 +2313,7 @@ hervorgeholt, einige schmauchen sogar noch ein Pfeifchen dazu. Auf diese Weise
 wird die letzte Stunde bis elf Uhr verbracht. Um elf Uhr erlöschen pünktlich die
 Lampen, und der Tag ist zu Ende.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Beim Kartenspiel.](Die_Eroberung_des_Suedpols_Vol_I_449.jpg "Beim Kartenspiel."){#b449}
 ::::
 
@@ -2410,7 +2410,7 @@ bei herrlichstem Wetter auf der Eisplatte liegen — Stille oder schwache Brise 
 wissen wir, daß Scotts Station, ungefähr 650 km westlicher, von schrecklichen
 Winden heimgesucht und er selbst dadurch an seiner Arbeit gehindert ist.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Framheim im Winter 1911/12.](Die_Eroberung_des_Suedpols_Vol_I_453.jpg "Framheim im Winter 1911/12."){#b453}
 ::::
 
@@ -2425,7 +2425,7 @@ niederste Temperatur, am 15. August 1911, war — 59° C. Während fünf Monaten
 Jahres zeigte das Thermometer — 50° C. Sobald es windete, stieg die Temperatur,
 ausgenommen bei Südwestwind, wo sie eher fiel.
 
-:::: { .wrap-70  .break-before }
+:::: { .wrap-70    }
 ![Der meteorologische Beobachtungsposten.](Die_Eroberung_des_Suedpols_Vol_I_454.jpg "Der meteorologische Beobachtungsposten."){#b454}
 ::::
 
@@ -2489,7 +2489,7 @@ aufmachen will; mit den Fingern wäre es eine höchst langwierige und mühsame
 Arbeit. Aber die Schlittenreise, die wir vorhatten, war eine ernste Sache, und
 so mußte auch alle Arbeit mit großem Ernst getan werden.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![An der Eiskante.](Die_Eroberung_des_Suedpols_Vol_I_456.jpg "An der Eiskante."){#b456}
 ::::
 
@@ -2517,7 +2517,7 @@ hindurch in ihren Renntier- und Seehundfellstiefeln, und zogen es vor, lieber
 mit den Füßen stampfen zu müssen, als sich die unter solchen Verhältnissen
 unbedingte Überlegenheit der Holzsohle zu Nutzen zu machen.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Die Schlitten werden in der Intendantur gepackt.](Die_Eroberung_des_Suedpols_Vol_I_457.jpg "Die Schlitten werden in der Intendantur gepackt."){#b457}
 ::::
 
@@ -2599,7 +2599,7 @@ aussehende „Gaberdine“ oder leichte Schilfleinwand gehabt, die sich ganz
 ausgezeichnet zu diesem Zweck geeignet hätte, aber davon war jeder Meter längst
 zu einem bestimmten Zweck verarbeitet worden, da war also nichts zu machen.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Das aufgeschlagene Zelt der Südpol-Abteilung.](Die_Eroberung_des_Suedpols_Vol_I_461.jpg "Das aufgeschlagene Zelt der Südpol-Abteilung."){#b461}
 ::::
 
@@ -2692,7 +2692,7 @@ dann schmilzt natürlich der Reif während der Nacht, und am Morgen ist alles
 durchweicht. Aber dann gebt doch ja nicht den Strümpfen die Schuld, sondern euch
 selbst!
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Arbeitsabend in der Hütte.](Die_Eroberung_des_Suedpols_Vol_I_465.jpg "Arbeitsabend in der Hütte."){#b465}
 ::::
 
@@ -2830,7 +2830,7 @@ in der Nacht draußen ließen, waren sie am Morgen verschwunden. Die Hunde
 betrachteten die Bindungen geradezu als Leckerbissen. Auch der Zehenriemen mußte
 deshalb immer abgenommen werden.
 
-:::: { .wrap-80  .break-before }
+:::: { .wrap-80    }
 ![So sah schließlich unsere Fuß- und Schneeschuhbekleidung aus.](Die_Eroberung_des_Suedpols_Vol_I_469.jpg "So sah schließlich unsere Fuß- und Schneeschuhbekleidung aus."){#b469}
 ::::
 
@@ -2956,7 +2956,7 @@ mir diese Brille schickte, kann sehr befriedigt von seiner Erfindung sein, sie
 sticht alle andern Brillen dieser Art weit aus. Nicht ein einziges Mal hatte ich
 auch nur einen Anflug von Schneeblindheit.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Die Schneebrillenausstellung.](Die_Eroberung_des_Suedpols_Vol_I_474.jpg "Die Schneebrillenausstellung."){#b474}
 ::::
 
@@ -2991,7 +2991,7 @@ Arbeit ganz besonders Fleiß und Überlegung verwendet. Das allerbeste Material
 wurde dazu verarbeitet, und der Erfolg blieb nicht aus. Zum Schluß hatten wir
 starke, schöne Geschirre für alle Hunde.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Prestrud in Wintertracht.](Die_Eroberung_des_Suedpols_Vol_I_476.jpg "Prestrud in Wintertracht."){#b476}
 ::::
 
@@ -3061,7 +3061,7 @@ nicht ganz sicher, aber Tatsache ist, daß Stubberud die List nicht mehr oft
 gelang. Diesmal jedoch bekam Funcho sein Stück Klippfisch, und damit mußte er
 sich begnügen.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![„Funcho“](Die_Eroberung_des_Suedpols_Vol_I_478.jpg "„Funcho“"){#b478}
 ::::
 
@@ -3090,7 +3090,7 @@ ruhig hinter einem Preßwall auf dem Eis und schienen sich ganz wohl zu befinden
 obwohl sie da schon 8 Tage der Nahrung entbehrten. In diesen Tagen war die
 Temperatur selten unter — 50° C gewesen. Wahrlich ein kühles Liebesidyll!
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Fertig ausgerüsteter Schlitten wird aus der Intendantur heraufgezogen.](Die_Eroberung_des_Suedpols_Vol_I_480.jpg "Fertig ausgerüsteter Schlitten wird aus der Intendantur heraufgezogen."){#b480}
 ::::
 
@@ -3296,7 +3296,7 @@ dieselbe Prozedur noch einmal durchzumachen — nein, das waren keine angenehmen
 Aussichten, und schließlich Lindström sich vor Lachen biegend unter der Tür
 stehen sehen — nein, da lieber vorwärts! Darin stimmten wir sicher alle überein.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Die zur Abfahrt bereiten Südpolschlitten.](Die_Eroberung_des_Suedpols_Vol_I_488.jpg "Die zur Abfahrt bereiten Südpolschlitten."){#b488}
 ::::
 
@@ -3411,7 +3411,7 @@ ich gedacht hatte. Aber ich bin froh, daß ich ihn versucht habe; denn nun tue
 ich es nie wieder. Die Wirkung war gleich Null, ich fühlte gar nichts, weder im
 Kopf noch in den Beinen.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Das Vorratslager auf dem 80°.](Die_Eroberung_des_Suedpols_Vol_I_492.jpg "Das Vorratslager auf dem 80°."){#b492}
 ::::
 
@@ -3454,7 +3454,7 @@ anzog und in seinen Schlafsack kroch. Aber nun kam Stubberud an die Reihe. —
 Derselbe Vorgang — dasselbe Ergebnis. Na, das war behaglich — zwei zweifelhafte
 Fersen und 75 km von Framheim entfernt!
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Eingeschneit.](Die_Eroberung_des_Suedpols_Vol_I_494.jpg "Eingeschneit."){#b494}
 ::::
 
@@ -3492,7 +3492,7 @@ diesen Zylindern auf die Hand nahm, konnte man nicht das geringste Gewicht
 wahrnehmen; wenn man einen der größten nahm und ihn zusammenpreßte, so blieb
 sozusagen nichts davon übrig. Bei — 40° C sah man sie nicht mehr.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Frühling.](Die_Eroberung_des_Suedpols_Vol_I_496.jpg "Frühling."){#b496}
 ::::
 
@@ -3591,10 +3591,6 @@ vollends auszuheilen, und dann — auf nach dem Pol!
 :::: { .wrap-100 .break-before }
 ![](Die_Eroberung_des_Suedpols_Vol_I_999.jpg "Karte der Reisewege"){#b999}
 ::::
-
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0600]: [*Stomatol*: vergleiche [Stomatol](https://en.wikipedia.org/wiki/Stomatol)]{.footnote}
 

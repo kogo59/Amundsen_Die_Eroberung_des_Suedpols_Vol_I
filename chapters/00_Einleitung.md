@@ -230,8 +230,6 @@ Und die Tat leuchtet hell für alle Zeiten.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0001]: [*Gjöa*: vergleiche [Gjøa](https://de.wikipedia.org/wiki/Gj%C3%B8a)]{.footnote}
 
 [^0002]: [*Fram*: vergleiche [Fram](https://de.wikipedia.org/wiki/Fram_(Schiff,_1892))]{.footnote}

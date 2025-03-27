@@ -52,7 +52,7 @@ weiß nicht, ob uns das einigermaßen geglückt ist, aber dessen bin ich sicher,
 daß sich von der ganzen Besatzung des Fram alle ohne Ausnahme stets mit
 Dankbarkeit an König Haakons herzliche Abschiedsworte erinnern werden.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Amundsens Haus am Bundefjord.](Die_Eroberung_des_Suedpols_Vol_I_187.jpg "Amundsens Haus am Bundefjord."){#b187}
 ::::
 
@@ -140,7 +140,7 @@ dem Rückweg in der Richtung auf Schottlands nördlichste Spitze fortgesetzt
 werden. Aus verschiedenen Gründen mußte indes dieser Plan später bedeutend
 eingeschränkt werden.
 
-:::: { .wrap-100  .break-before }
+:::: { .wrap-100    }
 ![Frischer Westwind.](Die_Eroberung_des_Suedpols_Vol_I_191.jpg "Frischer Westwind."){#b191}
 ::::
 
@@ -246,7 +246,7 @@ Die von der Fahrt mitgebrachten Wasserproben wurden der biologischen Station
 übergeben, wo sich Kutschin sofort an die Titrierung, d. h. die Bestimmung des
 Chlorgehalts machte.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Der Fram nimmt Birkenholz an Bord.](Die_Eroberung_des_Suedpols_Vol_I_195.jpg "Der Fram nimmt Birkenholz an Bord."){#b195}
 ::::
 
@@ -345,7 +345,7 @@ Da das Schiff sehr schwer beladen war, war der Afterkiel durch den schweren
 Druck auf die Unterlage etwas beschädigt worden, aber mit Hilfe eines Tauchers
 war der Schaden bald wieder behoben.
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-70   }
 ![Knut Sundbeck.](Die_Eroberung_des_Suedpols_Vol_I_199.jpg "Knut Sundbeck."){#b199}
 ::::
 
@@ -480,7 +480,7 @@ jeden einzelnen gestreichelt und getätschelt oder ein paar freundliche Worte zu
 ihm gesprochen hatte; übersah man einmal einen, so gab er sofort die
 unzweideutigsten Beweise seiner Enttäuschung.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Die Hunde tun einen guten Schlaf.](Die_Eroberung_des_Suedpols_Vol_I_203.jpg "Die Hunde tun einen guten Schlaf."){#b203}
 ::::
 
@@ -516,7 +516,7 @@ wenn ich behaupte, daß die monatelange Seereise uns viel einförmiger und
 langweiliger vorgekommen wäre, wenn wir diese unsere Mitreisenden nicht bei uns
 gehabt hätten.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Ein gebrochenes Hundebein wird geschient.](Die_Eroberung_des_Suedpols_Vol_I_205.jpg "Ein gebrochenes Hundebein wird geschient."){#b205}
 ::::
 
@@ -663,7 +663,7 @@ Erden, über das einem die Gewohnheit nicht hinweghilft. Wenn es sich öfters
 wiederholt, nimmt man es schließlich mit überlegener Ruhe hin, auch wenn die
 Finger mit der Hinterlassenschaft eines Hundes in Berührung kommen.
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-70   }
 ![Bug des Fram.](Die_Eroberung_des_Suedpols_Vol_I_211.jpg "Bug des Fram."){#b211}
 ::::
 
@@ -800,7 +800,7 @@ Mannschaft mit einigen sorgfältig zusammengescharrten Speiseresten auf seinem
 Teller bei den Hunden erscheinen sehen. Die kleinen hungrigen Mäuler, die dazu
 noch so weich waren, sollten die Abfälle bekommen.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Der erste Offizier als Tierarzt.](Die_Eroberung_des_Suedpols_Vol_I_216.jpg "Der erste Offizier als Tierarzt."){#b216}
 ::::
 
@@ -849,7 +849,7 @@ hätte diesen den Zusammenhang sofort klar gemacht. Daß er aber tatsächlich vo
 niemand vor der Zeit entdeckt wurde, kann nur damit erklärt werden, daß die
 Sache allzu naheliegend war.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Funchal auf Madeira.](Die_Eroberung_des_Suedpols_Vol_I_218.jpg "Funchal auf Madeira."){#b218}
 ::::
 
@@ -863,7 +863,7 @@ scheinen könnte, sehr bescheidenen Geschwindigkeit konnten wir etwa Mitte Janua
 1911 an der Eisplatte sein. Wie man später sehen wird, stimmte das auch
 merkwürdig genau.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Die Backbordwache auf der Landreise in Funchal.](Die_Eroberung_des_Suedpols_Vol_I_219.jpg "Die Backbordwache auf der Landreise in Funchal."){#b219}
 ::::
 
@@ -966,7 +966,7 @@ gerade dachten, weiß ich nicht, aber es wird wohl kaum die Antarktis oder der
 Südpol gewesen sein. Leutnant Nilsen brachte eine große zusammengerollte Karte
 mit, und ich bemerkte, daß diese Karte manchen fragenden Blick auf sich lenkte.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Feststellung des Chronometerstandes in Funchal.](Die_Eroberung_des_Suedpols_Vol_I_223.jpg "Feststellung des Chronometerstandes in Funchal."){#b223}
 ::::
 
@@ -1182,7 +1182,7 @@ in dieser Weise auf der Eisplatte zu erproben; aber unsere Hunde zogen so
 ausgezeichnet, daß wir es mit gutem Gewissen bei Stahl und Hickoryholz bewenden
 lassen konnten.
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-70   }
 ![Rönne fühlte sich am sichersten, wenn die Hunde einen Maulkorb trugen.](Die_Eroberung_des_Suedpols_Vol_I_231.jpg "Rönne fühlte sich am sichersten, wenn die Hunde einen Maulkorb trugen."){#b231}
 ::::
 
@@ -1219,11 +1219,11 @@ Sobald nun die Maschinen nicht in Gang waren, erwies es sich als durchaus
 genügend, wenn wir jeden Morgen ungefähr 10 Minuten lang mit der Handpumpe das
 Wasser ausschöpften. Das war die ganze „Leckerei“.
 
-:::: { .wrap-60 .break-before }
+:::: { .wrap-60   }
 ![Olaf Bjaaland](Die_Eroberung_des_Suedpols_Vol_I_233.jpg "Olaf Bjaaland"){#b233}
 ::::
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Frische Brise im Westwindgürtel.](Die_Eroberung_des_Suedpols_Vol_I_234.jpg "Frische Brise im Westwindgürtel."){#b234}
 ::::
 
@@ -1259,7 +1259,7 @@ Maschinisten; aber der immer erfinderische Sundbeck wußte auch hier Rat und
 brachte eine so verbesserte Lüftung zustande, daß man es selbst im
 Maschinenraum, den Umständen entsprechend, ganz gut aushalten konnte.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Frams Deck im Passatwind.](Die_Eroberung_des_Suedpols_Vol_I_235.jpg "Frams Deck im Passatwind."){#b235}
 ::::
 
@@ -1417,7 +1417,7 @@ geradezu rührend, und die Tiere waren wie umgewandelt. Natürlich wurden in
 diesem Fall die Plätze so gewechselt, daß die, welche sich aus eigener Neigung
 aneinander angeschlossen hatten, von nun an in derselben Koppel standen.
 
-:::: { .wrap-60 .break-before }
+:::: { .wrap-60   }
 ![Lt. Christian Prestrud](Die_Eroberung_des_Suedpols_Vol_I_240.jpg "Lt. Christian Prestrud"){#b240}
 ::::
 
@@ -1456,7 +1456,7 @@ Leutnant Giertsens Gesicht hervor, aber der Anzug und der Tanz waren höchst
 weiblich. Rönne ließ nicht nach, bis er die Dame auf dem Schoß hatte; es lebe
 die Einbildungskraft!
 
-:::: { .wrap-60 .break-before }
+:::: { .wrap-60   }
 ![Die „Dame vom Ballett“.](Die_Eroberung_des_Suedpols_Vol_I_242.jpg "Die „Dame vom Ballett“."){#b242}
 ::::
 
@@ -1488,7 +1488,7 @@ konnte das unbequeme, etwas tief hängende Sonnensegel wieder entfernt werden.
 Das war eine große Erleichterung, nun konnte man doch überall wieder aufrecht
 umhergehen.
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-70   }
 ![In Ermanglung von Damen macht Rönne ein Tänzchen mit den Hunden.](Die_Eroberung_des_Suedpols_Vol_I_243.jpg "In Ermanglung von Damen macht Rönne ein Tänzchen mit den Hunden."){#b243}
 ::::
 
@@ -1555,7 +1555,7 @@ zu werden; aber Lindström und Olsen, die beiden, die unsere Mahlzeiten unter so
 erschwerten Umständen bereiteten, nahmen die Sache von der humoristischen Seite,
 und daß sie das konnten, war ein Glück für sie und für uns auch.
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-70   }
 ![Im Gebiet des Westwindes braucht man die Schraube nicht.](Die_Eroberung_des_Suedpols_Vol_I_247.jpg "Im Gebiet des Westwindes braucht man die Schraube nicht."){#b247}
 ::::
 
@@ -1596,7 +1596,7 @@ kleinste Maß beschränkt werden, und in der Dunkelheit wird ein aufmerksamer,
 geübter Ausguck das Blinken des Eises schon aus ziemlich weiter Entfernung
 wahrnehmen können.
 
-:::: { .wrap-70 .break-before }
+:::: { .wrap-70   }
 ![An der Treibeisgrenze bei Mondschein.](Die_Eroberung_des_Suedpols_Vol_I_248.jpg "An der Treibeisgrenze bei Mondschein."){#b248}
 ::::
 
@@ -1671,7 +1671,7 @@ mißgelaunt sein, ein Schluck heißer Kaffee macht einen rasch zu einem besseren
 Menschen. Deshalb war der „Nachtwachekaffee“ eine feste Einrichtung an Bord des
 Fram.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Frisches Fleisch an Bord des Fram.](Die_Eroberung_des_Suedpols_Vol_I_251.jpg "Frisches Fleisch an Bord des Fram."){#b251}
 ::::
 
@@ -1698,7 +1698,7 @@ heiß aus der Pfanne heraus schmecke; aber davon wollte Lindström nichts wissen
 Vorläufig verschwand die Herrlichkeit hinter Schloß und Riegel, und bis auf
 weiteres mußten wir uns am Duft genügen lassen.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Unsere zum Weihnachtsabend geschmückte Kajüte.](Die_Eroberung_des_Suedpols_Vol_I_253.jpg "Unsere zum Weihnachtsabend geschmückte Kajüte."){#b253}
 ::::
 
@@ -1808,7 +1808,7 @@ sollten — und überdies alle frisch und gesund! In diesem Bewußtsein trennten
 uns am Abend in aller Freundschaft von dem Jahr 1910 mit einem Glas Grog und
 wünschten uns gegenseitig alles Gute für 1911!
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Albatros](Die_Eroberung_des_Suedpols_Vol_I_257.jpg "Albatros"){#b257}
 ::::
 
@@ -1846,7 +1846,7 @@ ein ruhiger fester Boden, und nach zweimonatlicher ununterbrochener Übung im
 „Seemannsgang“ konnten wir uns wieder ungezwungen bewegen. Schon das allein war
 ein Fest!
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Eisberg im Roßmeer.](Die_Eroberung_des_Suedpols_Vol_I_259.jpg "Eisberg im Roßmeer."){#b259}
 ::::
 
@@ -1886,7 +1886,7 @@ reichte, nach allen Seiten hin eine eisfreie Meeresfläche vor uns aus. Die
 Beobachtungen des Tages ergaben, daß wir uns auf 70° s. Br. und 180° ö. L.
 befanden.^[^0406]^
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100   }
 ![Ein Blick auf die Eiskante.](Die_Eroberung_des_Suedpols_Vol_I_260.jpg "Ein Blick auf die Eiskante."){#b260}
 ::::
 
@@ -1945,13 +1945,6 @@ daß hier sicherlich eine sehr gute Gelegenheit zum Landen war; es handelte sich
 nur noch darum, den besten Platz dazu ausfindig zu machen.
 
 :::
-
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0400]: [*Bolindermotor*: vergleiche [Bolinders Mekaniska Verkstad](https://de.wikipedia.org/wiki/Bolinders_Mekaniska_Verkstad)]{.footnote}
 

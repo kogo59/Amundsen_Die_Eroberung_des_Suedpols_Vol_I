@@ -111,7 +111,7 @@ heimkehrte und mir bei allen Vorbereitungen half, was er mit einer
 Bereitwilligkeit, Tüchtigkeit und Zuverlässigkeit tat, die ich nicht genug
 rühmen kann.
 
-:::: { .break-before .wrap-100  }
+:::: {   .wrap-100  }
 ![Kainan Maru.](Die_Eroberung_des_Suedpols_Vol_I_145.jpg "Kainan Maru."){#b145}
 ::::
 
@@ -173,7 +173,7 @@ ungeheure Vorteil in die Wagschale, daß diese Stelle mit dem Schiff
 verhältnismäßig leicht zu erreichen war. Noch nie war ein Schiff am Einfahren in
 die Walfischbucht verhindert worden.
 
-:::: { .break-before .wrap-100  }
+:::: {   .wrap-100  }
 ![Ein Teil der Eisplatte.](Die_Eroberung_des_Suedpols_Vol_I_148.jpg "Ein Teil der Eisplatte."){#b148}
 ::::
 
@@ -413,7 +413,7 @@ der Herr muß sich in Ansehen zu setzen verstehen. Wenn dieses Verhältnis einma
 fest hergestellt ist, dann ist der Hund bei den ungeheuren Entfernungen allen
 anderen Tieren als Zugtier überlegen; davon bin ich fest überzeugt.
 
-:::: { .break-before .wrap-100  }
+:::: {   .wrap-100  }
 ![Große Wäsche.](Die_Eroberung_des_Suedpols_Vol_I_157.jpg "Große Wäsche."){#b157}
 ::::
 
@@ -1184,13 +1184,6 @@ wieder, die eine Reise nach dem Südpol hin und zurück gemacht haben.
 ::::
 
 :::
-
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0300]: [*Shirase*: vergleiche [Shirase Nobu](https://de.wikipedia.org/wiki/Shirase_Nobu)]{.footnote}
 
